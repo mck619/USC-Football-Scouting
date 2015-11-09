@@ -19,7 +19,7 @@ def scrape_log(url,name):
             dd_pos = s[i].h3.string
             play_text = s[i].span.string.replace('\n', '').lstrip() #formatting play text
             (time, play_text) = play_text.split(") ",1)             #time string has a leading ( that should be removed
-            play-text = parse_play_text(play_text)
+            play_text = parse_play_text(play_text)
             if dd_pos:
                 dd_pos = dd_pos.replace('\n', '').rstrip()          #formatted
                 (dd,pos) = dd_pos.split(" at ")                     #split up into down and distance and field pos
@@ -40,32 +40,65 @@ def scrape_log(url,name):
 
 def parse_play_text(play_text):
 
+    gain = "NA"
+    ball_carrier = "NA"
+    play_type = "NA"
+
+
     if " run " in play_text:
         play_type = "RUN"
         s = play_text.split()
+        ball_carrier = s[0]+ " " + s[1]
+
         for i in range(len(s)):
             if s[i] == "for":
                 gain = s[i+1]
                 break
 
 
-    if " pass " in play_text:
+    if " pass complete " in play_text:
         play_type = "PASS"
         s = play_text.split()
         for i in range(len(s)):
             if s[i] == "for":
-                gain = s[i+1]
+                ball_carrier = s[i-2] + " " + s[i-1]
+                if s[i+1] == "no":
+                    gain == "0"
+                else:
+                    gain = s[i+1]
+                break
+
+    if " pass incomplete" in play_text:
+        play_type = "INCOMPLETE PASS"
+        s = play_text.split()
+        for i in range(len(s)):
+            if s[i] == "to":
+                ball_carrier = s[i+1] + " " + s[i+2]
                 break
 
     if " kickoff " in play_text:
         play_type = "KICKOFF"
         s = play_text.split()
-    if " timeout " in play_text:
-        play_type = "TIMEOUT"
-    if " punt " in play_text:
-        play_type = "KICKOFF"
-        s = play_text.split()
+        for i in range(len(s)):
+            if s[i] == "return":
+                ball_carrier = s[i-2] + " " + s[i-1]
 
+    if " Timeout " in play_text:
+        play_type = "TIMEOUT"
+        s = play_text.split()
+        ball_carrier = s[1]
+
+    if " punt " in play_text:
+        play_type = "PUNT"
+        s = play_text.split()
+        for i in range(len(s)):
+            if s[i] == "returns":
+                ball_carrier = s[i-2] + " " + s[i-1]
+
+    if "PENALTY" in play_text:
+        play_type = play_type + "(PENALTY)"
+
+    return play_type + ";" + gain + ";" + ball_carrier + ";" + play_text
 
 scrape_log("http://espn.go.com/college-football/playbyplay?gameId=400548172","USCvsARKST.txt")
 scrape_log("http://espn.go.com/college-football/playbyplay?gameId=400757014","USCvsIdaho.txt")
@@ -75,4 +108,4 @@ scrape_log("http://espn.go.com/college-football/playbyplay?gameId=400757045","US
 scrape_log("http://espn.go.com/college-football/playbyplay?gameId=400757053","USCvsND.txt")
 scrape_log("http://espn.go.com/college-football/playbyplay?gameId=400757058","USCvsUtah.txt")
 scrape_log("http://espn.go.com/college-football/playbyplay?gameId=400757063","USCvsCal.txt")
-scrape_log("http://espn.go.com/college-football/playbyplay?gameId=400757067","USCvsArizona.txt")'''
+scrape_log("http://espn.go.com/college-football/playbyplay?gameId=400757067","USCvsArizona.txt")

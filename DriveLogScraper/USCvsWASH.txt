@@ -1,0 +1,181 @@
+15:00 - 1st;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Tristan Vizcaino kickoff for 65 yds , Adoree' Jackson return for 20 yds to the USC 20						
+14:55 - 1st;1st and 10;USC 20;NA;NA;NA;Cody Kessler sacked by Azeem Victor for a loss of 5 yards to the USC 15						
+14:50 - 1st;2nd and 15;USC 15;RUN;5;Tre Madden;Tre Madden run for 5 yds to the USC 20						
+13:44 - 1st;3rd and 10;USC 20;NA;NA;NA;Cody Kessler pass intercepted Darren Gardenhire return for no gain to the USC 33						
+13:40 - 1st;1st and 10;USC 33;RUN;3;Dwayne Washington;Dwayne Washington run for 3 yds to the USC 30						
+13:03 - 1st;3rd and 7;USC 30;NA;NA;NA;WASHINGTON Penalty, False Start (-5 Yards) to the USC 36						
+13:03 - 1st;2nd and 7;USC 30;INCOMPLETE PASS;NA;Jaydon Mickens;Jake Browning pass incomplete to Jaydon Mickens						
+12:55 - 1st;3rd and 13;USC 36;PASS;16;Jaydon Mickens;Jake Browning pass complete to Jaydon Mickens for 16 yds to the USC 20 for a 1ST down						
+12:32 - 1st;1st and 10;USC 20;INCOMPLETE PASS;NA;NA;Jake Browning pass incomplete						
+12:14 - 1st;2nd and 10;USC 20;RUN;3;Myles Gaskin;Myles Gaskin run for 3 yds to the USC 17						
+11:41 - 1st;3rd and 7;USC 17;PASS;3;Joshua Perkins;Jake Browning pass complete to Joshua Perkins for 3 yds to the USC 14						
+11:13 - 1st;4th and 4;USC 14;NA;NA;NA;Cameron Van Winkle 31 yd FG MISSED						
+11:06 - 1st;1st and 10;USC 20;RUN;2;Justin Davis;Justin Davis run for 2 yds to the USC 22 USC Penalty, Face Mask (11 yards) (Zach Banner) to the USC 11						
+10:51 - 1st;1st and 19;USC 11;PASS;a;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for a loss of 6 yards to the USC 5						
+10:18 - 1st;2nd and 25;USC 5;INCOMPLETE PASS;NA;Isaac Whitney;Cody Kessler pass incomplete to Isaac Whitney						
+10:13 - 1st;3rd and 25;USC 5;PASS;5;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 5 yds to the USC 10						
+10:05 - 1st;4th and 20;USC 10;PUNT;NA;NA;Kris Albarado punt for 40 yds, fair catch by Dante Pettis at the 50 yard line USC Penalty, Unsportsmanlike Conduct (Cameron Smith) to the USC 35						
+10:01 - 1st;1st and 10;USC 35;INCOMPLETE PASS;NA;NA;Jake Browning pass incomplete						
+9:56 - 1st;2nd and 10;USC 35;INCOMPLETE PASS;NA;NA;Jake Browning pass incomplete						
+9:51 - 1st;3rd and 10;USC 35;INCOMPLETE PASS;NA;Dante Pettis;Jake Browning pass incomplete to Dante Pettis						
+9:45 - 1st;4th and 10;USC 35;PUNT;NA;NA;Jake Browning punt for 29 yds, downed at the USC 6						
+9:34 - 1st;1st and 10;USC 6;RUN;9;Tre Madden;Tre Madden run for 9 yds to the USC 15						
+9:18 - 1st;2nd and 1;USC 15;RUN;12;Tre Madden;Tre Madden run for 12 yds to the USC 27 for a 1ST down						
+9:06 - 1st;1st and 10;USC 27;RUN;8;Tre Madden;Tre Madden run for 8 yds to the USC 35						
+8:26 - 1st;2nd and 2;USC 35;NA(PENALTY);NA;NA;Jones II, Ronald rush for 2 yards to the USC37, fumble by Jones II, Ronald recovered by USC Jones II, Ronald at USC37, PENALTY USC illegal shift 5 yards to the USC30, NO PLAY.						
+8:09 - 1st;2nd and 7;USC 30;RUN;8;Ronald Jones;Ronald Jones II run for 8 yds to the USC 38 for a 1ST down						
+7:48 - 1st;1st and 10;USC 38;INCOMPLETE PASS;NA;Ronald Jones;Cody Kessler pass incomplete to Ronald Jones II						
+7:48 - 1st;2nd and 10;USC 38;NA;NA;NA;USC Penalty, False Start (Jalen Greene) to the USC 32						
+7:43 - 1st;2nd and 16;USC 32;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+7:36 - 1st;3rd and 16;USC 32;NA;NA;NA;Cody Kessler pass intercepted Sidney Jones return for 4 yds to the USC 21						
+7:33 - 1st;1st and 10;USC 21;RUN;no;Myles Gaskin;Myles Gaskin run for no gain to the USC 21 WASHINGTON Penalty, Offensive Holding (-10 Yards) to the USC 31						
+6:44 - 1st;1st and 20;USC 31;RUN;3;Myles Gaskin;Myles Gaskin run for 3 yds to the USC 28						
+6:30 - 1st;2nd and 17;USC 28;PASS;1;Myles Gaskin;Jake Browning pass complete to Myles Gaskin for 1 yd to the USC 27						
+5:48 - 1st;3rd and 16;USC 27;NA;NA;NA;Jake Browning pass intercepted Iman Marshall return for 7 yds to the USC 23						
+5:38 - 1st;1st and 10;USC 23;PASS;17;Justin Davis;Cody Kessler pass complete to Justin Davis for 17 yds to the USC 40 for a 1ST down						
+5:22 - 1st;1st and 10;USC 40;RUN;6;Justin Davis;Justin Davis run for 6 yds to the USC 46						
+5:01 - 1st;2nd and 4;USC 46;RUN;11;Tre Madden;Tre Madden run for 11 yds to the Wash 43 for a 1ST down						
+4:40 - 1st;1st and 10;WASH 43;RUN;5;Tre Madden;Tre Madden run for 5 yds to the Wash 38						
+4:20 - 1st;2nd and 5;WASH 38;RUN;12;Tre Madden;Tre Madden run for 12 yds to the Wash 26 for a 1ST down						
+3:47 - 1st;1st and 10;WASH 26;PASS;23;Dominic Davis;Cody Kessler pass complete to Dominic Davis for 23 yds to the Wash 3 for a 1ST down						
+3:33 - 1st;1st and Goal;WASH 3;RUN;a;Dominic Davis;Dominic Davis run for a loss of 1 yard to the Wash 4						
+3:09 - 1st;2nd and Goal;WASH 4;NA;NA;NA;USC Penalty, 12 Men on the Field (-5 Yards) to the Wash 9						
+2:47 - 1st;2nd and Goal;WASH 9;RUN;3;Tre Madden;Tre Madden run for 3 yds to the Wash 6						
+2:16 - 1st;3rd and Goal;WASH 6;NA;NA;NA;Cody Kessler sacked by Keishawn Bierria for a loss of 11 yards to the Wash 17						
+1:47 - 1st;4th and 0;WASH 17;NA;NA;NA;Alex Wood 34 yd FG GOOD						
+1:47 - 1st;Kickoff;Kickoff;KICKOFF;NA;Chico McClatcher;Alex Wood kickoff for 64 yds , Chico McClatcher return for 16 yds to the Wash 17						
+1:35 - 1st;1st and 10;WASH 17;RUN;3;Myles Gaskin;Myles Gaskin run for 3 yds to the Wash 20						
+0:59 - 1st;2nd and 7;WASH 20;RUN;9;Myles Gaskin;Myles Gaskin run for 9 yds to the Wash 29 for a 1ST down						
+0:29 - 1st;1st and 10;WASH 29;PASS;19;Joshua Perkins;Jake Browning pass complete to Joshua Perkins for 19 yds to the Wash 48 for a 1ST down						
+0:00 - 1st;1st and 10;WASH 48;PASS;7;Brayden Lenius;Jake Browning pass complete to Brayden Lenius for 7 yds to the USC 45						
+14:55 - 2nd;2nd and 3;USC 45;RUN;6;Myles Gaskin;Myles Gaskin run for 6 yds to the USC 39 for a 1ST down						
+14:27 - 2nd;1st and 10;USC 39;INCOMPLETE PASS;NA;Joshua Perkins;Jake Browning pass incomplete to Joshua Perkins						
+14:20 - 2nd;2nd and 10;USC 39;RUN;no;Dwayne Washington;Dwayne Washington run for no gain to the USC 39						
+13:42 - 2nd;3rd and 10;USC 39;PASS;11;Jaydon Mickens;Jake Browning pass complete to Jaydon Mickens for 11 yds to the USC 28 for a 1ST down						
+13:24 - 2nd;1st and 10;USC 28;PASS;8;Joshua Perkins;Jake Browning pass complete to Joshua Perkins for 8 yds to the USC 20						
+13:12 - 2nd;2nd and 2;USC 20;INCOMPLETE PASS;NA;Dante Pettis;Jake Browning pass incomplete to Dante Pettis						
+13:01 - 2nd;3rd and 2;USC 20;RUN;2;Myles Gaskin;Myles Gaskin run for 2 yds to the USC 18 for a 1ST down						
+12:23 - 2nd;1st and 10;USC 18;RUN;6;Myles Gaskin;Myles Gaskin run for 6 yds to the USC 12						
+11:47 - 2nd;2nd and 4;USC 12;RUN;6;Myles Gaskin;Myles Gaskin run for 6 yds to the USC 6 for a 1ST down						
+11:17 - 2nd;1st and Goal;USC 6;RUN;2;Dwayne Washington;Dwayne Washington run for 2 yds to the USC 4						
+10:35 - 2nd;2nd and Goal;USC 4;RUN;no;Dwayne Washington;Dwayne Washington run for no gain to the USC 4						
+10:02 - 2nd;3rd and Goal;USC 4;NA;NA;NA;Timeout WASHINGTON, clock 10:02						
+9:57 - 2nd;3rd and Goal;USC 4;INCOMPLETE PASS;NA;Jaydon Mickens;Jake Browning pass incomplete to Jaydon Mickens						
+9:54 - 2nd;4th and 0;USC 4;NA;NA;NA;Cameron Van Winkle 21 yd FG GOOD						
+9:54 - 2nd;Kickoff;Kickoff;KICKOFF;NA;NA;Tristan Vizcaino kickoff for 65 yds for a touchback						
+9:44 - 2nd;1st and 10;USC 25;PASS;7;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 7 yds to the USC 32						
+9:19 - 2nd;2nd and 3;USC 32;RUN;a;Justin Davis;Justin Davis run for a loss of 2 yards to the USC 30						
+8:49 - 2nd;3rd and 5;USC 30;INCOMPLETE PASS;NA;Adoree' Jackson;Cody Kessler pass incomplete to Adoree' Jackson						
+8:42 - 2nd;4th and 5;USC 30;PUNT;NA;NA;Kris Albarado punt for 46 yds, fair catch by Dante Pettis at the Wash 24						
+8:33 - 2nd;1st and 10;WASH 24;RUN;3;Dwayne Washington;Dwayne Washington run for 3 yds to the Wash 27						
+7:53 - 2nd;2nd and 7;WASH 27;RUN;2;Dwayne Washington;Dwayne Washington run for 2 yds to the Wash 29						
+7:13 - 2nd;3rd and 5;WASH 29;PASS;6;Jaydon Mickens;Jake Browning pass complete to Jaydon Mickens for 6 yds to the Wash 35 for a 1ST down						
+6:36 - 2nd;1st and 10;WASH 35;NA;NA;NA;Jake Browning sacked by Greg Townsend Jr. and Lamar Dawson for a loss of 4 yards to the Wash 31						
+6:00 - 2nd;2nd and 14;WASH 31;PASS;9;Dwayne Washington;Jake Browning pass complete to Dwayne Washington for 9 yds to the Wash 40						
+5:20 - 2nd;3rd and 5;WASH 40;PASS;3;Drew Sample;Jake Browning pass complete to Drew Sample for 3 yds to the Wash 43						
+4:34 - 2nd;4th and 2;WASH 43;PUNT;NA;NA;Korey Durkee punt for 43 yds, downed at the USC 14						
+4:26 - 2nd;1st and 10;USC 14;PASS;26;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 26 yds to the USC 40 for a 1ST down						
+3:57 - 2nd;1st and 10;USC 40;RUN;8;Ronald Jones;Ronald Jones II run for 8 yds to the USC 48						
+3:40 - 2nd;2nd and 2;USC 48;RUN;a;Ronald Jones;Ronald Jones II run for a loss of 1 yard to the USC 47						
+3:11 - 2nd;3rd and 3;USC 47;NA;NA;NA;Timeout USC, clock 03:11						
+3:04 - 2nd;3rd and 3;USC 47;RUN;19;Tre Madden;Tre Madden run for 19 yds to the Wash 34 for a 1ST down						
+2:22 - 2nd;1st and 10;WASH 34;NA;NA;NA;Cody Kessler sacked by Elijah Qualls for a loss of 5 yards to the Wash 39						
+1:50 - 2nd;2nd and 15;WASH 39;RUN;9;Tre Madden;Tre Madden run for 9 yds to the Wash 30						
+1:44 - 2nd;3rd and 6;WASH 30;RUN;3;Tre Madden;Tre Madden run for 3 yds to the Wash 27						
+1:09 - 2nd;4th and 3;WASH 27;PASS;7;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 7 yds to the Wash 20 for a 1ST down						
+0:42 - 2nd;1st and 10;WASH 20;RUN;9;Justin Davis;Justin Davis run for 9 yds to the Wash 11						
+0:25 - 2nd;2nd and 1;WASH 11;NA;NA;NA;Timeout WASHINGTON, clock 00:25						
+0:20 - 2nd;2nd and 1;WASH 11;PASS;a;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for a loss of 2 yards to the Wash 13						
+0:20 - 2nd;3rd and 3;WASH 13;NA;NA;NA;Timeout USC, clock 00:20						
+0:13 - 2nd;3rd and 3;WASH 13;PASS;2;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 2 yds to the Wash 11						
+0:07 - 2nd;4th and 1;WASH 11;RUN;2;Justin Davis;Justin Davis run for 2 yds to the Wash 9 for a 1ST down						
+0:07 - 2nd;1st and Goal;WASH 9;NA;NA;NA;Timeout USC, clock 00:07						
+0:01 - 2nd;1st and Goal;WASH 9;INCOMPLETE PASS(PENALTY);NA;Davis, Dominic,;Kessler, Cody pass incomplete to Davis, Dominic, PENALTY WASHINGTON roughing passer (Gaines, Greg) 4 yards to the WASHINGTON5, NO PLAY, 1ST DOWN USC.						
+0:00 - 2nd;1st and 0;WASH 5;NA;NA;NA;Alex Wood 21 yd FG GOOD						
+15:00 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Chico McClatcher;Alex Wood kickoff for 64 yds , Chico McClatcher return for 21 yds to the Wash 22						
+14:46 - 3rd;1st and 10;WASH 22;PASS;8;Dwayne Washington;Jake Browning pass complete to Dwayne Washington for 8 yds to the Wash 30						
+14:10 - 3rd;2nd and 2;WASH 30;RUN;2;Dwayne Washington;Dwayne Washington run for 2 yds to the Wash 32 for a 1ST down						
+13:35 - 3rd;1st and 10;WASH 32;PASS;8;Jaydon Mickens;Jake Browning pass complete to Jaydon Mickens for 8 yds to the Wash 40						
+13:08 - 3rd;2nd and 2;WASH 40;INCOMPLETE PASS;NA;Dwayne Washington;Jake Browning pass incomplete to Dwayne Washington						
+12:56 - 3rd;3rd and 2;WASH 40;RUN;1;Myles Gaskin;Myles Gaskin run for 1 yd to the Wash 41						
+12:10 - 3rd;4th and 1;WASH 41;PUNT;NA;Adoree' Jackson;Korey Durkee punt for 54 yds , Adoree' Jackson returns for 15 yds to the USC 20						
+12:05 - 3rd;1st and 10;USC 20;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+11:30 - 3rd;2nd and 10;USC 20;PASS;7;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 7 yds JuJu Smith-Schuster fumbled, forced by Sidney Jones, recovered by Wash Taniela Tupou						
+11:24 - 3rd;1st and 10;USC 27;PASS;27;Joshua Perkins;Marvin Hall pass complete to Joshua Perkins for 27 yds for a TD, (Cameron Van Winkle KICK)						
+11:24 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Tristan Vizcaino kickoff for 65 yds , Adoree' Jackson return for 17 yds to the USC 17						
+11:06 - 3rd;1st and 10;USC 17;PASS;22;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 22 yds to the USC 39 for a 1ST down						
+10:39 - 3rd;1st and 10;USC 39;RUN;1;Tre Madden;Tre Madden run for 1 yd to the USC 40						
+10:13 - 3rd;2nd and 9;USC 40;INCOMPLETE PASS;NA;Jahleel Pinner;Cody Kessler pass incomplete to Jahleel Pinner						
+10:04 - 3rd;3rd and 9;USC 40;PASS;5;Tre Madden;Cody Kessler pass complete to Tre Madden for 5 yds to the USC 45						
+9:38 - 3rd;4th and 4;USC 45;PUNT;NA;NA;Kris Albarado punt for 42 yds, fair catch by Dante Pettis at the Wash 13						
+9:33 - 3rd;1st and 10;WASH 13;RUN;4;Myles Gaskin;Myles Gaskin run for 4 yds to the Wash 17						
+9:03 - 3rd;2nd and 6;WASH 17;INCOMPLETE PASS;NA;Jaydon Mickens;Jake Browning pass incomplete to Jaydon Mickens						
+8:57 - 3rd;3rd and 6;WASH 17;PASS;22;Brayden Lenius;Jake Browning pass complete to Brayden Lenius for 22 yds to the Wash 39 for a 1ST down						
+8:43 - 3rd;1st and 10;WASH 39;INCOMPLETE PASS;NA;Drew Sample;Jake Browning pass incomplete to Drew Sample						
+8:36 - 3rd;2nd and 10;WASH 39;NA(PENALTY);NA;NA;Browning, Jake rush for 3 yards to the WASHINGTON42, PENALTY WASHINGTON illegal formation 5 yards to the WASHINGTON34, NO PLAY.						
+8:15 - 3rd;2nd and 15;WASH 34;INCOMPLETE PASS;NA;Dante Pettis;Jake Browning pass incomplete to Dante Pettis						
+8:11 - 3rd;3rd and 15;WASH 34;INCOMPLETE PASS;NA;Jaydon Mickens;Jake Browning pass incomplete to Jaydon Mickens						
+8:00 - 3rd;4th and 15;WASH 34;PUNT;NA;NA;Korey Durkee punt for 43 yds, downed at the USC 23						
+7:50 - 3rd;1st and 10;USC 23;RUN;4;Justin Davis;Justin Davis run for 4 yds to the USC 27						
+7:30 - 3rd;2nd and 6;USC 27;PASS;10;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 10 yds to the USC 37 for a 1ST down						
+7:00 - 3rd;1st and 10;USC 37;RUN;4;Justin Davis;Justin Davis run for 4 yds to the USC 41						
+6:20 - 3rd;2nd and 6;USC 41;PASS(PENALTY);3;Jackson, Adoree';Kessler, Cody pass complete to Jackson, Adoree' for 3 yards to the USC44, PENALTY USC illegal formation 5 yards to the USC36, NO PLAY.						
+6:01 - 3rd;2nd and 11;USC 36;RUN;2;Tre Madden;Tre Madden run for 2 yds to the USC 38						
+5:22 - 3rd;3rd and 9;USC 38;NA;NA;NA;Cody Kessler sacked by Travis Feeney for a loss of 1 yard to the USC 37						
+4:59 - 3rd;4th and 10;USC 37;PUNT;NA;NA;Kris Albarado punt for 44 yds, fair catch by Dante Pettis at the Wash 19						
+4:50 - 3rd;1st and 10;WASH 19;RUN;7;Myles Gaskin;Myles Gaskin run for 7 yds to the Wash 26						
+4:20 - 3rd;2nd and 3;WASH 26;RUN;4;Myles Gaskin;Myles Gaskin run for 4 yds to the Wash 30 for a 1ST down						
+3:47 - 3rd;1st and 10;WASH 30;RUN;24;Myles Gaskin;Myles Gaskin run for 24 yds to the USC 46 for a 1ST down						
+3:16 - 3rd;1st and 10;USC 46;NA;NA;NA;Timeout WASHINGTON, clock 03:16						
+3:09 - 3rd;1st and 10;USC 46;INCOMPLETE PASS;NA;Joshua Perkins;Jake Browning pass incomplete to Joshua Perkins						
+3:01 - 3rd;2nd and 10;USC 46;RUN;4;Dwayne Washington;Dwayne Washington run for 4 yds to the USC 42						
+2:25 - 3rd;3rd and 6;USC 42;INCOMPLETE PASS;NA;Darrell Daniels;Jake Browning pass incomplete to Darrell Daniels						
+2:13 - 3rd;4th and 6;USC 42;PUNT;NA;Adoree' Jackson;Jake Browning punt for 36 yds , Adoree' Jackson returns for no gain to the USC 6						
+2:06 - 3rd;1st and 10;USC 6;RUN;9;Tre Madden;Tre Madden run for 9 yds to the USC 15						
+1:51 - 3rd;2nd and 1;USC 15;RUN;a;Tre Madden;Tre Madden run for a loss of 3 yards to the USC 12						
+1:10 - 3rd;3rd and 4;USC 12;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+0:59 - 3rd;4th and 4;USC 12;PUNT;NA;Dante Pettis;Kris Albarado punt for 53 yds , Dante Pettis returns for 15 yds to the 50 yard line						
+0:49 - 3rd;1st and 10;50;RUN;31;Myles Gaskin;Myles Gaskin run for 31 yds to the USC 19 for a 1ST down						
+0:00 - 3rd;1st and 10;USC 19;RUN;11;Myles Gaskin;Myles Gaskin run for 11 yds to the USC 8 for a 1ST down						
+14:55 - 4th;1st and Goal;USC 8;RUN;7;Myles Gaskin;Myles Gaskin run for 7 yds to the USC 1						
+14:21 - 4th;2nd and 0;USC 1;RUN;1;Myles Gaskin;Myles Gaskin run for 1 yd for a TD, (Cameron Van Winkle KICK)						
+14:21 - 4th;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Tristan Vizcaino kickoff for 63 yds , Adoree' Jackson return for 29 yds to the USC 31						
+13:52 - 4th;1st and 10;USC 31;PASS;19;Justin Davis;Cody Kessler pass complete to Justin Davis for 19 yds to the 50 yard line for a 1ST down						
+13:50 - 4th;1st and 10;50;RUN;6;Justin Davis;Justin Davis run for 6 yds to the Wash 44						
+13:07 - 4th;2nd and 4;WASH 44;INCOMPLETE PASS;NA;Justin Davis;Cody Kessler pass incomplete to Justin Davis						
+13:07 - 4th;3rd and 4;WASH 44;NA;NA;NA;Timeout USC, clock 13:07						
+13:00 - 4th;3rd and 4;WASH 44;INCOMPLETE PASS(PENALTY);NA;Smith-Schuster, JuJu,;Kessler, Cody pass incomplete to Smith-Schuster, JuJu, PENALTY WASHINGTON roughing passer (Victor, Azeem) 15 yards to the WASHINGTON29, NO PLAY, 1ST DOWN USC.						
+12:53 - 4th;1st and 10;WASH 29;INCOMPLETE PASS(PENALTY);NA;the WASHINGTON39,;Kessler, Cody pass incomplete, PENALTY USC holding (Wheeler, Chad) 10 yards to the WASHINGTON39, NO PLAY.						
+12:43 - 4th;1st and 20;WASH 39;RUN;15;Ronald Jones;Ronald Jones II run for 15 yds to the Wash 24						
+12:14 - 4th;2nd and 5;WASH 24;RUN;23;Ronald Jones;Ronald Jones II run for 23 yds to the Wash 1 for a 1ST down						
+12:02 - 4th;1st and 0;WASH 1;RUN;1;Ronald Jones;Ronald Jones II run for 1 yd for a TD, (Two-Point Conversion failed )						
+12:02 - 4th;Kickoff;Kickoff;KICKOFF;NA;Chico McClatcher;Alex Wood kickoff for 65 yds , Chico McClatcher return for 18 yds to the Wash 18						
+11:47 - 4th;1st and 15;WASH 13;RUN;a;Dwayne Washington;Dwayne Washington run for a loss of 1 yard to the Wash 12						
+10:53 - 4th;2nd and 16;WASH 12;NA;NA;NA;Jake Browning sacked by Porter Gustin and Scott Felix for a loss of 4 yards to the Wash 8						
+10:24 - 4th;3rd and 20;WASH 8;PASS;2;Jaydon Mickens;Jake Browning pass complete to Jaydon Mickens for 2 yds to the Wash 10 WASHINGTON Penalty, Personal Foul ( Yards) declined						
+9:58 - 4th;4th and 18;WASH 10;PUNT;NA;Adoree' Jackson;Korey Durkee punt for 55 yds , Adoree' Jackson returns for a loss of 3 yards to the USC 32						
+9:49 - 4th;1st and 10;USC 32;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+9:39 - 4th;2nd and 10;USC 32;PASS;4;Isaac Whitney;Cody Kessler pass complete to Isaac Whitney for 4 yds to the USC 36						
+9:09 - 4th;3rd and 6;USC 36;INCOMPLETE PASS;NA;Justin Davis;Cody Kessler pass incomplete to Justin Davis						
+9:02 - 4th;4th and 6;USC 36;PUNT;NA;NA;Kris Albarado punt for 37 yds, fair catch by Dante Pettis at the Wash 27						
+9:00 - 4th;1st and 10;WASH 27;RUN;1;Myles Gaskin;Myles Gaskin run for 1 yd to the Wash 28						
+8:18 - 4th;2nd and 9;WASH 28;RUN;no;Myles Gaskin;Myles Gaskin run for no gain to the Wash 28						
+7:33 - 4th;3rd and 9;WASH 28;PASS;8;Dante Pettis;Jake Browning pass complete to Dante Pettis for 8 yds to the Wash 36						
+6:59 - 4th;4th and 1;WASH 36;PUNT;NA;NA;Korey Durkee punt for 40 yds, punt out-of-bounds at the USC 24						
+6:51 - 4th;1st and 10;USC 24;PASS;10;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 10 yds to the USC 34 for a 1ST down WASHINGTON Penalty, Roughing Passer (Cory Littleton) to the USC 49 for a 1ST down						
+6:27 - 4th;1st and 10;USC 49;RUN;7;Ronald Jones;Ronald Jones II run for 7 yds to the Wash 44						
+6:13 - 4th;2nd and 3;WASH 44;NA;NA;NA;Timeout USC, clock 06:13						
+6:02 - 4th;2nd and 3;WASH 44;RUN;5;Tre Madden;Tre Madden run for 5 yds to the Wash 39 for a 1ST down						
+5:45 - 4th;1st and 10;WASH 39;RUN;10;Tre Madden;Tre Madden run for 10 yds to the Wash 29 for a 1ST down						
+5:21 - 4th;1st and 10;WASH 29;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+5:15 - 4th;2nd and 10;WASH 29;RUN;4;Ronald Jones;Ronald Jones II run for 4 yds to the Wash 25						
+4:23 - 4th;3rd and 6;WASH 25;NA;NA;NA;Cody Kessler sacked by Travis Feeney for a loss of 3 yards to the Wash 28						
+3:44 - 4th;4th and 9;WASH 28;NA;NA;NA;Alex Wood 46 yd FG MISSED						
+3:27 - 4th;1st and 10;WASH 28;RUN;2;Myles Gaskin;Myles Gaskin run for 2 yds to the Wash 30						
+2:53 - 4th;2nd and 8;WASH 30;RUN;3;Myles Gaskin;Myles Gaskin run for 3 yds to the Wash 33						
+2:10 - 4th;3rd and 5;WASH 33;PASS;6;Jaydon Mickens;Jake Browning pass complete to Jaydon Mickens for 6 yds to the Wash 39 for a 1ST down						
+1:39 - 4th;1st and 10;WASH 39;NA;NA;NA;USC Penalty, Defensive Offside (5 Yards) to the Wash 44						
+1:12 - 4th;1st and 5;WASH 44;RUN;a;TEAM run;TEAM run for a loss of 1 yard to the Wash 43						
+1:12 - 4th;2nd and 6;WASH 43;NA;NA;NA;Timeout USC, clock 01:12						
+1:04 - 4th;2nd and 6;WASH 43;RUN;a;TEAM run;TEAM run for a loss of 1 yard to the Wash 42						
+0:00 - 4th;3rd and 7;WASH 42;RUN;a;TEAM run;TEAM run for a loss of 4 yards to the Wash 38						
