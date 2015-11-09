@@ -1,0 +1,167 @@
+15:00 - 1st;Kickoff;Kickoff;KICKOFF;NA;Trevor Davis;Alex Wood kickoff for 65 yds , Trevor Davis return for 19 yds to the Cal 19						
+15:00 - 1st;1st and 10;CAL 19;RUN;6;Khalfani Muhammad;Khalfani Muhammad run for 6 yds to the Cal 25						
+15:00 - 1st;2nd and 4;CAL 25;PASS;22;Trevor Davis;Jared Goff pass complete to Trevor Davis for 22 yds to the Cal 47 for a 1ST down						
+15:00 - 1st;1st and 10;CAL 47;RUN;8;Khalfani Muhammad;Khalfani Muhammad run for 8 yds to the USC 45 Khalfani Muhammad fumbled, forced by Lamar Dawson, recovered by USC Leon McQuay III						
+14:00 - 1st;1st and 10;USC 45;RUN;2;Justin Davis;Justin Davis run for 2 yds to the USC 47						
+14:00 - 1st;2nd and 8;USC 47;RUN;a;Jalen Greene;Jalen Greene run for a loss of 6 yards to the USC 41						
+14:00 - 1st;4th and 3;CAL 48;PUNT;NA;NA;Kris Albarado punt for 35 yds, fair catch by Trevor Davis at the Cal 13						
+14:00 - 1st;3rd and 14;USC 41;RUN;11;Cody Kessler;Cody Kessler run for 11 yds to the Cal 48						
+12:10 - 1st;1st and 10;CAL 13;RUN;4;Daniel Lasco;Daniel Lasco run for 4 yds to the Cal 17						
+12:10 - 1st;2nd and 6;CAL 17;PASS;5;Darius Powe;Jared Goff pass complete to Darius Powe for 5 yds to the Cal 22						
+12:10 - 1st;3rd and 1;CAL 22;RUN;3;Daniel Lasco;Daniel Lasco run for 3 yds to the Cal 25 for a 1ST down						
+12:10 - 1st;1st and 10;CAL 25;RUN;22;Daniel Lasco;Daniel Lasco run for 22 yds to the Cal 47 for a 1ST down						
+12:10 - 1st;1st and 10;CAL 47;PASS;12;Chad Hansen;Jared Goff pass complete to Chad Hansen for 12 yds to the USC 41 for a 1ST down						
+12:10 - 1st;1st and 10;USC 41;RUN;5;Khalfani Muhammad;Khalfani Muhammad run for 5 yds to the USC 36						
+12:10 - 1st;2nd and 5;USC 36;RUN;7;Khalfani Muhammad;Khalfani Muhammad run for 7 yds to the USC 29 for a 1ST down						
+12:10 - 1st;1st and 10;USC 29;RUN;4;Daniel Lasco;Daniel Lasco run for 4 yds to the USC 25						
+12:10 - 1st;2nd and 6;USC 25;PASS;10;Trevor Davis;Jared Goff pass complete to Trevor Davis for 10 yds to the USC 15 for a 1ST down						
+12:10 - 1st;1st and 10;USC 15;RUN;no;Khalfani Muhammad;Khalfani Muhammad run for no gain to the USC 15						
+12:10 - 1st;2nd and 10;USC 15;PASS;9;Darius Powe;Jared Goff pass complete to Darius Powe for 9 yds to the USC 6						
+12:10 - 1st;3rd and 1;USC 6;RUN;no;Khalfani Muhammad;Khalfani Muhammad run for no gain to the USC 6						
+7:05 - 1st;4th and 1;USC 6;NA;NA;NA;Timeout USC, clock 07:05						
+6:59 - 1st;4th and 1;USC 6;NA;NA;NA;Bryce Treggs 6 Yd pass from Jared Goff (Matt Anderson Kick)						
+6:59 - 1st;Kickoff;Kickoff;KICKOFF;NA;JuJu Smith-Schuster;Matt Anderson kickoff for 55 yds , JuJu Smith-Schuster return for 6 yds to the USC 16						
+6:54 - 1st;1st and 10;USC 16;PASS;3;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 3 yds to the USC 19						
+6:54 - 1st;2nd and 7;USC 19;PASS;10;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 10 yds to the USC 29 for a 1ST down						
+6:54 - 1st;1st and 10;USC 29;NA;NA;NA;USC Penalty, false start (-5 Yards) to the USC 24						
+6:54 - 1st;1st and 15;USC 24;RUN;18;Ronald Jones;Ronald Jones II run for 18 yds to the USC 42 for a 1ST down						
+6:54 - 1st;1st and 10;USC 42;RUN;4;JuJu Smith-Schuster;JuJu Smith-Schuster run for 4 yds to the USC 46						
+6:54 - 1st;2nd and 6;USC 46;RUN;no;Ronald Jones;Ronald Jones II run for no gain to the USC 46						
+6:54 - 1st;3rd and 6;USC 46;PASS;4;Dominic Davis;Cody Kessler pass complete to Dominic Davis for 4 yds to the 50 yard line						
+6:54 - 1st;4th and 2;50;PUNT;NA;NA;Kris Albarado punt for 44 yds, downed at the Cal 6						
+3:33 - 1st;1st and 10;CAL 6;PASS;13;Kenny Lawler;Jared Goff pass complete to Kenny Lawler for 13 yds to the Cal 19 for a 1ST down						
+3:33 - 1st;2nd and 7;CAL 22;RUN;4;Daniel Lasco;Daniel Lasco run for 4 yds to the Cal 26						
+3:33 - 1st;3rd and 3;CAL 26;RUN;1;Khalfani Muhammad;Khalfani Muhammad run for 1 yd to the Cal 27						
+3:33 - 1st;4th and 2;CAL 27;PUNT;NA;Adoree' Jackson;Cole Leininger punt for 45 yds , Adoree' Jackson returns for 9 yds to the USC 37						
+3:33 - 1st;1st and 10;CAL 19;RUN;3;Daniel Lasco;Daniel Lasco run for 3 yds to the Cal 22						
+1:09 - 1st;1st and 10;USC 37;PASS;34;Deontay Burnett;Jalen Greene pass complete to Deontay Burnett for 34 yds to the Cal 29 for a 1ST down						
+1:09 - 1st;1st and 10;CAL 29;PASS;6;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 6 yds to the Cal 23						
+15:00 - 2nd;2nd and 4;CAL 23;RUN;a;Justin Davis;Justin Davis run for a loss of 3 yards to the Cal 26						
+15:00 - 2nd;3rd and 7;CAL 26;PASS;12;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 12 yds to the Cal 14 for a 1ST down						
+15:00 - 2nd;1st and 10;CAL 14;RUN;1;Justin Davis;Justin Davis run for 1 yd to the Cal 13						
+13:27 - 2nd;2nd and 9;CAL 13;NA;NA;NA;Ronald Jones II 13 Yd Run (Alex Wood Kick)						
+13:27 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Trevor Davis;Alex Wood kickoff for 65 yds , Trevor Davis return for 14 yds to the Cal 49 CALIFORNIA Penalty, illegal block (Trey Turner) to the Cal 7						
+13:21 - 2nd;1st and 10;CAL 7;RUN;3;Khalfani Muhammad;Khalfani Muhammad run for 3 yds to the Cal 10						
+13:21 - 2nd;2nd and 7;CAL 10;RUN;1;Daniel Lasco;Daniel Lasco run for 1 yd to the Cal 11						
+13:21 - 2nd;3rd and 6;CAL 11;RUN;5;Jared Goff;Jared Goff run for 5 yds to the Cal 16						
+13:21 - 2nd;4th and 1;CAL 16;PUNT;NA;NA;Cole Leininger punt for 59 yds, punt out-of-bounds at the USC 25						
+11:21 - 2nd;1st and 10;USC 25;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+11:21 - 2nd;2nd and 10;USC 25;PASS;5;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 5 yds to the USC 30						
+11:21 - 2nd;3rd and 5;USC 30;PASS;7;Taylor McNamara;Cody Kessler pass complete to Taylor McNamara for 7 yds to the USC 37 for a 1ST down						
+11:21 - 2nd;1st and 10;USC 37;PASS;13;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 13 yds to the 50 yard line for a 1ST down						
+11:21 - 2nd;1st and 10;50;RUN;3;Tre Madden;Tre Madden run for 3 yds to the Cal 47						
+11:21 - 2nd;2nd and 7;CAL 47;RUN;8;Tre Madden;Tre Madden run for 8 yds to the Cal 39 for a 1ST down						
+11:21 - 2nd;1st and 10;CAL 39;RUN;4;Cody Kessler;Cody Kessler run for 4 yds to the Cal 35						
+8:31 - 2nd;2nd and 6;CAL 35;TIMEOUT;NA;Penalty,;USC Penalty, false start (-5 Yards) to the Cal 40 Timeout USC, clock 08:31						
+8:31 - 2nd;2nd and 11;CAL 40;RUN;5;Ronald Jones;Ronald Jones II run for 5 yds to the Cal 35						
+8:31 - 2nd;3rd and 6;CAL 35;NA;NA;NA;Cody Kessler sacked by Todd Barr for a loss of 5 yards to the Cal 40						
+8:31 - 2nd;4th and 11;CAL 40;PUNT;NA;NA;Kris Albarado punt for 40 yds for a touchback						
+7:12 - 2nd;1st and 10;CAL 20;INCOMPLETE PASS(PENALTY);NA;Davis, Trevor;Goff, Jared pass incomplete to Davis, Trevor (Hawkins, Chris), PENALTY USC pass interference (Hawkins, Chris) 15 yards to the CAL35, 1ST DOWN CAL, NO PLAY.						
+7:12 - 2nd;1st and 10;CAL 35;PASS;4;Trevor Davis;Jared Goff pass complete to Trevor Davis for 4 yds to the Cal 39						
+7:12 - 2nd;2nd and 6;CAL 39;PASS;7;Stephen Anderson;Jared Goff pass complete to Stephen Anderson for 7 yds to the Cal 46 for a 1ST down						
+7:12 - 2nd;1st and 10;CAL 46;RUN;1;Khalfani Muhammad;Khalfani Muhammad run for 1 yd to the Cal 47						
+7:12 - 2nd;2nd and 9;CAL 47;PASS;14;Chad Hansen;Jared Goff pass complete to Chad Hansen for 14 yds to the USC 39 for a 1ST down						
+7:12 - 2nd;1st and 10;USC 39;RUN;a;Daniel Lasco;Daniel Lasco run for a loss of 1 yard to the USC 40						
+7:12 - 2nd;2nd and 11;USC 40;INCOMPLETE PASS;NA;Stephen Anderson;Jared Goff pass incomplete to Stephen Anderson						
+7:12 - 2nd;3rd and 11;USC 40;INCOMPLETE PASS;NA;Kenny Lawler;Jared Goff pass incomplete to Kenny Lawler						
+7:12 - 2nd;4th and 11;USC 40;PUNT;NA;NA;Jared Goff punt for 40 yds for a touchback						
+4:16 - 2nd;1st and 10;USC 20;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+4:16 - 2nd;2nd and 10;USC 20;PASS;26;Deontay Burnett;Cody Kessler pass complete to Deontay Burnett for 26 yds to the USC 46 for a 1ST down						
+4:16 - 2nd;1st and 10;USC 46;PASS;5;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 5 yds to the Cal 49						
+4:16 - 2nd;2nd and 5;CAL 49;RUN;11;Tre Madden;Tre Madden run for 11 yds to the Cal 38 for a 1ST down						
+4:16 - 2nd;1st and 10;CAL 38;PASS;12;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 12 yds to the Cal 26 for a 1ST down						
+4:16 - 2nd;1st and 10;CAL 26;NA;NA;NA;Cody Kessler sacked by Jalen Jefferson for a loss of 4 yards to the Cal 30						
+4:16 - 2nd;2nd and 14;CAL 30;RUN;18;Ronald Jones;Ronald Jones II run for 18 yds to the Cal 12 for a 1ST down						
+4:16 - 2nd;1st and 10;CAL 12;RUN;3;Ronald Jones;Ronald Jones II run for 3 yds to the Cal 9						
+4:16 - 2nd;2nd and 7;CAL 9;RUN;4;Justin Davis;Justin Davis run for 4 yds to the Cal 5						
+4:16 - 2nd;3rd and 3;CAL 5;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+0:11 - 2nd;4th and 3;CAL 5;NA;NA;NA;Alex Wood 22 Yd Field Goal						
+0:11 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Daniel Lasco;Alex Wood kickoff for 33 yds , Daniel Lasco return for 10 yds to the Cal 42						
+0:07 - 2nd;1st and 10;CAL 42;PASS;11;Maurice Harris;Jared Goff pass complete to Maurice Harris for 11 yds to the USC 47 for a 1ST down						
+0:07 - 2nd;1st and 10;USC 47;INCOMPLETE PASS;NA;Darius Powe;Jared Goff pass incomplete to Darius Powe						
+15:00 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Justin Davis;Matt Anderson kickoff for 61 yds , Justin Davis return for 29 yds to the CALIFORNIA 36 CALIFORNIA Penalty, unsportsmanlike conduct off-setting ( Yards) to the USC 33						
+14:54 - 3rd;1st and 10;USC 33;RUN;5;Tre Madden;Tre Madden run for 5 yds to the USC 38						
+14:54 - 3rd;2nd and 5;USC 38;PASS;10;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 10 yds to the USC 48 for a 1ST down						
+14:54 - 3rd;1st and 10;USC 48;PASS;3;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 3 yds to the Cal 49						
+14:54 - 3rd;2nd and 7;CAL 49;RUN;7;Tre Madden;Tre Madden run for 7 yds to the Cal 42 for a 1ST down						
+14:54 - 3rd;1st and 10;CAL 42;RUN;no;Justin Davis;Justin Davis run for no gain to the Cal 42						
+14:54 - 3rd;2nd and 10;CAL 42;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+14:54 - 3rd;3rd and 10;CAL 42;PASS;18;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 18 yds to the Cal 24 for a 1ST down						
+14:54 - 3rd;1st and 10;CAL 24;RUN;8;Justin Davis;Justin Davis run for 8 yds to the Cal 16						
+14:54 - 3rd;2nd and 2;CAL 16;RUN;5;Justin Davis;Justin Davis run for 5 yds to the Cal 11 for a 1ST down						
+14:54 - 3rd;1st and 10;CAL 11;RUN;a;Tre Madden;Tre Madden run for a loss of 2 yards to the Cal 13						
+14:54 - 3rd;2nd and 12;CAL 13;RUN;8;Ronald Jones;Ronald Jones II run for 8 yds to the Cal 5						
+14:54 - 3rd;3rd and 4;CAL 5;RUN;3;Ronald Jones;Ronald Jones II run for 3 yds to the Cal 2						
+9:50 - 3rd;4th and 1;CAL 2;NA;NA;NA;Timeout USC, clock 09:50						
+9:46 - 3rd;4th and 1;CAL 2;NA;NA;NA;Tre Madden 2 Yd Run (Alex Wood Kick)						
+9:46 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Trevor Davis;Alex Wood kickoff for 65 yds , Trevor Davis return for 22 yds to the Cal 22						
+9:23 - 3rd;1st and 10;CAL 22;NA;NA;NA;Jared Goff pass intercepted for a TD Adoree' Jackson return for 46 yds for a TD, (Alex Wood KICK)						
+9:23 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Trevor Davis;Alex Wood kickoff for 61 yds , Trevor Davis return for 15 yds to the Cal 19						
+9:16 - 3rd;1st and 10;CAL 19;RUN;1;Daniel Lasco;Daniel Lasco run for 1 yd to the Cal 20						
+9:16 - 3rd;2nd and 9;CAL 20;PASS;8;Trevor Davis;Jared Goff pass complete to Trevor Davis for 8 yds to the Cal 28						
+9:16 - 3rd;3rd and 1;CAL 28;RUN;2;Daniel Lasco;Daniel Lasco run for 2 yds to the Cal 30 for a 1ST down						
+9:16 - 3rd;1st and 10;CAL 30;PASS;21;Bryce Treggs;Jared Goff pass complete to Bryce Treggs for 21 yds to the USC 49 for a 1ST down						
+9:16 - 3rd;1st and 10;USC 49;RUN;1;Daniel Lasco;Daniel Lasco run for 1 yd to the USC 48						
+9:16 - 3rd;2nd and 9;USC 48;PASS;15;Bryce Treggs;Jared Goff pass complete to Bryce Treggs for 15 yds to the USC 33 for a 1ST down						
+9:16 - 3rd;1st and 10;USC 33;RUN;a;Khalfani Muhammad;Khalfani Muhammad run for a loss of 2 yards to the USC 35 for a 1ST down USC Penalty, unsportsmanlike conduct (Chris Hawkins) to the USC 20 for a 1ST down						
+9:16 - 3rd;1st and 10;USC 20;PASS;6;Kenny Lawler;Jared Goff pass complete to Kenny Lawler for 6 yds to the USC 14						
+9:16 - 3rd;2nd and 4;USC 14;PASS;8;Trevor Davis;Jared Goff pass complete to Trevor Davis for 8 yds to the USC 6 for a 1ST down						
+5:41 - 3rd;1st and 0;USC 6;NA;NA;NA;Daniel Lasco 6 Yd Run (Matt Anderson Kick)						
+5:41 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Justin Davis;Matt Anderson kickoff for 62 yds , Justin Davis return for 24 yds to the USC 27						
+5:33 - 3rd;1st and 10;USC 27;RUN;3;Tre Madden;Tre Madden run for 3 yds to the USC 30						
+5:33 - 3rd;2nd and 7;USC 30;PASS;12;De'Quan Hampton;Cody Kessler pass complete to De'Quan Hampton for 12 yds to the USC 42 for a 1ST down						
+5:33 - 3rd;1st and 10;USC 42;RUN;2;Tre Madden;Tre Madden run for 2 yds to the USC 44						
+5:33 - 3rd;2nd and 8;USC 44;PASS;22;Deontay Burnett;Cody Kessler pass complete to Deontay Burnett for 22 yds to the Cal 34 for a 1ST down						
+5:33 - 3rd;1st and 10;CAL 34;RUN;3;Justin Davis;Justin Davis run for 3 yds to the Cal 31						
+5:33 - 3rd;2nd and 7;CAL 31;RUN;1;Justin Davis;Justin Davis run for 1 yd to the Cal 30						
+5:33 - 3rd;3rd and 6;CAL 30;PASS;3;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 3 yds to the Cal 27						
+1:47 - 3rd;4th and 3;CAL 27;NA;NA;NA;Timeout USC, clock 01:47						
+1:42 - 3rd;4th and 3;CAL 27;NA;NA;NA;Alex Wood 43 Yd Field Goal						
+1:42 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Trevor Davis;Alex Wood kickoff for 64 yds , Trevor Davis return for 17 yds to the CALIFORNIA 48 CALIFORNIA Penalty, illegal block (9 Yards) to the Cal 9						
+1:37 - 3rd;1st and 10;CAL 9;PASS;11;Kenny Lawler;Jared Goff pass complete to Kenny Lawler for 11 yds to the Cal 20 for a 1ST down						
+1:37 - 3rd;1st and 10;CAL 20;PASS;43;Bryce Treggs;Jared Goff pass complete to Bryce Treggs for 43 yds to the USC 37 for a 1ST down						
+1:37 - 3rd;1st and 10;USC 37;RUN;6;Daniel Lasco;Daniel Lasco run for 6 yds to the USC 31						
+1:37 - 3rd;2nd and 4;USC 31;RUN;1;Daniel Lasco;Daniel Lasco run for 1 yd to the USC 30						
+15:00 - 4th;3rd and 3;USC 30;PASS;a;Daniel Lasco;Jared Goff pass complete to Daniel Lasco for a loss of 7 yards to the USC 37						
+15:00 - 4th;4th and 10;USC 37;NA;NA;NA;Jared Goff pass intercepted Kevon Seymour return for 27 yds to the 50 yard line						
+14:19 - 4th;1st and 10;50;RUN;9;Justin Davis;Justin Davis run for 9 yds to the Cal 41						
+14:19 - 4th;2nd and 1;CAL 41;RUN;no;Justin Davis;Justin Davis run for no gain to the Cal 41						
+14:19 - 4th;3rd and 1;CAL 41;RUN;3;Tre Madden;Tre Madden run for 3 yds to the Cal 38 for a 1ST down						
+14:19 - 4th;1st and 10;CAL 38;RUN;3;Tre Madden;Tre Madden run for 3 yds to the Cal 35						
+14:19 - 4th;2nd and 7;CAL 35;RUN;3;Ronald Jones;Ronald Jones II run for 3 yds to the Cal 32						
+14:19 - 4th;3rd and 4;CAL 32;RUN;3;Tre Madden;Tre Madden run for 3 yds to the Cal 29						
+14:19 - 4th;4th and 1;CAL 29;RUN;no;Tre Madden;Tre Madden run for no gain to the Cal 29						
+10:54 - 4th;1st and 10;CAL 30;RUN;1;Khalfani Muhammad;Khalfani Muhammad run for 1 yd to the Cal 31						
+10:54 - 4th;2nd and 9;CAL 31;RUN;a;Jared Goff;Jared Goff run for a loss of 3 yards to the Cal 28						
+10:54 - 4th;3rd and 12;CAL 28;INCOMPLETE PASS;NA;Stephen Anderson;Jared Goff pass incomplete to Stephen Anderson						
+10:54 - 4th;4th and 12;CAL 28;PUNT;NA;NA;Cole Leininger punt for 42 yds, downed at the USC 30						
+9:39 - 4th;1st and 10;USC 30;RUN;3;Cody Kessler;Cody Kessler run for 3 yds to the USC 33						
+9:39 - 4th;2nd and 7;USC 33;NA(PENALTY);NA;NA;Davis, Justin rush left for 2 yards to the USC35 (Nickerson, Hardy;Allensworth, Darius), PENALTY USC holding 10 yards to the USC23, NO PLAY.						
+9:39 - 4th;2nd and 17;USC 23;PASS;15;Jalen Greene;Cody Kessler pass complete to Jalen Greene for 15 yds to the USC 38						
+9:39 - 4th;3rd and 2;USC 38;RUN;1;Justin Davis;Justin Davis run for 1 yd to the USC 39						
+9:39 - 4th;4th and 1;USC 39;PUNT;NA;NA;Kris Albarado punt for 48 yds, fair catch by Trevor Davis at the Cal 13						
+7:13 - 4th;1st and 10;CAL 13;RUN;13;Jared Goff;Jared Goff run for 13 yds to the Cal 26 for a 1ST down						
+7:13 - 4th;1st and 10;CAL 26;PASS;9;Stephen Anderson;Jared Goff pass complete to Stephen Anderson for 9 yds to the Cal 35						
+7:13 - 4th;2nd and 1;CAL 35;RUN;8;Jared Goff;Jared Goff run for 8 yds to the Cal 43 for a 1ST down						
+7:13 - 4th;1st and 10;CAL 43;INCOMPLETE PASS;NA;NA;Jared Goff pass incomplete, broken up by Cameron Smith						
+7:13 - 4th;2nd and 10;CAL 43;INCOMPLETE PASS(PENALTY);NA;Treggs, Bryce;Goff, Jared pass incomplete to Treggs, Bryce (Lockett, Jonathan), PENALTY USC pass interference (Lockett, Jonathan) 15 yards to the USC42, 1ST DOWN CAL, NO PLAY.						
+7:13 - 4th;1st and 10;USC 42;NA(PENALTY);NA;NA;Muhammad, Khalfani rush right for 16 yards to the USC26, out-of-bounds (Gustin, Porter;Cravens, Su'a), PENALTY CAL holding (Moore, Steven) 10 yards to the CAL48, NO PLAY.						
+7:13 - 4th;1st and 20;CAL 48;INCOMPLETE PASS;NA;Bryce Treggs;Jared Goff pass incomplete to Bryce Treggs						
+7:13 - 4th;2nd and 20;CAL 48;RUN;7;Daniel Lasco;Daniel Lasco run for 7 yds to the USC 45						
+7:13 - 4th;3rd and 13;USC 45;PASS;7;Raymond Hudson;Jared Goff pass complete to Raymond Hudson for 7 yds to the USC 38						
+7:13 - 4th;4th and 6;USC 38;PASS;29;Darius Powe;Jared Goff pass complete to Darius Powe for 29 yds to the USC 9 for a 1ST down						
+3:52 - 4th;1st and 0;USC 9;NA;NA;NA;Stephen Anderson 9 Yd pass from Jared Goff (Matt Anderson Kick)						
+3:52 - 4th;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Matt Anderson kickoff for 63 yds , Adoree' Jackson return for 31 yds to the USC 33						
+3:45 - 4th;1st and 10;USC 33;RUN;5;Ronald Jones;Ronald Jones II run for 5 yds to the USC 38						
+3:45 - 4th;2nd and 5;USC 38;RUN;4;Ronald Jones;Ronald Jones II run for 4 yds to the USC 42						
+2:58 - 4th;3rd and 1;USC 42;NA;NA;NA;Timeout CALIFORNIA, clock 02:58						
+2:58 - 4th;3rd and 1;USC 42;NA;NA;NA;Timeout USC, clock 02:58						
+2:58 - 4th;3rd and 1;USC 42;RUN;14;Tre Madden;Tre Madden run for 14 yds to the Cal 44 for a 1ST down						
+2:58 - 4th;1st and 10;CAL 44;RUN;4;Justin Davis;Justin Davis run for 4 yds to the Cal 40						
+2:18 - 4th;2nd and 6;CAL 40;NA;NA;NA;Timeout CALIFORNIA, clock 02:18						
+2:18 - 4th;2nd and 6;CAL 40;RUN;no;Justin Davis;Justin Davis run for no gain to the Cal 40						
+2:13 - 4th;3rd and 6;CAL 40;NA;NA;NA;Timeout CALIFORNIA, clock 02:13						
+2:13 - 4th;3rd and 6;CAL 40;RUN;7;Justin Davis;Justin Davis run for 7 yds to the Cal 33 for a 1ST down						
+2:13 - 4th;1st and 10;CAL 33;RUN;a;Team run;Team run for a loss of 2 yards to the Cal 35						
+2:13 - 4th;2nd and 12;CAL 35;RUN;a;Team run;Team run for a loss of 2 yards to the Cal 37						
+2:13 - 4th;3rd and 14;CAL 37;RUN;a;Team run;Team run for a loss of 2 yards to the Cal 39						

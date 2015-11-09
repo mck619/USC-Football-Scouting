@@ -1,0 +1,189 @@
+15:00 - 1st;Kickoff;Kickoff;KICKOFF;NA;NA;Austin Rehkow kickoff for 65 yds for a touchback						
+14:45 - 1st;1st and 10;USC 25;RUN;5;Tre Madden;Tre Madden run for 5 yds to the USC 30						
+14:24 - 1st;2nd and 5;USC 30;PASS;16;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 16 yds to the USC 46 for a 1ST down						
+14:11 - 1st;1st and 10;USC 46;PASS;15;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 15 yds to the Idaho 39 for a 1ST down						
+13:50 - 1st;1st and 10;IDHO 39;RUN;8;Tre Madden;Tre Madden run for 8 yds to the Idaho 31						
+13:35 - 1st;2nd and 2;IDHO 31;PASS;12;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 12 yds to the Idaho 19 for a 1ST down						
+13:01 - 1st;1st and 10;IDHO 19;RUN;18;Justin Davis;Justin Davis run for 18 yds to the Idaho 1 for a 1ST down						
+12:52 - 1st;1st and 0;IDHO 1;RUN;1;Justin Davis;Justin Davis run for 1 yd for a TD, (Alex Wood KICK)						
+12:52 - 1st;Kickoff;Kickoff;KICKOFF;NA;Jayshawn Jordan;Alex Wood kickoff for 61 yds , Jayshawn Jordan return for 20 yds to the Idaho 24						
+12:35 - 1st;1st and 10;IDHO 24;RUN;2;Elijhaa Penny;Elijhaa Penny run for 2 yds to the Idaho 26						
+12:03 - 1st;2nd and 8;IDHO 26;RUN;2;Elijhaa Penny;Elijhaa Penny run for 2 yds to the Idaho 28						
+11:26 - 1st;3rd and 6;IDHO 28;INCOMPLETE PASS;NA;Elijhaa Penny;Matt Linehan pass incomplete to Elijhaa Penny						
+11:17 - 1st;4th and 6;IDHO 28;PUNT;NA;Adoree' Jackson;Austin Rehkow punt for 50 yds , Adoree' Jackson returns for no gain to the USC 22						
+11:01 - 1st;1st and 10;USC 22;PASS;11;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 11 yds to the USC 33 for a 1ST down						
+10:52 - 1st;1st and 10;USC 33;PASS;9;Jahleel Pinner;Cody Kessler pass complete to Jahleel Pinner for 9 yds to the USC 42						
+10:30 - 1st;2nd and 1;USC 42;RUN;5;Tre Madden;Tre Madden run for 5 yds to the USC 47 for a 1ST down						
+10:01 - 1st;1st and 10;USC 47;RUN;3;Tre Madden;Tre Madden run for 3 yds to the 50 yard line						
+9:35 - 1st;2nd and 7;50;RUN;43;Justin Davis;Justin Davis run for 43 yds to the Idaho 7 for a 1ST down						
+9:24 - 1st;1st and 0;IDHO 7;RUN;7;Justin Davis;Justin Davis run for 7 yds for a TD, (Alex Wood KICK)						
+9:24 - 1st;Kickoff;Kickoff;KICKOFF;NA;Jayshawn Jordan;Alex Wood kickoff for 65 yds , Jayshawn Jordan return for 18 yds to the Idaho 18 Jayshawn Jordan fumbled, recovered by Idaho						
+8:56 - 1st;1st and 10;IDHO 18;PASS;9;Jacob Sannon;Matt Linehan pass complete to Jacob Sannon for 9 yds to the Idaho 27						
+8:45 - 1st;2nd and 1;IDHO 27;RUN;2;Elijhaa Penny;Elijhaa Penny run for 2 yds to the Idaho 29 for a 1ST down						
+8:17 - 1st;1st and 10;IDHO 29;INCOMPLETE PASS;NA;NA;Matt Linehan pass incomplete						
+8:02 - 1st;2nd and 10;IDHO 29;RUN;a;Elijhaa Penny;Elijhaa Penny run for a loss of 2 yards to the Idaho 27						
+7:30 - 1st;3rd and 12;IDHO 27;NA(PENALTY);NA;NA;Penny, Elijhaa rush for 12 yards to the IDAHO39, PENALTY IDAHO personal foul (Manley, Jake) 13 yards to the IDAHO14, NO PLAY.						
+6:51 - 1st;3rd and 25;IDHO 14;PASS;10;Jacob Sannon;Matt Linehan pass complete to Jacob Sannon for 10 yds to the Idaho 24						
+6:08 - 1st;1st and 10;USC 21;PASS;6;Tyler Petite;Cody Kessler pass complete to Tyler Petite for 6 yds to the USC 27						
+5:51 - 1st;2nd and 4;USC 27;RUN;a;Ronald Jones;Ronald Jones II run for a loss of 1 yard to the USC 26						
+5:27 - 1st;3rd and 5;USC 26;INCOMPLETE PASS;NA;Steven Mitchell;Cody Kessler pass incomplete to Steven Mitchell Jr.						
+5:19 - 1st;4th and 5;USC 26;PUNT;NA;NA;Kris Albarado punt for 54 yds, fair catch by Jordan Frysinger at the Idaho 20						
+5:16 - 1st;1st and 10;IDHO 20;INCOMPLETE PASS;NA;Callen Hightower;Matt Linehan pass incomplete to Callen Hightower						
+5:16 - 1st;2nd and 10;IDHO 20;NA;NA;NA;Timeout IDAHO, clock 05:16						
+5:07 - 1st;2nd and 10;IDHO 20;NA(PENALTY);NA;NA;Duckworth, Aaron rush for 3 yards to the IDAHO23, PENALTY USC offside (Simmons, Delvon) 5 yards to the IDAHO25, NO PLAY.						
+4:38 - 1st;2nd and 5;IDHO 25;INCOMPLETE PASS;NA;Deon Watson;Matt Linehan pass incomplete to Deon Watson						
+4:34 - 1st;3rd and 5;IDHO 25;INCOMPLETE PASS;NA;Elijhaa Penny;Matt Linehan pass incomplete to Elijhaa Penny						
+4:25 - 1st;4th and 5;IDHO 25;PUNT;NA;NA;Austin Rehkow punt for 25 yds, punt out-of-bounds at the 50 yard line						
+4:16 - 1st;1st and 10;50;PASS;50;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 50 yds for a TD, (Alex Wood KICK)						
+4:16 - 1st;Kickoff;Kickoff;KICKOFF;NA;Elijhaa Penny;Alex Wood kickoff for 61 yds , Elijhaa Penny return for 18 yds to the Idaho 22						
+4:00 - 1st;1st and 10;IDHO 22;RUN;4;Elijhaa Penny;Elijhaa Penny run for 4 yds to the Idaho 26						
+3:37 - 1st;2nd and 6;IDHO 26;INCOMPLETE PASS;NA;Jacob Sannon;Matt Linehan pass incomplete to Jacob Sannon						
+3:17 - 1st;3rd and 6;IDHO 26;PASS;9;Buck Cowan;Matt Linehan pass complete to Buck Cowan for 9 yds to the Idaho 35 for a 1ST down						
+3:05 - 1st;1st and 10;IDHO 35;RUN;2;Elijhaa Penny;Elijhaa Penny run for 2 yds to the Idaho 37						
+2:37 - 1st;2nd and 8;IDHO 37;RUN;7;Matt Linehan;Matt Linehan run for 7 yds to the Idaho 44						
+2:01 - 1st;3rd and 1;IDHO 44;INCOMPLETE PASS(PENALTY);NA;Watson, Deon;Linehan, Matt pass incomplete to Watson, Deon (Tell III, Marvell), PENALTY USC pass interference (Tell III, Marvell) 15 yards to the USC41, NO PLAY, 1ST DOWN IDAHO.						
+1:53 - 1st;1st and 10;USC 41;PASS;30;Callen Hightower;Matt Linehan pass complete to Callen Hightower for 30 yds to the USC 11 for a 1ST down						
+1:21 - 1st;1st and 10;USC 11;RUN;2;Elijhaa Penny;Elijhaa Penny run for 2 yds to the USC 9						
+0:52 - 1st;2nd and 8;USC 9;NA;NA;NA;Timeout IDAHO, clock 00:52						
+0:29 - 1st;2nd and 8;USC 9;PASS;a;Callen Hightower;Matt Linehan pass complete to Callen Hightower for a loss of 1 yard to the USC 10						
+0:00 - 1st;3rd and 9;USC 10;RUN;7;Matt Linehan;Matt Linehan run for 7 yds to the USC 3						
+14:57 - 2nd;4th and 2;USC 3;NA;NA;NA;Austin Rehkow 20 yd FG GOOD						
+14:57 - 2nd;Kickoff;Kickoff;KICKOFF;NA;NA;Austin Rehkow kickoff for 61 yds						
+14:48 - 2nd;1st and 10;USC 35;PASS;12;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 12 yds to the USC 47 for a 1ST down						
+14:29 - 2nd;1st and 10;USC 47;PASS;8;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 8 yds to the Idaho 45						
+14:06 - 2nd;2nd and 2;IDHO 45;PASS;13;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 13 yds to the Idaho 32 for a 1ST down						
+13:50 - 2nd;1st and 10;IDHO 32;PASS;14;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 14 yds to the Idaho 18 for a 1ST down						
+13:25 - 2nd;1st and 10;IDHO 18;RUN;5;Justin Davis;Justin Davis run for 5 yds to the Idaho 13						
+13:00 - 2nd;2nd and 5;IDHO 13;INCOMPLETE PASS;NA;De'Quan Hampton;Cody Kessler pass incomplete to De'Quan Hampton						
+12:46 - 2nd;3rd and 5;IDHO 13;RUN;3;Cody Kessler;Cody Kessler run for 3 yds to the Idaho 10						
+12:15 - 2nd;4th and 2;IDHO 10;NA;NA;NA;Timeout IDAHO, clock 12:15						
+12:11 - 2nd;4th and 2;IDHO 10;RUN;3;Tre Madden;Tre Madden run for 3 yds to the Idaho 7 for a 1ST down						
+12:01 - 2nd;1st and 0;IDHO 7;RUN;7;Tre Madden;Tre Madden run for 7 yds for a TD, (Alex Wood KICK)						
+12:01 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Elijhaa Penny;Alex Wood kickoff for 65 yds , Elijhaa Penny return for 18 yds to the Idaho 18						
+11:41 - 2nd;1st and 10;IDHO 18;PASS;5;Jacob Sannon;Jake Luton pass complete to Jacob Sannon for 5 yds to the Idaho 23						
+11:00 - 2nd;2nd and 5;IDHO 23;RUN;3;Aaron Duckworth;Aaron Duckworth run for 3 yds to the Idaho 26						
+10:31 - 2nd;3rd and 2;IDHO 26;PASS;1;Jake Manley;Jake Luton pass complete to Jake Manley for 1 yd to the Idaho 27						
+10:07 - 2nd;4th and 1;IDHO 27;RUN;2;Elijhaa Penny;Elijhaa Penny run for 2 yds to the Idaho 29 for a 1ST down						
+9:26 - 2nd;1st and 10;IDHO 29;NA;NA;NA;Jake Luton sacked by Su'a Cravens for a loss of 8 yards to the Idaho 21						
+8:51 - 2nd;2nd and 18;IDHO 21;PASS;11;Callen Hightower;Jake Luton pass complete to Callen Hightower for 11 yds to the Idaho 32						
+8:31 - 2nd;3rd and 7;IDHO 32;INCOMPLETE PASS;NA;Callen Hightower,;Jake Luton pass incomplete to Callen Hightower, broken up by Adoree' Jackson						
+8:31 - 2nd;4th and 7;IDHO 32;NA;NA;NA;Timeout USC, clock 08:31						
+8:22 - 2nd;4th and 7;IDHO 32;PUNT;NA;Adoree' Jackson;Austin Rehkow punt for 46 yds , Adoree' Jackson returns for no gain to the USC 22						
+8:03 - 2nd;1st and 10;USC 22;RUN;no;Ronald Jones;Ronald Jones II run for no gain to the USC 22						
+7:47 - 2nd;2nd and 10;USC 22;PASS;15;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 15 yds to the USC 37 for a 1ST down						
+7:27 - 2nd;1st and 10;USC 37;PASS;5;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 5 yds to the USC 42						
+7:02 - 2nd;2nd and 5;USC 42;RUN;11;Ronald Jones;Ronald Jones II run for 11 yds to the Idaho 47 for a 1ST down						
+6:48 - 2nd;1st and 10;IDHO 47;PASS;5;Jalen Greene;Cody Kessler pass complete to Jalen Greene for 5 yds to the Idaho 42						
+6:28 - 2nd;2nd and 5;IDHO 42;PASS;11;Jalen Greene;Cody Kessler pass complete to Jalen Greene for 11 yds to the Idaho 31 for a 1ST down						
+6:05 - 2nd;1st and 10;IDHO 31;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the Idaho 29 USC Penalty, Offensive Holding (Max Tuerk) to the Idaho 39						
+5:58 - 2nd;1st and 18;IDHO 39;PASS;30;Tre Madden;Cody Kessler pass complete to Tre Madden for 30 yds to the Idaho 9 for a 1ST down						
+5:45 - 2nd;1st and 0;IDHO 9;RUN;9;Tre Madden;Tre Madden run for 9 yds for a TD, (Alex Wood KICK)						
+5:45 - 2nd;Kickoff;Kickoff;KICKOFF;NA;NA;Alex Wood kickoff for 65 yds for a touchback						
+5:35 - 2nd;1st and 10;IDHO 25;PASS;11;Deon Watson;Jake Luton pass complete to Deon Watson for 11 yds to the Idaho 36 for a 1ST down						
+5:21 - 2nd;1st and 10;IDHO 36;RUN;no;Aaron Duckworth;Aaron Duckworth run for no gain to the Idaho 36						
+4:42 - 2nd;2nd and 10;IDHO 36;INCOMPLETE PASS;NA;Deon Watson;Jake Luton pass incomplete to Deon Watson						
+4:35 - 2nd;3rd and 10;IDHO 36;RUN;1;Aaron Duckworth;Aaron Duckworth run for 1 yd to the Idaho 37						
+3:55 - 2nd;4th and 9;IDHO 37;PUNT;NA;Adoree' Jackson;Austin Rehkow punt for 49 yds , Adoree' Jackson returns for 7 yds to the USC 21						
+3:51 - 2nd;1st and 10;USC 21;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+3:29 - 2nd;2nd and 10;USC 21;RUN;12;Dominic Davis;Dominic Davis run for 12 yds to the USC 33 for a 1ST down						
+3:08 - 2nd;1st and 10;USC 33;PASS;8;Jahleel Pinner;Cody Kessler pass complete to Jahleel Pinner for 8 yds to the USC 41						
+3:01 - 2nd;2nd and 2;USC 41;RUN;10;Dominic Davis;Dominic Davis run for 10 yds to the Idaho 49 for a 1ST down						
+2:22 - 2nd;1st and 10;IDHO 49;PASS;30;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 30 yds to the Idaho 19 for a 1ST down						
+1:53 - 2nd;1st and 10;IDHO 19;RUN;8;Aca'Cedric Ware;Aca'Cedric Ware run for 8 yds to the Idaho 11						
+1:23 - 2nd;2nd and 2;IDHO 11;RUN;4;Aca'Cedric Ware;Aca'Cedric Ware run for 4 yds to the Idaho 7 for a 1ST down						
+0:54 - 2nd;1st and Goal;IDHO 7;INCOMPLETE PASS;NA;Tre Madden;Cody Kessler pass incomplete to Tre Madden						
+0:37 - 2nd;2nd and Goal;IDHO 7;RUN;1;Aca'Cedric Ware;Aca'Cedric Ware run for 1 yd to the Idaho 6						
+0:29 - 2nd;3rd and Goal;IDHO 6;NA;NA;NA;Timeout USC, clock 00:29						
+0:25 - 2nd;3rd and Goal;IDHO 6;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+0:22 - 2nd;4th and 0;IDHO 6;NA;NA;NA;Alex Wood 24 yd FG GOOD						
+0:22 - 2nd;Kickoff;Kickoff;KICKOFF;NA;NA;Alex Wood kickoff for 61 yds						
+0:00 - 2nd;1st and 10;IDHO 35;RUN;5;Elijhaa Penny;Elijhaa Penny run for 5 yds to the Idaho 40						
+15:00 - 3rd;Kickoff;Kickoff;KICKOFF;NA;NA;Alex Wood kickoff for 65 yds for a touchback						
+14:45 - 3rd;1st and 10;IDHO 25;PASS;6;Callen Hightower;Matt Linehan pass complete to Callen Hightower for 6 yds to the Idaho 31						
+14:21 - 3rd;2nd and 4;IDHO 31;RUN;3;Elijhaa Penny;Elijhaa Penny run for 3 yds to the Idaho 34						
+13:55 - 3rd;3rd and 1;IDHO 34;RUN;1;Elijhaa Penny;Elijhaa Penny run for 1 yd to the Idaho 35 for a 1ST down						
+13:31 - 3rd;1st and 10;IDHO 35;PASS;6;Jacob Sannon;Matt Linehan pass complete to Jacob Sannon for 6 yds to the Idaho 41						
+13:07 - 3rd;2nd and 4;IDHO 41;RUN;13;Aaron Duckworth;Aaron Duckworth run for 13 yds to the USC 46 for a 1ST down						
+12:49 - 3rd;1st and 10;USC 46;RUN;4;Aaron Duckworth;Aaron Duckworth run for 4 yds to the USC 42						
+12:20 - 3rd;2nd and 6;USC 42;INCOMPLETE PASS;NA;Aaron Duckworth;Matt Linehan pass incomplete to Aaron Duckworth						
+12:13 - 3rd;3rd and 6;USC 42;PASS;8;Deon Watson;Matt Linehan pass complete to Deon Watson for 8 yds to the USC 34 for a 1ST down						
+11:33 - 3rd;1st and 10;USC 34;RUN;1;Matt Linehan;Matt Linehan run for 1 yd to the USC 33						
+11:09 - 3rd;2nd and 9;USC 33;PASS;14;Jacob Sannon;Matt Linehan pass complete to Jacob Sannon for 14 yds to the USC 19 for a 1ST down						
+10:40 - 3rd;1st and 10;USC 19;PASS;5;Jacob Sannon;Matt Linehan pass complete to Jacob Sannon for 5 yds to the USC 14						
+10:13 - 3rd;2nd and 5;USC 14;RUN;4;Aaron Duckworth;Aaron Duckworth run for 4 yds to the USC 10						
+9:34 - 3rd;3rd and 1;USC 10;PASS;10;Buck Cowan;Matt Linehan pass complete to Buck Cowan for 10 yds for a TD, (Austin Rehkow PAT BLOCKED)						
+9:34 - 3rd;Kickoff;Kickoff;KICKOFF;NA;NA;Austin Rehkow kickoff for 65 yds for a touchback USC Penalty, Unsportsmanlike Conduct (JuJu Smith-Schuster)						
+9:27 - 3rd;1st and 10;USC 13;PASS;1;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 1 yd to the USC 14						
+9:10 - 3rd;2nd and 9;USC 14;PASS;16;Taylor McNamara;Cody Kessler pass complete to Taylor McNamara for 16 yds to the USC 30 for a 1ST down						
+8:50 - 3rd;1st and 10;USC 30;PASS;15;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 15 yds to the USC 45 for a 1ST down						
+8:35 - 3rd;1st and 10;USC 45;PASS;15;Jones II;Cody Kessler pass complete to Ronald Jones II for 15 yds to the Idaho 40 for a 1ST down						
+8:18 - 3rd;1st and 10;IDHO 40;PASS;12;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 12 yds to the Idaho 28 for a 1ST down						
+7:57 - 3rd;1st and 10;IDHO 28;PASS;28;Isaac Whitney;Cody Kessler pass complete to Isaac Whitney for 28 yds for a TD, (Alex Wood KICK)						
+7:57 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Elijhaa Penny;Alex Wood kickoff for 65 yds , Elijhaa Penny return for 18 yds to the Idaho 18						
+7:43 - 3rd;1st and 10;IDHO 18;RUN;4;Elijhaa Penny;Elijhaa Penny run for 4 yds to the Idaho 22						
+7:19 - 3rd;2nd and 6;IDHO 22;PASS;11;Deon Watson;Matt Linehan pass complete to Deon Watson for 11 yds to the Idaho 33 for a 1ST down						
+6:50 - 3rd;1st and 10;IDHO 33;RUN;a;Aaron Duckworth;Aaron Duckworth run for a loss of 5 yards to the Idaho 28						
+6:10 - 3rd;2nd and 15;IDHO 28;PASS;22;Deon Watson;Matt Linehan pass complete to Deon Watson for 22 yds to the 50 yard line for a 1ST down						
+5:52 - 3rd;1st and 10;50;PASS;19;Jacob Sannon;Matt Linehan pass complete to Jacob Sannon for 19 yds to the USC 31 for a 1ST down						
+5:32 - 3rd;1st and 10;USC 31;PASS;2;Jacob Sannon;Matt Linehan pass complete to Jacob Sannon for 2 yds to the USC 29						
+5:11 - 3rd;2nd and 8;USC 29;INCOMPLETE PASS;NA;Jacob Sannon;Matt Linehan pass incomplete to Jacob Sannon						
+4:59 - 3rd;3rd and 8;USC 29;PASS;6;Deon Watson;Matt Linehan pass complete to Deon Watson for 6 yds to the USC 23						
+4:26 - 3rd;4th and 2;USC 23;RUN;no;Elijhaa Penny;Elijhaa Penny run for no gain to the USC 23						
+4:18 - 3rd;1st and 10;USC 23;RUN;24;Ronald Jones;Ronald Jones II run for 24 yds to the USC 47 for a 1ST down						
+4:02 - 3rd;1st and 10;USC 47;PASS;12;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 12 yds to the Idaho 41 for a 1ST down						
+3:44 - 3rd;1st and 10;IDHO 41;PASS;41;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 41 yds for a TD, (Alex Wood KICK)						
+3:44 - 3rd;Kickoff;Kickoff;KICKOFF;NA;NA;Alex Wood kickoff for 65 yds for a touchback						
+3:36 - 3rd;1st and 10;IDHO 25;INCOMPLETE PASS;NA;Callen Hightower;Matt Linehan pass incomplete to Callen Hightower						
+3:22 - 3rd;2nd and 10;IDHO 25;RUN;2;Aaron Duckworth;Aaron Duckworth run for 2 yds to the Idaho 27						
+2:42 - 3rd;3rd and 8;IDHO 27;PASS;9;Jacob Sannon;Matt Linehan pass complete to Jacob Sannon for 9 yds to the Idaho 36 for a 1ST down						
+2:13 - 3rd;1st and 10;IDHO 36;PASS;8;Deon Watson;Matt Linehan pass complete to Deon Watson for 8 yds to the Idaho 44						
+1:30 - 3rd;2nd and 2;IDHO 44;RUN;3;Elijhaa Penny;Elijhaa Penny run for 3 yds to the Idaho 47 for a 1ST down						
+1:05 - 3rd;1st and 10;IDHO 47;NA;NA;NA;Timeout IDAHO, clock 01:05						
+0:57 - 3rd;1st and 10;IDHO 47;INCOMPLETE PASS(PENALTY);NA;the IDAHO37,;Linehan, Matt pass incomplete, PENALTY IDAHO holding (Matlock, Steven) 10 yards to the IDAHO37, NO PLAY.						
+0:49 - 3rd;1st and 20;IDHO 37;RUN;4;Elijhaa Penny;Elijhaa Penny run for 4 yds to the Idaho 41						
+0:00 - 3rd;2nd and 16;IDHO 41;PASS;3;Callen Hightower;Matt Linehan pass complete to Callen Hightower for 3 yds to the Idaho 44						
+14:56 - 4th;3rd and 13;IDHO 44;INCOMPLETE PASS;NA;Jante Boston;Matt Linehan pass incomplete to Jante Boston						
+14:42 - 4th;4th and 13;IDHO 44;PUNT;NA;Mitchell Jr.;Austin Rehkow punt for 42 yds , Steven Mitchell Jr. returns for 1 yd to the USC 15						
+14:32 - 4th;1st and 10;USC 15;PASS;11;Jalen Greene;Max Browne pass complete to Jalen Greene for 11 yds to the USC 26 for a 1ST down						
+14:11 - 4th;1st and 10;USC 26;RUN;1;Aca'Cedric Ware;Aca'Cedric Ware run for 1 yd to the USC 27						
+13:54 - 4th;2nd and 9;USC 27;INCOMPLETE PASS;NA;Isaac Whitney;Max Browne pass incomplete to Isaac Whitney						
+13:41 - 4th;3rd and 9;USC 27;PASS;4;Christian Tober;Max Browne pass complete to Christian Tober for 4 yds to the USC 31						
+13:23 - 4th;4th and 5;USC 31;PUNT;NA;NA;Kris Albarado punt for 36 yds, fair catch by Jordan Frysinger at the Idaho 33						
+13:05 - 4th;1st and 10;IDHO 33;PASS;6;Calvary Pugh;Jake Luton pass complete to Calvary Pugh for 6 yds to the Idaho 39						
+12:51 - 4th;2nd and 4;IDHO 39;PASS;6;Calvary Pugh;Jake Luton pass complete to Calvary Pugh for 6 yds to the Idaho 45 for a 1ST down						
+12:15 - 4th;1st and 10;IDHO 45;RUN;5;Isaiah Saunders;Isaiah Saunders run for 5 yds to the 50 yard line						
+11:55 - 4th;2nd and 5;50;PASS;a;Jante Boston;Jake Luton pass complete to Jante Boston for a loss of 2 yards to the Idaho 48						
+11:23 - 4th;3rd and 7;IDHO 48;INCOMPLETE PASS;NA;Kareem Coles;Jake Luton pass incomplete to Kareem Coles						
+11:14 - 4th;4th and 7;IDHO 48;PUNT;NA;NA;Austin Rehkow punt for 52 yds for a touchback USC Penalty, Offensive Holding (10 Yards)						
+11:07 - 4th;1st and 10;USC 10;RUN;8;Dominic Davis;Dominic Davis run for 8 yds to the USC 18						
+10:36 - 4th;2nd and 2;USC 18;RUN;2;Dominic Davis;Dominic Davis run for 2 yds to the USC 20 for a 1ST down						
+10:10 - 4th;1st and 10;USC 20;RUN;5;Dominic Davis;Dominic Davis run for 5 yds to the USC 25						
+9:41 - 4th;2nd and 5;USC 25;PASS;18;David Mellstrom;Max Browne pass complete to David Mellstrom for 18 yds to the USC 43 for a 1ST down						
+9:10 - 4th;1st and 10;USC 43;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the USC 45						
+8:43 - 4th;2nd and 8;USC 45;INCOMPLETE PASS;NA;David Mellstrom;Max Browne pass incomplete to David Mellstrom						
+8:35 - 4th;3rd and 8;USC 45;PASS;10;Deontay Burnett;Max Browne pass complete to Deontay Burnett for 10 yds to the Idaho 45 for a 1ST down						
+7:49 - 4th;1st and 10;IDHO 45;RUN;44;Ronald Jones;Ronald Jones II run for 44 yds to the Idaho 1 for a 1ST down						
+7:37 - 4th;1st and 0;IDHO 1;NA;NA;NA;Timeout USC, clock 07:37						
+7:28 - 4th;1st and 0;IDHO 1;RUN;1;Ronald Jones;Ronald Jones II run for 1 yd for a TD, (Alex Wood KICK)						
+7:28 - 4th;Kickoff;Kickoff;KICKOFF;NA;NA;Alex Wood kickoff for 65 yds for a touchback						
+7:20 - 4th;1st and 10;IDHO 25;PASS;8;Jake Manley;Jake Luton pass complete to Jake Manley for 8 yds to the Idaho 33						
+6:52 - 4th;2nd and 2;IDHO 33;RUN;4;Isaiah Saunders;Isaiah Saunders run for 4 yds to the Idaho 37 for a 1ST down						
+6:30 - 4th;1st and 10;IDHO 37;RUN;a;Aaron Duckworth;Aaron Duckworth run for a loss of 1 yard to the Idaho 36						
+5:52 - 4th;2nd and 11;IDHO 36;INCOMPLETE PASS;NA;Callen Hightower;Jake Luton pass incomplete to Callen Hightower						
+5:45 - 4th;3rd and 11;IDHO 36;INCOMPLETE PASS;NA;Isaiah Saunders;Jake Luton pass incomplete to Isaiah Saunders						
+5:36 - 4th;4th and 11;IDHO 36;PUNT;NA;Christian Tober;Austin Rehkow punt for 55 yds , Christian Tober returns for 5 yds to the USC 14						
+5:25 - 4th;1st and 10;USC 14;RUN;17;James Toland;James Toland IV run for 17 yds to the USC 31 for a 1ST down						
+5:14 - 4th;1st and 10;USC 31;RUN;a;Conner Sullivan;Conner Sullivan run for a loss of 4 yards to the USC 27 Conner Sullivan fumbled, recovered by USC Conner Sullivan						
+4:25 - 4th;2nd and 14;USC 27;RUN;3;James Toland;James Toland IV run for 3 yds to the USC 30						
+4:09 - 4th;3rd and 11;USC 30;RUN;3;James Toland;James Toland IV run for 3 yds to the USC 33						
+3:30 - 4th;4th and 8;USC 33;NA;NA;NA;Timeout USC, clock 03:30						
+3:23 - 4th;4th and 8;USC 33;PUNT;NA;NA;Kris Albarado punt for 42 yds, fair catch by Jordan Frysinger at the Idaho 25						
+3:00 - 4th;1st and 10;IDHO 25;RUN;4;Isaiah Saunders;Isaiah Saunders run for 4 yds to the Idaho 29						
+2:50 - 4th;2nd and 6;IDHO 29;PASS;8;Kareem Coles;Matt Linehan pass complete to Kareem Coles for 8 yds to the Idaho 37 for a 1ST down						
+2:21 - 4th;1st and 10;IDHO 37;RUN;a;TEAM run;TEAM run for a loss of 4 yards to the Idaho 33 TEAM fumbled, recovered by Idaho						
+1:53 - 4th;2nd and 14;IDHO 33;INCOMPLETE PASS;NA;NA;Matt Linehan pass incomplete						
+1:48 - 4th;3rd and 14;IDHO 33;INCOMPLETE PASS;NA;Kareem Coles;Matt Linehan pass incomplete to Kareem Coles						
+1:39 - 4th;4th and 14;IDHO 33;PUNT;NA;NA;Austin Rehkow punt for 49 yds, punt out-of-bounds at the USC 18						
+1:29 - 4th;1st and 10;USC 18;RUN;7;Stefan Smith;Stefan Smith run for 7 yds to the USC 25						
+0:45 - 4th;2nd and 2;USC 25;RUN;4;Stefan Smith;Stefan Smith run for 4 yds to the USC 29 for a 1ST down						
+0:00 - 4th;1st and 10;USC 29;RUN;3;Stefan Smith;Stefan Smith run for 3 yds to the USC 32						

@@ -1,0 +1,201 @@
+15:00 - 1st;Kickoff;Kickoff;KICKOFF;NA;Tyrell Johnson;Alex Wood kickoff for 64 yds , Tyrell Johnson return for 19 yds to the Ariz 20						
+15:00 - 1st;1st and 10;ARIZ 20;PASS;3;David Richards;Anu Solomon pass complete to David Richards for 3 yds to the Ariz 23						
+15:00 - 1st;2nd and 7;ARIZ 23;RUN;5;Anu Solomon;Anu Solomon run for 5 yds to the Ariz 28						
+15:00 - 1st;3rd and 2;ARIZ 28;INCOMPLETE PASS;NA;NA;Anu Solomon pass incomplete						
+15:00 - 1st;4th and 2;ARIZ 28;PUNT;NA;Adoree' Jackson;Drew Riggleman punt for 42 yds, punt out-of-bounds at the USC 32 , Adoree' Jackson returns for 2 yds to the USC 32						
+13:53 - 1st;1st and 10;USC 32;PASS;7;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 7 yds to the USC 39						
+13:53 - 1st;2nd and 3;USC 39;NA;NA;NA;USC Penalty, false start (-5 Yards) to the USC 34						
+13:53 - 1st;2nd and 8;USC 34;RUN;2;Justin Davis;Justin Davis run for 2 yds to the USC 36						
+13:53 - 1st;3rd and 6;USC 36;NA;NA;NA;Cody Kessler sacked by Anthony Lopez for a loss of 8 yards to the USC 28						
+13:53 - 1st;4th and 14;USC 28;PUNT;NA;Nate Phillips;Kris Albarado punt for 45 yds , Nate Phillips returns for 1 yd to the Ariz 29 ARIZONA Penalty, Offensive holding (10 Yards) to the Ariz 18						
+11:54 - 1st;1st and 10;ARIZ 18;RUN;4;Orlando Bradford;Orlando Bradford run for 4 yds to the Ariz 22						
+11:54 - 1st;2nd and 6;ARIZ 22;PASS;4;David Richards;Anu Solomon pass complete to David Richards for 4 yds to the Ariz 26						
+11:54 - 1st;3rd and 2;ARIZ 26;RUN;no;Orlando Bradford;Orlando Bradford run for no gain to the Ariz 26						
+11:54 - 1st;4th and 2;ARIZ 26;NA;NA;NA;ARIZONA Penalty, false start (-5 Yards) to the Ariz 21						
+11:54 - 1st;4th and 7;ARIZ 21;PUNT;NA;Adoree' Jackson;Drew Riggleman punt for 54 yds , Adoree' Jackson returns for 16 yds to the USC 41						
+10:32 - 1st;1st and 10;USC 41;PASS;7;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 7 yds to the USC 48						
+10:32 - 1st;2nd and 3;USC 48;PASS;7;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 7 yds to the Ariz 45 for a 1ST down						
+10:32 - 1st;1st and 10;ARIZ 45;RUN;3;Ronald Jones;Ronald Jones II run for 3 yds to the Ariz 42						
+10:32 - 1st;2nd and 7;ARIZ 42;PASS;a;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for a loss of 2 yards to the Ariz 44						
+10:32 - 1st;3rd and 9;ARIZ 44;PASS;15;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 15 yds to the Ariz 29 for a 1ST down						
+10:32 - 1st;1st and 10;ARIZ 29;RUN;a;Cody Kessler;Cody Kessler run for a loss of 16 yards to the Ariz 45 Cody Kessler fumbled, recovered by Ariz Jake Matthews						
+7:59 - 1st;1st and 10;ARIZ 45;INCOMPLETE PASS(PENALTY);NA;Grant, S.,;Solomon, A. pass incomplete to Grant, S., PENALTY USC personal foul (Jefferson, Noah) 15 yards to the USC40, 1ST DOWN ARIZ, NO PLAY.						
+7:59 - 1st;1st and 10;USC 40;RUN;3;Anu Solomon;Anu Solomon run for 3 yds to the USC 37						
+7:59 - 1st;2nd and 7;USC 37;RUN;13;Anu Solomon;Anu Solomon run for 13 yds to the USC 24 for a 1ST down						
+7:59 - 1st;1st and 10;USC 24;RUN;4;Jared Baker;Jared Baker run for 4 yds to the USC 20						
+7:59 - 1st;2nd and 6;USC 20;PASS;9;Jared Baker;Anu Solomon pass complete to Jared Baker for 9 yds to the USC 11 for a 1ST down						
+7:59 - 1st;1st and 10;USC 11;RUN;2;Jared Baker;Jared Baker run for 2 yds to the USC 9						
+5:46 - 1st;2nd and 8;USC 9;PASS;9;Nate Phillips;Anu Solomon pass complete to Nate Phillips for 9 yds for a TD, (Casey Skowron KICK)						
+5:46 - 1st;Kickoff;Kickoff;KICKOFF;NA;NA;Casey Skowron kickoff for 63 yds						
+5:46 - 1st;1st and 10;USC 35;RUN;no;Ronald Jones;Ronald Jones II run for no gain to the USC 35						
+5:46 - 1st;2nd and 10;USC 35;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+5:46 - 1st;3rd and 10;USC 35;NA;NA;NA;Cody Kessler sacked by Tellas Jones for a loss of 7 yards to the USC 28						
+5:46 - 1st;4th and 17;USC 28;PUNT;NA;NA;Kris Albarado punt for 39 yds, downed at the Ariz 33						
+4:30 - 1st;1st and 10;ARIZ 33;PASS;24;Johnny Jackson;Anu Solomon pass complete to Johnny Jackson for 24 yds to the USC 43 for a 1ST down						
+4:30 - 1st;1st and 10;USC 43;NA;NA;NA;Anu Solomon sacked by Antwaun Woods for a loss of 3 yards to the USC 46						
+4:30 - 1st;2nd and 13;USC 46;RUN;2;Jared Baker;Jared Baker run for 2 yds to the USC 44						
+4:30 - 1st;3rd and 11;USC 44;NA;NA;NA;Anu Solomon sacked by Rasheem Green and Antwaun Woods for a loss of 5 yards to the USC 49						
+4:30 - 1st;4th and 16;USC 49;PUNT;NA;NA;Drew Riggleman punt for 49 yds for a touchback						
+2:21 - 1st;1st and 10;USC 20;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+2:21 - 1st;2nd and 10;USC 20;RUN;4;Justin Davis;Justin Davis run for 4 yds to the USC 24						
+2:21 - 1st;3rd and 6;USC 24;INCOMPLETE PASS;NA;Steven Mitchell;Cody Kessler pass incomplete to Steven Mitchell Jr.						
+2:21 - 1st;4th and 6;USC 24;PUNT;NA;NA;Kris Albarado punt for 36 yds, fair catch by Nate Phillips at the Ariz 40						
+1:33 - 1st;1st and 10;ARIZ 40;RUN;18;Jared Baker;Jared Baker run for 18 yds to the USC 42 for a 1ST down						
+1:33 - 1st;1st and 10;USC 42;PASS;5;Nate Phillips;Anu Solomon pass complete to Nate Phillips for 5 yds to the USC 37						
+1:33 - 1st;2nd and 5;USC 37;RUN;5;Jared Baker;Jared Baker run for 5 yds to the USC 32 for a 1ST down						
+1:33 - 1st;1st and 10;USC 32;INCOMPLETE PASS;NA;Johnny Jackson;Anu Solomon pass incomplete to Johnny Jackson						
+1:33 - 1st;2nd and 10;USC 32;PASS;23;Johnny Jackson;Anu Solomon pass complete to Johnny Jackson for 23 yds to the USC 9 for a 1ST down						
+1:33 - 1st;1st and Goal;USC 9;INCOMPLETE PASS(PENALTY);NA;Griffey, T.,;Solomon, A. pass incomplete to Griffey, T., PENALTY USC holding (Marshall, Iman) 5 yards to the USC4, 1ST DOWN ARIZ, NO PLAY.						
+1:33 - 1st;1st and Goal;USC 4;RUN;1;Orlando Bradford;Orlando Bradford run for 1 yd to the USC 3						
+14:56 - 2nd;2nd and 0;USC 3;PASS;3;David Richards;Anu Solomon pass complete to David Richards for 3 yds for a TD, (Casey Skowron KICK)						
+14:56 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Justin Davis;Casey Skowron kickoff for 45 yds , Justin Davis return for 7 yds to the USC 27						
+14:53 - 2nd;1st and 10;USC 27;PASS;18;Tyler Petite;Cody Kessler pass complete to Tyler Petite for 18 yds to the USC 45 for a 1ST down						
+14:53 - 2nd;1st and 10;USC 45;RUN;5;Ronald Jones;Ronald Jones II run for 5 yds to the 50 yard line						
+14:53 - 2nd;2nd and 5;50;RUN;no;Ronald Jones;Ronald Jones II run for no gain to the 50 yard line						
+14:53 - 2nd;3rd and 5;50;PASS;42;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 42 yds to the Ariz 8 for a 1ST down						
+14:53 - 2nd;1st and Goal;ARIZ 8;NA;NA;NA;USC Penalty, false start (-5 Yards) to the Ariz 13						
+14:53 - 2nd;1st and Goal;ARIZ 13;RUN;5;Ronald Jones;Ronald Jones II run for 5 yds to the Ariz 8						
+14:53 - 2nd;2nd and Goal;ARIZ 8;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+14:53 - 2nd;3rd and Goal;ARIZ 8;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+11:39 - 2nd;4th and 0;ARIZ 8;NA;NA;NA;Timeout ARIZONA, clock 11:39						
+11:35 - 2nd;4th and 0;ARIZ 8;NA;NA;NA;Alex Wood 25 yd FG GOOD						
+11:35 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Tyrell Johnson;Alex Wood kickoff for 65 yds , Tyrell Johnson return for 28 yds to the Ariz 28						
+11:28 - 2nd;1st and 10;ARIZ 28;PASS;2;Johnny Jackson;Anu Solomon pass complete to Johnny Jackson for 2 yds to the Ariz 30						
+11:28 - 2nd;2nd and 8;ARIZ 30;RUN;15;Jared Baker;Jared Baker run for 15 yds to the Ariz 45 for a 1ST down						
+11:28 - 2nd;1st and 10;ARIZ 45;RUN;4;Jared Baker;Jared Baker run for 4 yds to the Ariz 49						
+11:28 - 2nd;2nd and 6;ARIZ 49;PASS;29;Nate Phillips;Anu Solomon pass complete to Nate Phillips for 29 yds to the USC 22 for a 1ST down						
+11:28 - 2nd;1st and 10;USC 22;PASS;1;Johnny Jackson;Anu Solomon pass complete to Johnny Jackson for 1 yd to the USC 21						
+11:28 - 2nd;2nd and 9;USC 21;NA;NA;NA;Anu Solomon pass intercepted John Plattenburg return for 22 yds to the USC 28						
+9:15 - 2nd;1st and 10;USC 28;PASS;72;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 72 yds for a TD, (Alex Wood KICK)						
+9:15 - 2nd;1st and 10;ARIZ 47;PASS;28;David Richards;Anu Solomon pass complete to David Richards for 28 yds to the USC 25 for a 1ST down						
+9:15 - 2nd;1st and 10;USC 25;RUN;5;Jared Baker;Jared Baker run for 5 yds to the USC 20						
+9:15 - 2nd;2nd and 5;USC 20;INCOMPLETE PASS;NA;Cayleb Jones;Anu Solomon pass incomplete to Cayleb Jones						
+9:15 - 2nd;3rd and 5;USC 20;INCOMPLETE PASS;NA;NA;Anu Solomon pass incomplete ARIZONA Penalty, Offensive holding ( Yards) declined						
+8:12 - 2nd;4th and 5;USC 20;NA;NA;NA;Casey Skowron 37 yd FG GOOD						
+8:12 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Casey Skowron kickoff for 61 yds , Adoree' Jackson return for 14 yds to the USC 18						
+8:07 - 2nd;1st and 10;USC 18;RUN;18;Justin Davis;Justin Davis run for 18 yds to the USC 36 for a 1ST down						
+8:07 - 2nd;1st and 10;USC 36;PASS;6;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 6 yds to the USC 42						
+8:07 - 2nd;2nd and 4;USC 42;RUN;no;Justin Davis;Justin Davis run for no gain to the USC 42						
+8:07 - 2nd;3rd and 4;USC 42;RUN;11;Ronald Jones;Ronald Jones II run for 11 yds to the Ariz 47 for a 1ST down						
+8:07 - 2nd;1st and 10;ARIZ 47;INCOMPLETE PASS;NA;Steven Mitchell;Cody Kessler pass incomplete to Steven Mitchell Jr., broken up by Will Parks						
+8:07 - 2nd;2nd and 10;ARIZ 47;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+5:55 - 2nd;3rd and 10;ARIZ 47;NA;NA;NA;Timeout USC, clock 05:55						
+5:55 - 2nd;3rd and 10;ARIZ 47;PASS;9;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 9 yds to the Ariz 38						
+5:55 - 2nd;4th and 1;ARIZ 38;RUN;2;Justin Davis;Justin Davis run for 2 yds to the Ariz 36 for a 1ST down						
+5:55 - 2nd;1st and 10;ARIZ 36;RUN;8;Ronald Jones;Ronald Jones II run for 8 yds to the Ariz 28						
+5:55 - 2nd;2nd and 2;ARIZ 28;RUN;8;Ronald Jones;Ronald Jones II run for 8 yds to the Ariz 20 for a 1ST down						
+5:55 - 2nd;1st and 10;ARIZ 20;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+5:55 - 2nd;2nd and 10;ARIZ 20;PASS;15;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 15 yds to the Ariz 5 for a 1ST down						
+2:56 - 2nd;1st and 0;ARIZ 5;PASS;5;Jones II;Cody Kessler pass complete to Ronald Jones II for 5 yds for a TD, (Alex Wood KICK)						
+2:56 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Tyrell Johnson;Alex Wood kickoff for 58 yds , Tyrell Johnson return for 21 yds to the Ariz 28						
+2:51 - 2nd;1st and 10;ARIZ 28;INCOMPLETE PASS;NA;Jared Baker;Anu Solomon pass incomplete to Jared Baker						
+2:51 - 2nd;2nd and 10;ARIZ 28;PASS;11;David Richards;Anu Solomon pass complete to David Richards for 11 yds to the Ariz 39 for a 1ST down						
+2:51 - 2nd;1st and 10;ARIZ 39;INCOMPLETE PASS;NA;Samajie Grant;Anu Solomon pass incomplete to Samajie Grant						
+2:51 - 2nd;2nd and 10;ARIZ 39;PASS;9;Johnny Jackson;Anu Solomon pass complete to Johnny Jackson for 9 yds to the Ariz 48						
+2:51 - 2nd;3rd and 1;ARIZ 48;PASS;7;Johnny Jackson;Anu Solomon pass complete to Johnny Jackson for 7 yds to the USC 45 for a 1ST down						
+2:51 - 2nd;1st and 10;USC 45;INCOMPLETE PASS;NA;Jared Baker;Anu Solomon pass incomplete to Jared Baker						
+2:51 - 2nd;2nd and 10;USC 45;RUN;3;Jared Baker;Jared Baker run for 3 yds to the USC 42						
+1:01 - 2nd;3rd and 7;USC 42;NA;NA;NA;Timeout ARIZONA, clock 01:01						
+1:01 - 2nd;3rd and 7;USC 42;PASS;3;Johnny Jackson;Anu Solomon pass complete to Johnny Jackson for 3 yds to the USC 39						
+1:01 - 2nd;4th and 4;USC 39;INCOMPLETE PASS;NA;Cayleb Jones,;Anu Solomon pass incomplete to Cayleb Jones, broken up by Iman Marshall						
+0:06 - 2nd;1st and 10;USC 39;INCOMPLETE PASS(PENALTY);NA;the ARIZ46,;Kessler, Cody pass incomplete, QB hurry by Banda, J., PENALTY ARIZ personal foul (Banda, J.) 15 yards to the ARIZ46, 1ST DOWN USC, NO PLAY.						
+0:00 - 2nd;1st and 10;ARIZ 46;NA;NA;NA;Timeout ARIZONA, clock 00:00						
+0:00 - 2nd;1st and 10;ARIZ 46;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+15:00 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Casey Skowron kickoff for 61 yds , Adoree' Jackson return for 12 yds to the USC 16						
+15:00 - 3rd;1st and 10;USC 16;PASS;4;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 4 yds to the USC 20						
+15:00 - 3rd;2nd and 6;USC 20;INCOMPLETE PASS;NA;JuJu Smith-Schuster,;Cody Kessler pass incomplete to JuJu Smith-Schuster, broken up by Jarvis McCall Jr.						
+15:00 - 3rd;3rd and 6;USC 20;RUN;no;Cody Kessler;Cody Kessler run for no gain to the USC 20						
+15:00 - 3rd;4th and 6;USC 20;PUNT;NA;Nate Phillips;Kris Albarado punt for 39 yds, punt out-of-bounds at the USC 30 for a 1ST down , Nate Phillips returns for 14 yds to the USC 34 for a 1ST down ARIZONA Penalty, personal foul (15 Yards) to the USC 30 for a 1ST down						
+13:33 - 3rd;1st and 10;USC 30;RUN;1;Jared Baker;Jared Baker run for 1 yd to the USC 29						
+13:33 - 3rd;2nd and 9;USC 29;PASS;20;Johnny Jackson;Anu Solomon pass complete to Johnny Jackson for 20 yds to the USC 9 for a 1ST down						
+13:33 - 3rd;1st and Goal;USC 9;RUN;no;Anu Solomon;Anu Solomon run for no gain to the USC 9						
+13:33 - 3rd;2nd and Goal;USC 9;RUN;a;Samajie Grant;Samajie Grant run for a loss of 6 yards to the USC 15						
+13:33 - 3rd;3rd and Goal;USC 15;NA;NA;NA;Anu Solomon sacked by Antwaun Woods and Scott Felix for a loss of 6 yards to the USC 21						
+10:51 - 3rd;4th and 0;USC 21;NA;NA;NA;Casey Skowron 38 yd FG GOOD						
+10:51 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Casey Skowron kickoff for 60 yds , Adoree' Jackson return for 31 yds to the USC 36						
+10:43 - 3rd;1st and 10;USC 36;RUN;9;Ronald Jones;Ronald Jones II run for 9 yds to the USC 45						
+10:43 - 3rd;2nd and 1;USC 45;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the USC 47 for a 1ST down						
+10:43 - 3rd;1st and 10;USC 47;RUN;11;Justin Davis;Justin Davis run for 11 yds to the Ariz 42 for a 1ST down						
+10:43 - 3rd;1st and 10;ARIZ 42;RUN;1;Justin Davis;Justin Davis run for 1 yd to the Ariz 41						
+10:43 - 3rd;2nd and 9;ARIZ 41;PASS;5;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 5 yds to the Ariz 36						
+10:43 - 3rd;3rd and 4;ARIZ 36;RUN;5;Ronald Jones;Ronald Jones II run for 5 yds to the Ariz 31 for a 1ST down						
+10:43 - 3rd;1st and 10;ARIZ 31;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+10:43 - 3rd;2nd and 10;ARIZ 31;RUN;6;Ronald Jones;Ronald Jones II run for 6 yds to the Ariz 25						
+7:39 - 3rd;3rd and 4;ARIZ 25;NA;NA;NA;Timeout USC, clock 07:39						
+7:39 - 3rd;3rd and 4;ARIZ 25;PASS;6;Taylor McNamara;Cody Kessler pass complete to Taylor McNamara for 6 yds to the Ariz 19 for a 1ST down						
+7:39 - 3rd;1st and 10;ARIZ 19;PASS;1;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 1 yd to the Ariz 18						
+7:39 - 3rd;2nd and 9;ARIZ 18;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+6:37 - 3rd;3rd and 9;ARIZ 18;NA;NA;NA;Timeout USC, clock 06:37						
+6:37 - 3rd;3rd and 9;ARIZ 18;RUN;1;Ronald Jones;Ronald Jones II run for 1 yd to the Ariz 17						
+5:57 - 3rd;4th and 8;ARIZ 17;NA;NA;NA;Alex Wood 34 yd FG MISSED						
+5:57 - 3rd;1st and 10;ARIZ 20;RUN;1;Jared Baker;Jared Baker run for 1 yd to the Ariz 21						
+5:57 - 3rd;2nd and 9;ARIZ 21;PASS;8;Samajie Grant;Anu Solomon pass complete to Samajie Grant for 8 yds to the Ariz 29						
+5:57 - 3rd;3rd and 1;ARIZ 29;RUN;3;Orlando Bradford;Orlando Bradford run for 3 yds to the Ariz 32 for a 1ST down						
+5:57 - 3rd;1st and 10;ARIZ 32;PASS;10;Nate Phillips;Anu Solomon pass complete to Nate Phillips for 10 yds to the Ariz 42 for a 1ST down						
+5:57 - 3rd;1st and 10;ARIZ 42;RUN;4;Anu Solomon;Anu Solomon run for 4 yds to the Ariz 46						
+5:57 - 3rd;2nd and 6;ARIZ 46;PASS;5;Nate Phillips;Anu Solomon pass complete to Nate Phillips for 5 yds to the USC 49						
+5:57 - 3rd;3rd and 1;USC 49;RUN;a;Orlando Bradford;Orlando Bradford run for a loss of 1 yard to the 50 yard line						
+5:57 - 3rd;4th and 2;50;RUN;no;Orlando Bradford;Orlando Bradford run for no gain to the 50 yard line						
+2:26 - 3rd;1st and 10;50;RUN;2;Justin Davis;Justin Davis run for 2 yds to the Ariz 48						
+2:26 - 3rd;2nd and 8;ARIZ 48;INCOMPLETE PASS;NA;Darreus Rogers;Cody Kessler pass incomplete to Darreus Rogers						
+2:26 - 3rd;3rd and 8;ARIZ 48;PASS;8;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 8 yds to the Ariz 40 for a 1ST down						
+2:26 - 3rd;1st and 10;ARIZ 40;PASS;a;Deontay Burnett;Cody Kessler pass complete to Deontay Burnett for a loss of 6 yards to the Ariz 46						
+2:26 - 3rd;2nd and 16;ARIZ 46;PASS;10;De'Quan Hampton;Cody Kessler pass complete to De'Quan Hampton for 10 yds to the Ariz 36						
+2:26 - 3rd;3rd and 6;ARIZ 36;RUN;27;Ronald Jones;Ronald Jones II run for 27 yds to the Ariz 9 for a 1ST down						
+14:55 - 4th;1st and 0;ARIZ 9;RUN;9;Justin Davis;Justin Davis run for 9 yds for a TD, (Alex Wood KICK)						
+14:55 - 4th;Kickoff;Kickoff;KICKOFF;NA;Tyrell Johnson;Alex Wood kickoff for 56 yds , Tyrell Johnson return for 15 yds to the Ariz 24						
+14:49 - 4th;1st and 10;ARIZ 24;INCOMPLETE PASS;NA;Cayleb Jones;Anu Solomon pass incomplete to Cayleb Jones						
+14:49 - 4th;2nd and 10;ARIZ 24;NA;NA;NA;ARIZONA Penalty, false start (Layth Friekh) to the Ariz 19						
+14:49 - 4th;2nd and 15;ARIZ 19;RUN;a;Jared Baker;Jared Baker run for a loss of 2 yards to the Ariz 17						
+14:49 - 4th;3rd and 17;ARIZ 17;PASS;9;Jared Baker;Anu Solomon pass complete to Jared Baker for 9 yds to the Ariz 26						
+14:49 - 4th;4th and 8;ARIZ 26;PUNT;NA;Adoree' Jackson;Drew Riggleman punt for 35 yds , Adoree' Jackson returns for 3 yds to the USC 42						
+13:46 - 4th;1st and 10;USC 42;PASS;a;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for a loss of 2 yards to the USC 40						
+13:46 - 4th;2nd and 12;USC 40;RUN;4;Justin Davis;Justin Davis run for 4 yds to the USC 44						
+13:46 - 4th;3rd and 8;USC 44;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+13:46 - 4th;4th and 8;USC 44;PUNT;NA;NA;Kris Albarado punt for 56 yds for a touchback						
+12:26 - 4th;1st and 10;ARIZ 20;NA;NA;NA;ARIZONA Penalty, false start (Layth Friekh) to the Ariz 15						
+12:26 - 4th;1st and 15;ARIZ 15;RUN;a;Jerrard Randall;Jerrard Randall run for a loss of 2 yards to the Ariz 13						
+12:26 - 4th;2nd and 17;ARIZ 13;PASS;22;David Richards;Anu Solomon pass complete to David Richards for 22 yds to the Ariz 35 for a 1ST down						
+12:26 - 4th;1st and 10;ARIZ 35;PASS;36;Nate Phillips;Anu Solomon pass complete to Nate Phillips for 36 yds to the USC 29 for a 1ST down						
+12:26 - 4th;1st and 10;USC 29;INCOMPLETE PASS;NA;Jared Baker;Anu Solomon pass incomplete to Jared Baker						
+12:26 - 4th;2nd and 10;USC 29;RUN;5;Jared Baker;Jared Baker run for 5 yds to the USC 24						
+12:26 - 4th;3rd and 5;USC 24;NA;NA;NA;Anu Solomon sacked by Su'a Cravens for a loss of 2 yards to the USC 26						
+10:05 - 4th;4th and 7;USC 26;NA;NA;NA;Casey Skowron 44 yd FG GOOD						
+10:05 - 4th;Kickoff;Kickoff;KICKOFF;NA;Reuben Peters;Casey Skowron kickoff for 33 yds , Reuben Peters return for 3 yds to the USC 38 USC Penalty, personal foul (Jabari Ruffin) to the USC 20						
+10:01 - 4th;1st and 10;USC 20;RUN;6;Ronald Jones;Ronald Jones II run for 6 yds to the USC 26						
+9:24 - 4th;2nd and 4;USC 26;RUN;74;Ronald Jones;Ronald Jones II run for 74 yds for a TD, (Alex Wood KICK)						
+9:24 - 4th;Kickoff;Kickoff;KICKOFF;NA;Tyrell Johnson;Alex Wood kickoff for 62 yds , Tyrell Johnson return for 56 yds to the USC 41						
+9:16 - 4th;2nd and 15;USC 46;NA;NA;NA;ARIZONA Penalty, false start (-5 Yards) to the Ariz 49						
+9:16 - 4th;2nd and 20;ARIZ 49;PASS;6;Jared Baker;Anu Solomon pass complete to Jared Baker for 6 yds to the USC 45						
+9:16 - 4th;1st and 10;USC 41;NA;NA;NA;Anu Solomon sacked by Su'a Cravens and Claude Pelon for a loss of 5 yards to the USC 46 Anu Solomon fumbled, recovered by Ariz Jared Baker , return for 0 yards						
+9:16 - 4th;3rd and 14;USC 45;INCOMPLETE PASS;NA;Johnny Jackson;Anu Solomon pass incomplete to Johnny Jackson						
+9:16 - 4th;4th and 14;USC 45;PUNT;NA;Adoree' Jackson;Drew Riggleman punt for 37 yds , Adoree' Jackson returns for 7 yds to the USC 15						
+7:41 - 4th;1st and 10;USC 15;NA;NA;NA;ARIZONA Penalty, personal foul (Johnny Jackson) to the USC 30 for a 1ST down						
+7:41 - 4th;1st and 10;USC 30;RUN;2;Justin Davis;Justin Davis run for 2 yds to the USC 32						
+7:41 - 4th;2nd and 8;USC 32;RUN;3;Justin Davis;Justin Davis run for 3 yds to the USC 35						
+7:41 - 4th;3rd and 5;USC 35;PASS;5;De'Quan Hampton;Cody Kessler pass complete to De'Quan Hampton for 5 yds to the USC 40 for a 1ST down						
+7:41 - 4th;1st and 10;USC 40;RUN;3;Ronald Jones;Ronald Jones II run for 3 yds to the USC 43						
+7:41 - 4th;2nd and 7;USC 43;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the USC 45						
+7:41 - 4th;3rd and 5;USC 45;PASS;11;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 11 yds to the Ariz 44 for a 1ST down						
+7:41 - 4th;1st and 10;ARIZ 44;RUN;4;Justin Davis;Justin Davis run for 4 yds to the Ariz 40						
+7:41 - 4th;2nd and 6;ARIZ 40;RUN;2;Justin Davis;Justin Davis run for 2 yds to the Ariz 38 for a 1ST down ARIZONA Penalty, personal foul (15 Yards) to the Ariz 23 for a 1ST down						
+7:41 - 4th;1st and 10;ARIZ 23;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the Ariz 21						
+7:41 - 4th;2nd and 8;ARIZ 21;RUN;5;Justin Davis;Justin Davis run for 5 yds to the Ariz 16						
+2:42 - 4th;3rd and 3;ARIZ 16;NA;NA;NA;Timeout ARIZONA, clock 02:42						
+2:36 - 4th;3rd and 3;ARIZ 16;RUN;16;Justin Davis;Justin Davis run for 16 yds for a TD, (Alex Wood KICK)						
+2:36 - 4th;Kickoff;Kickoff;KICKOFF;NA;NA;Alex Wood kickoff for 60 yds						
+2:36 - 4th;1st and 10;ARIZ 35;INCOMPLETE PASS;NA;David Richards,;Anu Solomon pass incomplete to David Richards, broken up by Iman Marshall						
+2:36 - 4th;2nd and 10;ARIZ 35;PASS;1;David Richards;Anu Solomon pass complete to David Richards for 1 yd to the Ariz 36						
+2:36 - 4th;3rd and 9;ARIZ 36;PASS;10;David Richards;Anu Solomon pass complete to David Richards for 10 yds to the Ariz 46 for a 1ST down						
+2:36 - 4th;1st and 10;ARIZ 46;PASS;4;David Richards;Anu Solomon pass complete to David Richards for 4 yds to the 50 yard line						
+2:36 - 4th;2nd and 6;50;NA;NA;NA;Anu Solomon sacked by Porter Gustin for a loss of 6 yards to the Ariz 44						
+2:36 - 4th;3rd and 12;ARIZ 44;PASS;15;Jared Baker;Anu Solomon pass complete to Jared Baker for 15 yds to the USC 41 for a 1ST down						
+2:36 - 4th;1st and 10;USC 41;PASS;11;Samajie Grant;Anu Solomon pass complete to Samajie Grant for 11 yds to the USC 30 for a 1ST down						
+2:36 - 4th;1st and 10;USC 30;INCOMPLETE PASS;NA;NA;TEAM pass incomplete						
+2:36 - 4th;2nd and 10;USC 30;INCOMPLETE PASS;NA;Jared Baker,;Anu Solomon pass incomplete to Jared Baker, broken up by Lamar Dawson						
+2:36 - 4th;3rd and 10;USC 30;INCOMPLETE PASS;NA;David Richards;Anu Solomon pass incomplete to David Richards						
+2:36 - 4th;4th and 10;USC 30;PASS;21;Tyrell Johnson;Anu Solomon pass complete to Tyrell Johnson for 21 yds to the USC 9 for a 1ST down						
+2:36 - 4th;1st and Goal;USC 9;NA;NA;NA;USC Penalty,  (5 Yards) to the USC 4						
+0:10 - 4th;1st and 0;USC 4;PASS;4;Cayleb Jones;Anu Solomon pass complete to Cayleb Jones for 4 yds for a TD, (Casey Skowron KICK)						
+0:10 - 4th;Kickoff;Kickoff;KICKOFF;NA;NA;Casey Skowron kickoff for 13 yds ARIZONA Penalty, Defensive offside (-5 Yards) to the Ariz 43						
+0:10 - 4th;1st and 10;ARIZ 43;RUN;a;TEAM run;TEAM run for a loss of 2 yards to the Ariz 45						

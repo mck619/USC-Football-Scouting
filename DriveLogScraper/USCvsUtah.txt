@@ -1,0 +1,178 @@
+15:00 - 1st;Kickoff;Kickoff;KICKOFF;NA;NA;Alex Wood kickoff for 65 yds for a touchback						
+14:52 - 1st;1st and 10;UTAH 25;RUN;5;Devontae Booker;Devontae Booker run for 5 yds to the Utah 30						
+14:20 - 1st;2nd and 5;UTAH 30;RUN;5;Travis Wilson;Travis Wilson run for 5 yds to the Utah 35 for a 1ST down						
+13:58 - 1st;1st and 10;UTAH 35;PASS;13;Kenneth Scott;Travis Wilson pass complete to Kenneth Scott for 13 yds to the Utah 48 for a 1ST down						
+13:34 - 1st;1st and 10;UTAH 48;RUN;no;Travis Wilson;Travis Wilson run for no gain to the Utah 48						
+13:08 - 1st;2nd and 10;UTAH 48;PASS;a;Bubba Poole;Travis Wilson pass complete to Bubba Poole for a loss of 4 yards to the Utah 44						
+12:32 - 1st;3rd and 14;UTAH 44;PASS;3;Devontae Booker;Travis Wilson pass complete to Devontae Booker for 3 yds to the Utah 47						
+11:59 - 1st;4th and 11;UTAH 47;PUNT;NA;NA;Tom Hackett punt for 41 yds, punt out-of-bounds at the USC 12						
+11:43 - 1st;1st and 10;USC 12;NA;NA;NA;Cody Kessler sacked by Hunter Dimick for a loss of 4 yards to the USC 8						
+11:18 - 1st;2nd and 14;USC 8;RUN;10;Justin Davis;Justin Davis run for 10 yds to the USC 18						
+10:30 - 1st;3rd and 4;USC 18;PASS;19;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 19 yds to the USC 37 for a 1ST down						
+10:07 - 1st;1st and 10;USC 37;RUN;2;Adoree' Jackson;Adoree' Jackson run for 2 yds to the USC 39						
+9:41 - 1st;2nd and 8;USC 39;PASS;9;Jalen Greene;Cody Kessler pass complete to Jalen Greene for 9 yds to the USC 48 for a 1ST down						
+9:15 - 1st;1st and 10;USC 48;RUN;20;Ronald Jones;Ronald Jones II run for 20 yds to the Utah 32 for a 1ST down						
+9:04 - 1st;1st and 10;UTAH 32;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the Utah 30						
+8:19 - 1st;2nd and 8;UTAH 30;PASS;12;Dominic Davis;Cody Kessler pass complete to Dominic Davis for 12 yds to the Utah 18 for a 1ST down UTAH Penalty, Face Mask (9 yards) (Jason Whittingham) to the Utah 9 for a 1ST down						
+7:59 - 1st;1st and 0;UTAH 9;NA;NA;NA;Justin Davis 9 Yd Run (Alex Wood Kick)						
+7:59 - 1st;Kickoff;Kickoff;KICKOFF;NA;Cory Butler-Byrd;Alex Wood kickoff for 64 yds , Cory Butler-Byrd return for 16 yds to the Utah 17						
+7:43 - 1st;1st and 10;UTAH 17;RUN;3;Devontae Booker;Devontae Booker run for 3 yds to the Utah 20						
+7:11 - 1st;2nd and 7;UTAH 20;PASS;6;Devontae Booker;Travis Wilson pass complete to Devontae Booker for 6 yds to the Utah 26						
+6:35 - 1st;3rd and 1;UTAH 26;RUN;8;Devontae Booker;Devontae Booker run for 8 yds to the Utah 34 for a 1ST down						
+6:07 - 1st;1st and 10;UTAH 34;PASS;7;Kenneth Scott;Travis Wilson pass complete to Kenneth Scott for 7 yds to the Utah 41						
+5:50 - 1st;2nd and 3;UTAH 41;NA;NA;NA;USC Penalty, Defensive Offside (Kenny Bigelow Jr.) to the Utah 46 for a 1ST down						
+5:30 - 1st;1st and 10;UTAH 46;PASS;1;Britain Covey;Travis Wilson pass complete to Britain Covey for 1 yd to the Utah 47						
+5:07 - 1st;2nd and 9;UTAH 47;PASS;8;Harrison Handley;Travis Wilson pass complete to Harrison Handley for 8 yds to the USC 45						
+4:47 - 1st;3rd and 1;USC 45;PASS;5;Britain Covey;Travis Wilson pass complete to Britain Covey for 5 yds to the USC 40 for a 1ST down						
+4:19 - 1st;1st and 10;USC 40;RUN;10;Devontae Booker;Devontae Booker run for 10 yds to the USC 30 for a 1ST down						
+3:53 - 1st;1st and 10;USC 30;NA;NA;NA;Britain Covey 30 Yd pass from Travis Wilson (Andy Phillips Kick)						
+3:53 - 1st;Kickoff;Kickoff;KICKOFF;NA;JuJu Smith-Schuster;Andy Phillips kickoff for 65 yds , JuJu Smith-Schuster return for 9 yds to the USC 9						
+3:40 - 1st;1st and 10;USC 9;RUN;6;Justin Davis;Justin Davis run for 6 yds to the USC 15						
+3:08 - 1st;2nd and 4;USC 15;RUN;a;Adoree' Jackson;Adoree' Jackson run for a loss of 3 yards to the USC 12						
+2:32 - 1st;3rd and 7;USC 12;NA;NA;NA;Cody Kessler sacked by Hunter Dimick and Jason Whittingham for a loss of 9 yards to the USC 3						
+1:53 - 1st;4th and 16;USC 3;PUNT;NA;Britain Covey;Kris Albarado punt for 39 yds , Britain Covey returns for 40 yds to the USC 2						
+1:49 - 1st;1st and 0;USC 2;NA;NA;NA;Bubba Poole 2 Yd Run (Andy Phillips Kick)						
+1:49 - 1st;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Andy Phillips kickoff for 65 yds , Adoree' Jackson return for 16 yds to the USC 16						
+1:35 - 1st;1st and 10;USC 16;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the USC 18						
+1:04 - 1st;2nd and 8;USC 18;PASS;18;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 18 yds to the USC 36 for a 1ST down						
+0:37 - 1st;1st and 10;USC 36;PASS;8;Dominic Davis;Cody Kessler pass complete to Dominic Davis for 8 yds to the USC 44						
+0:12 - 1st;2nd and 2;USC 44;RUN;a;Dominic Davis;Dominic Davis run for a loss of 1 yard to the USC 43						
+14:52 - 2nd;3rd and 3;USC 43;RUN;a;Justin Davis;Justin Davis run for a loss of 3 yards to the USC 40						
+14:22 - 2nd;4th and 6;USC 40;PUNT;NA;NA;Kris Albarado punt for 30 yds, downed at the Utah 30						
+14:14 - 2nd;1st and 10;UTAH 30;RUN;1;Devontae Booker;Devontae Booker run for 1 yd to the Utah 31						
+13:43 - 2nd;2nd and 9;UTAH 31;INCOMPLETE PASS;NA;Harrison Handley;Travis Wilson pass incomplete to Harrison Handley						
+13:36 - 2nd;3rd and 9;UTAH 31;RUN;a;Travis Wilson;Travis Wilson run for a loss of 5 yards to the Utah 26						
+12:54 - 2nd;4th and 14;UTAH 26;PUNT;NA;NA;Tom Hackett punt for 44 yds, downed at the USC 30						
+12:48 - 2nd;1st and 10;USC 30;INCOMPLETE PASS;NA;Tyler Petite;Jalen Greene pass incomplete to Tyler Petite						
+12:42 - 2nd;2nd and 10;USC 30;RUN;11;Ronald Jones;Ronald Jones II run for 11 yds to the USC 41 for a 1ST down						
+12:12 - 2nd;1st and 10;USC 41;PASS;6;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 6 yds to the USC 47						
+11:46 - 2nd;2nd and 4;USC 47;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+11:37 - 2nd;3rd and 4;USC 47;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+11:26 - 2nd;4th and 4;USC 47;PUNT;NA;NA;TEAM punt blocked by Cory Butler-Byrd. Downed at Utah 35						
+11:23 - 2nd;1st and 10;UTAH 35;INCOMPLETE PASS;NA;Devontae Booker;Travis Wilson pass incomplete to Devontae Booker						
+11:09 - 2nd;2nd and 10;UTAH 35;RUN;7;Devontae Booker;Devontae Booker run for 7 yds to the Utah 42						
+10:24 - 2nd;1st and Goal;UTAH 4;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+10:20 - 2nd;2nd and Goal;UTAH 4;INCOMPLETE PASS;NA;De'Quan Hampton;Cody Kessler pass incomplete to De'Quan Hampton						
+10:12 - 2nd;3rd and Goal;UTAH 4;RUN;3;Justin Davis;Justin Davis run for 3 yds to the Utah 1						
+9:47 - 2nd;4th and 0;UTAH 1;NA;NA;NA;Soma Vainuku 1 Yd Run (Alex Wood Kick)						
+9:47 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Cory Butler-Byrd;Alex Wood kickoff for 65 yds , Cory Butler-Byrd return for 19 yds to the Utah 19						
+9:34 - 2nd;1st and 10;UTAH 19;RUN;12;Travis Wilson;Travis Wilson run for 12 yds to the Utah 31 for a 1ST down						
+9:00 - 2nd;1st and 10;UTAH 31;RUN;3;Devontae Booker;Devontae Booker run for 3 yds to the Utah 34						
+8:20 - 2nd;2nd and 7;UTAH 34;RUN;2;Devontae Booker;Devontae Booker run for 2 yds to the Utah 36						
+7:41 - 2nd;3rd and 5;UTAH 36;INCOMPLETE PASS;NA;Britain Covey,;Travis Wilson pass incomplete to Britain Covey, broken up by Lamar Dawson						
+7:35 - 2nd;4th and 5;UTAH 36;PUNT;NA;NA;Tom Hackett punt for 40 yds, punt out-of-bounds at the USC 24						
+7:26 - 2nd;1st and 10;USC 24;PASS;14;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 14 yds to the USC 38 for a 1ST down						
+7:02 - 2nd;1st and 10;USC 38;PASS;9;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 9 yds to the USC 47						
+6:50 - 2nd;2nd and 1;USC 47;RUN;5;Justin Davis;Justin Davis run for 5 yds to the Utah 48 for a 1ST down						
+6:33 - 2nd;1st and 10;UTAH 48;PASS;9;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 9 yds to the Utah 39						
+5:52 - 2nd;2nd and 1;UTAH 39;RUN;a;Justin Davis;Justin Davis run for a loss of 1 yard to the Utah 40						
+5:32 - 2nd;3rd and 2;UTAH 40;RUN;3;Ronald Jones;Ronald Jones II run for 3 yds to the Utah 37 for a 1ST down						
+5:14 - 2nd;1st and 10;UTAH 37;RUN;no;Ronald Jones;Ronald Jones II run for no gain to the Utah 37						
+4:37 - 2nd;2nd and 10;UTAH 37;PASS;29;De'Quan Hampton;Cody Kessler pass complete to De'Quan Hampton for 29 yds to the Utah 8 for a 1ST down						
+4:12 - 2nd;1st and Goal;UTAH 8;NA(PENALTY);NA;NA;Jones II, Ronald rush for 2 yards to the UTAH6, PENALTY USC holding (Pinner, Jahleel) 10 yards to the UTAH18, NO PLAY.						
+3:46 - 2nd;1st and Goal;UTAH 18;INCOMPLETE PASS;NA;Tyler Petite,;Cody Kessler pass incomplete to Tyler Petite, broken up by Jason Whittingham						
+3:40 - 2nd;2nd and 0;UTAH 18;NA;NA;NA;Ronald Jones II 18 Yd Run (Alex Wood Kick)						
+3:40 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Cory Butler-Byrd;Alex Wood kickoff for 65 yds , Cory Butler-Byrd return for 11 yds to the Utah 11						
+3:18 - 2nd;1st and 10;UTAH 11;PASS;9;Bubba Poole;Travis Wilson pass complete to Bubba Poole for 9 yds to the Utah 20						
+2:50 - 2nd;2nd and 1;UTAH 20;RUN;12;Devontae Booker;Devontae Booker run for 12 yds to the Utah 32 for a 1ST down						
+2:28 - 2nd;1st and 10;UTAH 32;RUN;1;Devontae Booker;Devontae Booker run for 1 yd to the Utah 33						
+2:08 - 2nd;2nd and 9;UTAH 33;INCOMPLETE PASS;NA;Harrison Handley;Travis Wilson pass incomplete to Harrison Handley						
+2:02 - 2nd;3rd and 9;UTAH 33;INCOMPLETE PASS(PENALTY);NA;Scott, Kenneth;Wilson, Travis pass incomplete to Scott, Kenneth (Marshall, Iman), PENALTY USC pass interference (Marshall, Iman) 14 yards to the UTAH47, NO PLAY, 1ST DOWN UTAH.						
+1:57 - 2nd;1st and 10;UTAH 47;RUN;a;Travis Wilson;Travis Wilson run for a loss of 2 yards to the Utah 45 Travis Wilson fumbled, recovered by Utah						
+1:46 - 2nd;2nd and 12;UTAH 45;INCOMPLETE PASS;NA;Devontae Booker;Travis Wilson pass incomplete to Devontae Booker						
+1:34 - 2nd;3rd and 12;UTAH 45;PASS;10;Devontae Booker;Travis Wilson pass complete to Devontae Booker for 10 yds to the USC 45						
+1:20 - 2nd;4th and 2;USC 45;NA;NA;NA;Timeout USC, clock 01:20						
+1:07 - 2nd;4th and 2;USC 45;NA;NA;NA;Cameron Smith 54 Yd Interception Return (Alex Wood Kick)						
+1:07 - 2nd;Kickoff;Kickoff;KICKOFF;NA;NA;Alex Wood kickoff for 65 yds for a touchback						
+0:57 - 2nd;1st and 10;UTAH 25;PASS;5;Devontae Booker;Travis Wilson pass complete to Devontae Booker for 5 yds to the Utah 30						
+0:39 - 2nd;2nd and 5;UTAH 30;RUN;6;Travis Wilson;Travis Wilson run for 6 yds to the Utah 36 for a 1ST down						
+0:33 - 2nd;1st and 10;UTAH 36;INCOMPLETE PASS(PENALTY);NA;Singleton, Raelon;Wilson, Travis pass incomplete to Singleton, Raelon (Marshall, Iman), PENALTY USC pass interference (Marshall, Iman) 15 yards to the USC49, NO PLAY, 1ST DOWN UTAH.						
+0:26 - 2nd;1st and 10;USC 49;PASS;3;Devontae Booker;Travis Wilson pass complete to Devontae Booker for 3 yds to the USC 46						
+0:25 - 2nd;2nd and 7;USC 46;NA;NA;NA;Timeout UTAH, clock 00:25						
+0:20 - 2nd;2nd and 7;USC 46;PASS;21;Britain Covey;Travis Wilson pass complete to Britain Covey for 21 yds to the USC 25 for a 1ST down						
+0:19 - 2nd;1st and 10;USC 25;NA;NA;NA;Timeout UTAH, clock 00:19						
+0:14 - 2nd;1st and 10;USC 25;NA;NA;NA;Travis Wilson sacked by Delvon Simmons for a loss of 10 yards to the USC 35						
+0:13 - 2nd;2nd and 20;USC 35;NA;NA;NA;Timeout UTAH, clock 00:13						
+0:13 - 2nd;2nd and 20;USC 35;NA;NA;NA;Timeout USC, clock 00:13						
+0:09 - 2nd;2nd and 20;USC 35;INCOMPLETE PASS;NA;Bubba Poole;Travis Wilson pass incomplete to Bubba Poole						
+0:09 - 2nd;3rd and 20;USC 35;NA;NA;NA;Timeout USC, clock 00:09						
+0:05 - 2nd;3rd and 20;USC 35;NA;NA;NA;Andy Phillips 53 Yd Field Goal						
+0:05 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Jabari Ruffin;Andy Phillips kickoff for 37 yds , Jabari Ruffin return for 3 yds to the USC 31						
+15:00 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Andy Phillips kickoff for 62 yds , Adoree' Jackson return for 17 yds to the USC 20						
+14:47 - 3rd;1st and 10;USC 20;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+14:40 - 3rd;2nd and 10;USC 20;RUN;1;Justin Davis;Justin Davis run for 1 yd to the USC 21						
+14:04 - 3rd;3rd and 9;USC 21;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+13:55 - 3rd;4th and 9;USC 21;PUNT;NA;Britain Covey;Kris Albarado punt for 48 yds , Britain Covey returns for 3 yds to the Utah 34						
+13:48 - 3rd;1st and 10;UTAH 34;RUN;4;Devontae Booker;Devontae Booker run for 4 yds to the Utah 38						
+13:15 - 3rd;2nd and 6;UTAH 38;RUN;2;Devontae Booker;Devontae Booker run for 2 yds to the Utah 40						
+12:39 - 3rd;3rd and 4;UTAH 40;INCOMPLETE PASS;NA;Britain Covey,;Travis Wilson pass incomplete to Britain Covey, broken up by Leon McQuay III						
+12:30 - 3rd;4th and 4;UTAH 40;PUNT;NA;Adoree' Jackson;Tom Hackett punt for 43 yds , Adoree' Jackson returns for no gain to the USC 17						
+12:23 - 3rd;1st and 10;USC 17;PASS;3;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 3 yds to the USC 20						
+11:51 - 3rd;2nd and 7;USC 20;RUN;7;Ronald Jones;Ronald Jones II run for 7 yds to the USC 27 for a 1ST down						
+11:30 - 3rd;1st and 10;USC 27;PASS;4;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 4 yds to the USC 31						
+10:58 - 3rd;2nd and 6;USC 31;PASS;2;Dominic Davis;Cody Kessler pass complete to Dominic Davis for 2 yds to the USC 33						
+10:32 - 3rd;3rd and 4;USC 33;NA;NA;NA;Timeout USC, clock 10:32						
+10:10 - 3rd;3rd and 4;USC 33;PASS;15;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 15 yds to the USC 48 for a 1ST down						
+9:59 - 3rd;1st and 10;USC 48;RUN;2;Justin Davis;Justin Davis run for 2 yds to the 50 yard line						
+9:23 - 3rd;2nd and 8;50;NA;NA;NA;Cody Kessler sacked by Gionni Paul for a loss of 6 yards to the USC 44						
+8:56 - 3rd;3rd and 14;USC 44;INCOMPLETE PASS(PENALTY);NA;Petite, Tyler,;Kessler, Cody pass incomplete to Petite, Tyler, PENALTY UTAH personal foul (Tu'ikolovatu, Stevie) 15 yards to the UTAH41, NO PLAY, 1ST DOWN USC.						
+8:46 - 3rd;1st and 10;UTAH 41;RUN;3;Ronald Jones;Ronald Jones II run for 3 yds to the Utah 38						
+7:58 - 3rd;2nd and 7;UTAH 38;RUN;a;Ronald Jones;Ronald Jones II run for a loss of 5 yards to the Utah 43 Ronald Jones II fumbled, forced by Gionni Paul, recovered by USC Soma Vainuku						
+7:17 - 3rd;3rd and 12;UTAH 43;PASS;16;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 16 yds to the Utah 27 for a 1ST down						
+6:57 - 3rd;1st and 10;UTAH 27;RUN;4;Dominic Davis;Dominic Davis run for 4 yds to the Utah 23						
+6:25 - 3rd;2nd and 6;UTAH 23;RUN;3;Justin Davis;Justin Davis run for 3 yds to the Utah 20						
+5:56 - 3rd;3rd and 3;UTAH 20;PASS;18;Tyler Petite;Cody Kessler pass complete to Tyler Petite for 18 yds to the Utah 2 for a 1ST down						
+5:26 - 3rd;1st and Goal;UTAH 2;RUN;a;Justin Davis;Justin Davis run for a loss of 5 yards to the Utah 7						
+4:50 - 3rd;2nd and Goal;UTAH 7;PASS;6;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 6 yds to the Utah 1						
+4:13 - 3rd;3rd and Goal;UTAH 1;RUN;no;Justin Davis;Justin Davis run for no gain to the Utah 1						
+3:45 - 3rd;4th and 0;UTAH 1;NA;NA;NA;Timeout USC, clock 03:45						
+3:37 - 3rd;4th and 0;UTAH 1;NA;NA;NA;Cody Kessler 1 Yd Run (Alex Wood Kick)						
+3:37 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Britain Covey;Alex Wood kickoff for 65 yds , Britain Covey return for 21 yds to the Utah 21						
+3:22 - 3rd;1st and 10;UTAH 21;RUN;1;Devontae Booker;Devontae Booker run for 1 yd to the Utah 22						
+2:41 - 3rd;2nd and 9;UTAH 22;PASS;12;Raelon Singleton;Travis Wilson pass complete to Raelon Singleton for 12 yds to the Utah 34 for a 1ST down						
+2:09 - 3rd;1st and 10;UTAH 34;RUN;3;Devontae Booker;Devontae Booker run for 3 yds to the Utah 37						
+1:23 - 3rd;2nd and 7;UTAH 37;RUN;16;Travis Wilson;Travis Wilson run for 16 yds to the USC 47 for a 1ST down						
+0:53 - 3rd;1st and 10;USC 47;PASS;a;Bubba Poole;Travis Wilson pass complete to Bubba Poole for a loss of 2 yards to the USC 49						
+0:35 - 3rd;2nd and 12;USC 49;NA;NA;NA;UTAH Penalty, False Start (Jackson Barton) to the Utah 46						
+14:56 - 4th;2nd and 17;UTAH 46;INCOMPLETE PASS;NA;Devontae Booker,;Travis Wilson pass incomplete to Devontae Booker, broken up by Delvon Simmons						
+14:41 - 4th;3rd and 17;UTAH 46;NA;NA;NA;Travis Wilson sacked by Su'a Cravens for a loss of 3 yards to the Utah 43						
+14:06 - 4th;4th and 20;UTAH 43;PUNT;NA;Adoree' Jackson;Tom Hackett punt for 48 yds , Adoree' Jackson returns for a loss of 1 yard to the USC 8						
+13:58 - 4th;1st and 10;USC 8;PASS;7;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 7 yds to the USC 15						
+13:27 - 4th;2nd and 3;USC 15;RUN;19;Justin Davis;Justin Davis run for 19 yds to the USC 34 for a 1ST down						
+12:53 - 4th;1st and 10;USC 34;RUN;a;Ronald Jones;Ronald Jones II run for a loss of 1 yard to the USC 33						
+12:12 - 4th;2nd and 11;USC 33;PASS;29;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 29 yds to the Utah 38 for a 1ST down						
+11:47 - 4th;1st and 10;UTAH 38;PASS;6;Jalen Greene;Cody Kessler pass complete to Jalen Greene for 6 yds to the Utah 32						
+11:20 - 4th;2nd and 4;UTAH 32;RUN;5;Justin Davis;Justin Davis run for 5 yds to the Utah 27 for a 1ST down						
+10:41 - 4th;1st and 10;UTAH 27;RUN;2;Justin Davis;Justin Davis run for 2 yds to the Utah 25						
+9:58 - 4th;2nd and 8;UTAH 25;NA;NA;NA;JuJu Smith-Schuster 25 Yd pass from Cody Kessler (Alex Wood Kick)						
+9:58 - 4th;Kickoff;Kickoff;KICKOFF;NA;Britain Covey;Alex Wood kickoff for 65 yds , Britain Covey return for 24 yds to the Utah 24						
+9:42 - 4th;1st and 10;UTAH 24;PASS;22;Devontae Booker;Travis Wilson pass complete to Devontae Booker for 22 yds to the Utah 46 for a 1ST down						
+9:23 - 4th;1st and 10;UTAH 46;PASS;5;Kenneth Scott;Travis Wilson pass complete to Kenneth Scott for 5 yds to the USC 49						
+8:50 - 4th;2nd and 5;USC 49;NA;NA;NA;Travis Wilson pass intercepted Cameron Smith return for 27 yds to the Utah 23						
+8:44 - 4th;1st and 10;UTAH 23;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the Utah 21						
+7:47 - 4th;2nd and 8;UTAH 21;RUN;13;Ronald Jones;Ronald Jones II run for 13 yds to the Utah 8 for a 1ST down						
+7:23 - 4th;1st and Goal;UTAH 8;NA;NA;NA;USC Penalty, False Start (Zach Banner) to the Utah 13						
+6:46 - 4th;1st and Goal;UTAH 13;RUN;a;Ronald Jones;Ronald Jones II run for a loss of 1 yard to the Utah 14						
+6:09 - 4th;2nd and Goal;UTAH 14;RUN;2;Justin Davis;Justin Davis run for 2 yds to the Utah 12						
+5:33 - 4th;3rd and Goal;UTAH 12;NA;NA;NA;Cody Kessler sacked by Kylie Fitts for a loss of 7 yards to the Utah 19						
+5:01 - 4th;4th and Goal;UTAH 19;NA;NA;NA;Timeout USC, clock 05:01						
+4:57 - 4th;4th and Goal;UTAH 19;NA;NA;NA;Alex Wood 36 yd FG MISSED						
+4:49 - 4th;1st and 10;UTAH 20;PASS;5;Kenneth Scott;Travis Wilson pass complete to Kenneth Scott for 5 yds to the Utah 25						
+4:23 - 4th;2nd and 5;UTAH 25;RUN;9;Travis Wilson;Travis Wilson run for 9 yds to the Utah 34 for a 1ST down						
+4:00 - 4th;1st and 10;UTAH 34;NA;NA;NA;Britain Covey 66 Yd pass from Travis Wilson (Andy Phillips Kick)						
+4:00 - 4th;Kickoff;Kickoff;KICKOFF;NA;NA;Tom Hackett kickoff for 4 yds						
+3:50 - 4th;1st and 10;UTAH 34;RUN;7;Justin Davis;Justin Davis run for 7 yds to the Utah 27						
+3:20 - 4th;2nd and 3;UTAH 27;RUN;2;Justin Davis;Justin Davis run for 2 yds to the Utah 25						
+2:29 - 4th;3rd and 1;UTAH 25;RUN;a;Justin Davis;Justin Davis run for a loss of 1 yard to the Utah 26						
+1:49 - 4th;4th and 2;UTAH 26;RUN;a;Ronald Jones;Ronald Jones II run for a loss of 1 yard to the Utah 27						
+1:30 - 4th;1st and 10;UTAH 27;PASS;NA;Britain Covey;Travis Wilson pass complete to Britain Covey for no gain to the Utah 27						
+1:07 - 4th;2nd and 10;UTAH 27;RUN;6;Travis Wilson;Travis Wilson run for 6 yds to the Utah 33						
+1:00 - 4th;3rd and 4;UTAH 33;PASS;6;Raelon Singleton;Travis Wilson pass complete to Raelon Singleton for 6 yds to the Utah 39 for a 1ST down						
+0:45 - 4th;1st and 10;UTAH 39;PASS;17;Marcus Sanders-Williams;Travis Wilson pass complete to Marcus Sanders-Williams for 17 yds to the USC 44 for a 1ST down						
+0:31 - 4th;1st and 10;USC 44;PASS;6;Britain Covey;Travis Wilson pass complete to Britain Covey for 6 yds to the USC 38						
+0:30 - 4th;2nd and 4;USC 38;NA;NA;NA;Timeout UTAH, clock 00:30						
+0:25 - 4th;2nd and 4;USC 38;NA;NA;NA;Travis Wilson sacked by Delvon Simmons for a loss of 7 yards to the USC 45						
+0:24 - 4th;3rd and 11;USC 45;NA;NA;NA;Timeout UTAH, clock 00:24						
+0:15 - 4th;3rd and 11;USC 45;RUN;8;Travis Wilson;Travis Wilson run for 8 yds to the USC 37						
+0:14 - 4th;1st and 10;USC 20;NA;NA;NA;Timeout UTAH, clock 00:14						
+0:00 - 4th;1st and 10;USC 20;RUN;a;TEAM run;TEAM run for a loss of 2 yards to the USC 18						

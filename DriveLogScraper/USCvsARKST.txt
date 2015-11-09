@@ -1,0 +1,203 @@
+15:00 - 1st;Kickoff;Kickoff;KICKOFF;NA;Nelson Agholor;Garrett Swanson kickoff for 64 yds , Nelson Agholor return for 19 yds to the USC 46 USC Penalty, Offensive Holding (10 Yards) to the USC 10						
+14:48 - 1st;1st and 10;USC 10;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+14:33 - 1st;2nd and 10;USC 10;RUN;13;Javorius Allen;Javorius Allen run for 13 yds to the USC 23 for a 1ST down						
+14:21 - 1st;1st and 10;USC 23;RUN;3;Javorius Allen;Javorius Allen run for 3 yds to the USC 26						
+13:55 - 1st;2nd and 7;USC 26;RUN;1;JuJu Smith;JuJu Smith run for 1 yd to the USC 27						
+13:24 - 1st;3rd and 6;USC 27;PASS;9;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 9 yds to the USC 36 for a 1ST down						
+12:58 - 1st;1st and 10;USC 36;PASS;11;George Farmer;Cody Kessler pass complete to George Farmer for 11 yds to the USC 47 for a 1ST down						
+12:39 - 1st;1st and 10;USC 47;NA;NA;NA;USC Penalty, False Start (Chad Wheeler) to the USC 42						
+12:23 - 1st;1st and 15;USC 42;INCOMPLETE PASS;NA;Bryce Dixon;Cody Kessler pass incomplete to Bryce Dixon						
+12:11 - 1st;2nd and 15;USC 42;RUN;2;Javorius Allen;Javorius Allen run for 2 yds to the USC 44						
+11:32 - 1st;3rd and 13;USC 44;PASS;17;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 17 yds to the FrsSt 39 for a 1ST down						
+11:14 - 1st;1st and 10;FRES 39;INCOMPLETE PASS;NA;JuJu Smith;Cody Kessler pass incomplete to JuJu Smith						
+11:05 - 1st;2nd and 10;FRES 39;PASS;9;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 9 yds to the FrsSt 30						
+10:40 - 1st;3rd and 1;FRES 30;RUN;4;Justin Davis;Justin Davis run for 4 yds to the FrsSt 26 for a 1ST down						
+10:12 - 1st;1st and 10;FRES 26;INCOMPLETE PASS;NA;Justin Davis;Cody Kessler pass incomplete to Justin Davis						
+10:02 - 1st;2nd and 10;FRES 26;RUN;3;Justin Davis;Justin Davis run for 3 yds to the FrsSt 23						
+9:23 - 1st;3rd and 7;FRES 23;PASS;18;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 18 yds to the FrsSt 5 for a 1ST down						
+9:15 - 1st;1st and 0;FRES 5;RUN;4;Javorius Allen;Javorius Allen run for 4 yds to the FrsSt 1						
+8:45 - 1st;2nd and 0;FRES 1;RUN;1;Cody Kessler;Cody Kessler run for 1 yd for a TD, (Andre Heidari KICK)						
+8:45 - 1st;Kickoff;Kickoff;KICKOFF;NA;Dontel James;Andre Heidari kickoff for 63 yds , Dontel James return for 13 yds to the FrsSt 48 USC Penalty, Unsportsmanlike Conduct (Nelson Agholor) to the FrsSt 30						
+8:35 - 1st;1st and 10;FRES 30;RUN;1;Marteze Waller;Marteze Waller run for 1 yd to the FrsSt 31						
+8:00 - 1st;2nd and 9;FRES 31;PASS;NA;Aaron Peck;Brian Burrell pass complete to Aaron Peck for no gain to the FrsSt 31						
+8:00 - 1st;3rd and 9;FRES 31;PASS(PENALTY);4;Williams, LeKendrick;Burrell, Brian pass complete to Williams, LeKendrick for 4 yards to the FRESNOST35, PENALTY USC personal foul off-setting, PENALTY FRESNOST Offside off-setting, NO PLAY.						
+7:46 - 1st;3rd and 9;FRES 31;INCOMPLETE PASS;NA;Da'Mari Scott;Brian Burrell pass incomplete to Da'Mari Scott						
+7:33 - 1st;4th and 9;FRES 31;PUNT;NA;NA;Garrett Swanson punt for 32 yds, downed at the USC 37						
+7:20 - 1st;1st and 10;USC 37;PASS;2;JuJu Smith;Cody Kessler pass complete to JuJu Smith for 2 yds to the USC 39						
+6:57 - 1st;2nd and 8;USC 39;INCOMPLETE PASS;NA;Nelson Agholor;Cody Kessler pass incomplete to Nelson Agholor						
+6:47 - 1st;3rd and 8;USC 39;PASS;23;Javorius Allen;Cody Kessler pass complete to Javorius Allen for 23 yds to the FrsSt 38 for a 1ST down						
+6:18 - 1st;1st and 10;FRES 38;PASS;25;JuJu Smith;Cody Kessler pass complete to JuJu Smith for 25 yds to the FrsSt 13 for a 1ST down						
+6:00 - 1st;1st and 10;FRES 13;RUN;1;Justin Davis;Justin Davis run for 1 yd to the FrsSt 12						
+5:30 - 1st;2nd and 9;FRES 12;RUN;2;Justin Davis;Justin Davis run for 2 yds to the FrsSt 10						
+5:17 - 1st;3rd and 7;FRES 10;PASS;10;Nelson Agholor;Cody Kessler pass complete to Nelson Agholor for 10 yds for a TD, (Andre Heidari KICK)						
+5:17 - 1st;Kickoff;Kickoff;KICKOFF;NA;Da'Mari Scott;Andre Heidari kickoff for 65 yds , Da'Mari Scott return for 19 yds to the FrsSt 19						
+4:52 - 1st;1st and 10;FRES 19;RUN;a;Marteze Waller;Marteze Waller run for a loss of 1 yard to the FrsSt 18						
+4:40 - 1st;2nd and 11;FRES 18;INCOMPLETE PASS;NA;Da'Mari Scott;Brian Burrell pass incomplete to Da'Mari Scott						
+4:22 - 1st;3rd and 11;FRES 18;RUN;32;Brian Burrell;Brian Burrell run for 32 yds to the 50 yard line for a 1ST down						
+4:02 - 1st;1st and 10;50;PASS;2;Marteze Waller;Brian Burrell pass complete to Marteze Waller for 2 yds to the USC 48						
+3:46 - 1st;2nd and 8;USC 48;RUN;2;Marteze Waller;Marteze Waller run for 2 yds to the USC 46						
+3:25 - 1st;3rd and 6;USC 46;INCOMPLETE PASS;NA;Josh Harper,;Brian Burrell pass incomplete to Josh Harper, broken up by Kevon Seymour						
+3:18 - 1st;4th and 6;USC 46;PUNT;NA;NA;Garrett Swanson punt for 31 yds, fair catch by Nelson Agholor at the USC 15						
+3:00 - 1st;1st and 10;USC 15;PASS;53;JuJu Smith;Cody Kessler pass complete to JuJu Smith for 53 yds to the FrsSt 32 for a 1ST down						
+2:47 - 1st;1st and 10;FRES 32;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+2:35 - 1st;2nd and 10;FRES 32;RUN;11;Javorius Allen;Javorius Allen run for 11 yds to the FrsSt 21 for a 1ST down						
+2:22 - 1st;1st and 10;FRES 21;RUN;7;Javorius Allen;Javorius Allen run for 7 yds to the FrsSt 14						
+2:00 - 1st;2nd and 3;FRES 14;RUN;2;Javorius Allen;Javorius Allen run for 2 yds to the FrsSt 12						
+1:37 - 1st;3rd and 1;FRES 12;RUN;3;Cody Kessler;Cody Kessler run for 3 yds to the FrsSt 9 for a 1ST down						
+1:21 - 1st;1st and 0;FRES 9;RUN;4;Justin Davis;Justin Davis run for 4 yds to the FrsSt 5						
+1:04 - 1st;2nd and 0;FRES 5;PASS;5;Nelson Agholor;Cody Kessler pass complete to Nelson Agholor for 5 yds for a TD, (Andre Heidari KICK)						
+1:04 - 1st;Kickoff;Kickoff;KICKOFF;NA;Da'Mari Scott;Andre Heidari kickoff for 65 yds , Da'Mari Scott return for 25 yds to the FrsSt 25						
+0:47 - 1st;1st and 10;FRES 25;RUN;4;Marteze Waller;Marteze Waller run for 4 yds to the FrsSt 29						
+0:34 - 1st;2nd and 6;FRES 29;RUN;1;Brian Burrell;Brian Burrell run for 1 yd to the FrsSt 30						
+0:00 - 1st;3rd and 5;FRES 30;RUN;5;Marteze Waller;Marteze Waller run for 5 yds to the FrsSt 35 FRESNO ST Penalty, Illegal Block (LeKendrick Williams) to the FrsSt 20						
+14:51 - 2nd;3rd and 15;FRES 20;PASS;12;Marteze Waller;Brian Burrell pass complete to Marteze Waller for 12 yds to the FrsSt 32						
+14:21 - 2nd;4th and 3;FRES 32;PUNT;NA;NA;Garrett Swanson punt for 38 yds, fair catch by Nelson Agholor at the USC 30						
+14:07 - 2nd;1st and 10;USC 30;RUN;3;Javorius Allen;Javorius Allen run for 3 yds to the USC 33						
+13:50 - 2nd;2nd and 7;USC 33;RUN;9;Javorius Allen;Javorius Allen run for 9 yds to the USC 42 USC Penalty, Illegal Block (JuJu Smith) to the USC 32						
+12:50 - 2nd;2nd and 8;USC 32;PASS;43;JuJu Smith;Cody Kessler pass complete to JuJu Smith for 43 yds to the FrsSt 25 for a 1ST down						
+12:32 - 2nd;1st and 10;FRES 25;RUN;5;Cody Kessler;Cody Kessler run for 5 yds to the FrsSt 20						
+12:20 - 2nd;2nd and 5;FRES 20;RUN;4;Justin Davis;Justin Davis run for 4 yds to the FrsSt 16						
+12:08 - 2nd;3rd and 1;FRES 16;RUN;3;Justin Davis;Justin Davis run for 3 yds to the FrsSt 13 for a 1ST down						
+11:48 - 2nd;1st and 10;FRES 13;INCOMPLETE PASS;NA;Soma Vainuku;Cody Kessler pass incomplete to Soma Vainuku						
+11:38 - 2nd;2nd and 10;FRES 13;RUN;no;Javorius Allen;Javorius Allen run for no gain to the FrsSt 13						
+11:01 - 2nd;3rd and 10;FRES 13;PASS;4;Nelson Agholor;Cody Kessler pass complete to Nelson Agholor for 4 yds to the FrsSt 9						
+10:56 - 2nd;4th and 6;FRES 9;NA;NA;NA;Andre Heidari 27 yd FG GOOD						
+10:56 - 2nd;Kickoff;Kickoff;KICKOFF;NA;NA;Andre Heidari kickoff for 65 yds for a touchback						
+10:47 - 2nd;1st and 10;FRES 25;PASS;8;Malique Micenheimer;Brandon Connette pass complete to Malique Micenheimer for 8 yds to the FrsSt 33						
+10:33 - 2nd;2nd and 2;FRES 33;RUN;2;Brandon Connette;Brandon Connette run for 2 yds to the FrsSt 35 for a 1ST down						
+10:05 - 2nd;1st and 10;FRES 35;RUN;19;Marteze Waller;Marteze Waller run for 19 yds to the USC 46 for a 1ST down						
+10:01 - 2nd;1st and 10;USC 46;INCOMPLETE PASS;NA;Malique Micenheimer;Brandon Connette pass incomplete to Malique Micenheimer						
+9:56 - 2nd;2nd and 10;USC 46;INCOMPLETE PASS;NA;Josh Harper;Brandon Connette pass incomplete to Josh Harper						
+9:38 - 2nd;3rd and 10;USC 46;PASS;8;Malique Micenheimer;Brandon Connette pass complete to Malique Micenheimer for 8 yds to the USC 38						
+9:15 - 2nd;4th and 2;USC 38;RUN;15;Brandon Connette;Brandon Connette run for 15 yds to the USC 23 for a 1ST down						
+8:54 - 2nd;1st and 10;USC 23;RUN;7;Marteze Waller;Marteze Waller run for 7 yds to the USC 16						
+8:29 - 2nd;2nd and 3;USC 16;PASS;10;Malique Micenheimer;Brandon Connette pass complete to Malique Micenheimer for 10 yds to the USC 6 for a 1ST down						
+8:20 - 2nd;1st and 0;USC 6;INCOMPLETE PASS;NA;Josh Harper,;Brandon Connette pass incomplete to Josh Harper, broken up by Kevon Seymour						
+8:12 - 2nd;2nd and 0;USC 6;RUN;2;Brandon Connette;Brandon Connette run for 2 yds to the USC 4						
+7:39 - 2nd;3rd and 0;USC 4;NA;NA;NA;Timeout FRESNO ST, clock 07:39						
+7:30 - 2nd;3rd and 0;USC 4;RUN;3;Brandon Connette;Brandon Connette run for 3 yds to the USC 1						
+6:58 - 2nd;4th and 0;USC 1;RUN;1;Marteze Waller;Marteze Waller run for 1 yd for a TD, (Colin McGuire KICK)						
+6:58 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Nelson Agholor;Garrett Swanson kickoff for 56 yds , Nelson Agholor return for 14 yds to the USC 23						
+6:44 - 2nd;1st and 10;USC 23;RUN;1;Justin Davis;Justin Davis run for 1 yd to the USC 24						
+6:15 - 2nd;2nd and 9;USC 24;PASS;34;Nelson Agholor;Cody Kessler pass complete to Nelson Agholor for 34 yds to the FrsSt 42 for a 1ST down						
+5:57 - 2nd;1st and 10;FRES 42;RUN;no;Justin Davis;Justin Davis run for no gain to the FrsSt 42 Justin Davis fumbled, recovered by FrsSt						
+5:49 - 2nd;1st and 10;FRES 42;INCOMPLETE PASS;NA;Greg Watson;Brandon Connette pass incomplete to Greg Watson						
+5:45 - 2nd;2nd and 10;FRES 42;INCOMPLETE PASS;NA;Josh Harper;Brandon Connette pass incomplete to Josh Harper						
+5:31 - 2nd;3rd and 10;FRES 42;NA;NA;NA;Brandon Connette pass intercepted Gerald Bowman return for 36 yds to the FrsSt 21						
+5:25 - 2nd;1st and 10;FRES 21;INCOMPLETE PASS;NA;Bryce Dixon;Cody Kessler pass incomplete to Bryce Dixon						
+5:19 - 2nd;2nd and 10;FRES 21;RUN;a;Javorius Allen;Javorius Allen run for a loss of 6 yards to the FrsSt 27 Javorius Allen fumbled, forced by Donavon Lewis, recovered by FrsSt Donavon Lewis						
+5:02 - 2nd;1st and 10;FRES 27;RUN;1;Marteze Waller;Marteze Waller run for 1 yd to the FrsSt 28						
+4:40 - 2nd;2nd and 9;FRES 28;RUN;7;Marteze Waller;Marteze Waller run for 7 yds to the FrsSt 35						
+4:31 - 2nd;3rd and 2;FRES 35;INCOMPLETE PASS;NA;NA;Brandon Connette pass incomplete						
+4:19 - 2nd;4th and 2;FRES 35;PUNT;NA;NA;Garrett Swanson punt for 45 yds, fair catch by Nelson Agholor at the USC 20						
+4:00 - 2nd;1st and 10;USC 20;PASS;9;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 9 yds to the USC 29						
+3:50 - 2nd;2nd and 1;USC 29;RUN;2;Javorius Allen;Javorius Allen run for 2 yds to the USC 31 for a 1ST down						
+3:25 - 2nd;1st and 10;USC 31;RUN;5;Cody Kessler;Cody Kessler run for 5 yds to the USC 36						
+3:10 - 2nd;3rd and 5;USC 36;RUN;10;Javorius Allen;Javorius Allen run for 10 yds to the USC 46 for a 1ST down						
+2:55 - 2nd;1st and 10;USC 46;PASS;4;Nelson Agholor;Cody Kessler pass complete to Nelson Agholor for 4 yds to the 50 yard line						
+2:47 - 2nd;2nd and 6;50;INCOMPLETE PASS;NA;Darreus Rogers;Cody Kessler pass incomplete to Darreus Rogers						
+2:31 - 2nd;3rd and 6;50;PASS;5;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 5 yds to the FrsSt 45						
+2:07 - 2nd;4th and 1;FRES 45;RUN;1;Cody Kessler;Cody Kessler run for 1 yd to the FrsSt 44 for a 1ST down						
+2:00 - 2nd;1st and 10;FRES 44;RUN;13;Soma Vainuku;Soma Vainuku run for 13 yds to the FrsSt 31 for a 1ST down						
+1:47 - 2nd;1st and 10;FRES 31;PASS;11;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 11 yds to the FrsSt 20 for a 1ST down						
+1:36 - 2nd;1st and 10;FRES 20;INCOMPLETE PASS;NA;Randall Telfer;Cody Kessler pass incomplete to Randall Telfer						
+1:27 - 2nd;2nd and 10;FRES 20;RUN;2;Javorius Allen;Javorius Allen run for 2 yds to the FrsSt 18						
+0:53 - 2nd;3rd and 8;FRES 18;PASS;18;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 18 yds for a TD, (Andre Heidari KICK)						
+0:53 - 2nd;Kickoff;Kickoff;KICKOFF;NA;NA;Andre Heidari kickoff for 65 yds for a touchback						
+0:49 - 2nd;1st and 10;FRES 25;INCOMPLETE PASS;NA;Da'Mari Scott;Brandon Connette pass incomplete to Da'Mari Scott						
+0:42 - 2nd;2nd and 10;FRES 25;PASS;12;Da'Mari Scott;Brandon Connette pass complete to Da'Mari Scott for 12 yds to the FrsSt 37 for a 1ST down						
+0:29 - 2nd;1st and 10;FRES 37;NA;NA;NA;Brandon Connette pass intercepted Leonard Williams return for 10 yds to the FrsSt 25						
+0:25 - 2nd;1st and 10;FRES 25;RUN;5;Javorius Allen;Javorius Allen run for 5 yds to the FrsSt 20						
+0:23 - 2nd;2nd and 5;FRES 20;NA;NA;NA;Timeout USC, clock 00:23						
+0:16 - 2nd;2nd and 5;FRES 20;PASS;a;George Farmer;Cody Kessler pass complete to George Farmer for a loss of 1 yard to the FrsSt 21						
+0:16 - 2nd;3rd and 6;FRES 21;NA;NA;NA;Timeout USC, clock 00:16						
+0:10 - 2nd;3rd and 6;FRES 21;INCOMPLETE PASS;NA;Nelson Agholor;Cody Kessler pass incomplete to Nelson Agholor						
+0:02 - 2nd;4th and 6;FRES 21;NA;NA;NA;Andre Heidari 39 yd FG MISSED						
+0:00 - 2nd;1st and 10;FRES 21;RUN;a;TEAM run;TEAM run for a loss of 3 yards to the FrsSt 18						
+15:00 - 3rd;Kickoff;Kickoff;KICKOFF;NA;NA;Andre Heidari kickoff for 30 yds						
+14:45 - 3rd;1st and 10;FRES 35;RUN;5;Marteze Waller;Marteze Waller run for 5 yds to the FrsSt 40						
+14:30 - 3rd;2nd and 5;FRES 40;RUN;no;Brian Burrell;Brian Burrell run for no gain to the FrsSt 40						
+14:20 - 3rd;3rd and 5;FRES 40;PASS;11;Marteze Waller;Brian Burrell pass complete to Marteze Waller for 11 yds to the USC 49 for a 1ST down						
+14:10 - 3rd;1st and 10;USC 49;PASS;12;Josh Harper;Brian Burrell pass complete to Josh Harper for 12 yds to the USC 37 for a 1ST down						
+13:40 - 3rd;1st and 10;USC 37;RUN;9;Marteze Waller;Marteze Waller run for 9 yds to the USC 28						
+13:20 - 3rd;2nd and 1;USC 28;RUN;16;Marteze Waller;Marteze Waller run for 16 yds to the USC 12 for a 1ST down						
+13:18 - 3rd;1st and 10;USC 12;RUN;9;Brian Burrell;Brian Burrell run for 9 yds to the USC 3						
+13:05 - 3rd;2nd and 1;USC 3;INCOMPLETE PASS(PENALTY);NA;Harper, Josh,;Burrell, Brian pass incomplete to Harper, Josh, PENALTY USC pass interference (Hawkins, Chris) 1 yards to the USC2, NO PLAY, 1ST DOWN FRESNOST. for a 1ST down						
+12:53 - 3rd;1st and 0;USC 2;RUN;2;Marteze Waller;Marteze Waller run for 2 yds for a TD, (Colin McGuire MISSED)						
+12:53 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Nelson Agholor;Garrett Swanson kickoff for 60 yds , Nelson Agholor return for 10 yds to the USC 15						
+12:41 - 3rd;1st and 10;USC 15;RUN;3;Javorius Allen;Javorius Allen run for 3 yds to the USC 18						
+12:20 - 3rd;2nd and 7;USC 18;RUN;13;Cody Kessler;Cody Kessler run for 13 yds to the USC 31 for a 1ST down						
+11:55 - 3rd;1st and 10;USC 31;RUN;14;Javorius Allen;Javorius Allen run for 14 yds to the USC 45 for a 1ST down						
+11:30 - 3rd;1st and 10;USC 45;RUN;2;Cody Kessler;Cody Kessler run for 2 yds to the USC 47						
+10:55 - 3rd;2nd and 8;USC 47;RUN;3;Justin Davis;Justin Davis run for 3 yds to the 50 yard line						
+10:12 - 3rd;3rd and 5;50;PASS;7;Justin Davis;Cody Kessler pass complete to Justin Davis for 7 yds to the FrsSt 43 for a 1ST down						
+9:47 - 3rd;1st and 10;FRES 43;INCOMPLETE PASS;NA;Nelson Agholor;Cody Kessler pass incomplete to Nelson Agholor						
+9:35 - 3rd;2nd and 10;FRES 43;PASS;32;Victor Blackwell;Cody Kessler pass complete to Victor Blackwell for 32 yds to the FrsSt 11 for a 1ST down						
+9:20 - 3rd;1st and 10;FRES 11;RUN;2;Justin Davis;Justin Davis run for 2 yds to the FrsSt 9						
+8:56 - 3rd;2nd and 8;FRES 9;RUN;9;Javorius Allen;Javorius Allen run for 9 yds for a TD, (Andre Heidari KICK)						
+8:56 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Da'Mari Scott;Andre Heidari kickoff for 59 yds , Da'Mari Scott return for 15 yds to the FrsSt 21						
+8:39 - 3rd;1st and 10;FRES 21;PASS;4;Josh Harper;Brian Burrell pass complete to Josh Harper for 4 yds to the FrsSt 25						
+8:25 - 3rd;2nd and 6;FRES 25;PASS;11;Josh Harper;Brian Burrell pass complete to Josh Harper for 11 yds to the FrsSt 36 for a 1ST down						
+8:10 - 3rd;1st and 10;FRES 36;PASS;14;Josh Harper;Brian Burrell pass complete to Josh Harper for 14 yds to the 50 yard line for a 1ST down						
+7:58 - 3rd;1st and 10;50;RUN;3;Marteze Waller;Marteze Waller run for 3 yds to the USC 47						
+7:29 - 3rd;2nd and 7;USC 47;RUN;16;Marteze Waller;Marteze Waller run for 16 yds to the USC 31 for a 1ST down						
+7:20 - 3rd;1st and 10;USC 31;INCOMPLETE PASS;NA;Josh Harper;Brian Burrell pass incomplete to Josh Harper						
+7:05 - 3rd;2nd and 10;USC 31;NA(PENALTY);NA;NA;Waller, Marteze rush for 2 yards to the USC29, PENALTY FRESNOST holding (Micenheimer, Malique) 10 yards to the USC41, NO PLAY.						
+6:52 - 3rd;2nd and 20;USC 41;NA;NA;NA;Brian Burrell pass intercepted Anthony Sarao return for 8 yds to the USC 40						
+6:39 - 3rd;1st and 10;USC 40;RUN;18;Javorius Allen;Javorius Allen run for 18 yds to the FrsSt 42 for a 1ST down						
+6:18 - 3rd;1st and 10;FRES 42;NA;NA;NA;USC Penalty, False Start (Damien Mama) to the FrsSt 47						
+6:10 - 3rd;1st and 15;FRES 47;RUN;a;Cody Kessler;Cody Kessler run for a loss of 2 yards to the FrsSt 49						
+5:38 - 3rd;2nd and 17;FRES 49;PASS;10;George Farmer;Cody Kessler pass complete to George Farmer for 10 yds to the FrsSt 39						
+5:17 - 3rd;3rd and 6;FRES 39;RUN;3;Justin Davis;Justin Davis run for 3 yds to the FrsSt 36						
+5:10 - 3rd;4th and 3;FRES 36;PASS;14;Justin Davis;Cody Kessler pass complete to Justin Davis for 14 yds to the FrsSt 22 for a 1ST down						
+4:21 - 3rd;1st and 10;FRES 22;PASS;22;Bryce Dixon;Cody Kessler pass complete to Bryce Dixon for 22 yds for a TD, (Andre Heidari KICK)						
+4:21 - 3rd;Kickoff;Kickoff;KICKOFF;NA;NA;Andre Heidari kickoff for 65 yds for a touchback						
+4:13 - 3rd;1st and 10;FRES 25;INCOMPLETE PASS;NA;NA;Brian Burrell pass incomplete						
+4:07 - 3rd;2nd and 10;FRES 25;INCOMPLETE PASS;NA;Josh Harper;Brian Burrell pass incomplete to Josh Harper						
+4:03 - 3rd;3rd and 10;FRES 25;INCOMPLETE PASS;NA;Josh Harper;Brian Burrell pass incomplete to Josh Harper						
+3:56 - 3rd;4th and 10;FRES 25;PUNT;NA;NA;Garrett Swanson punt for 20 yds, punt out-of-bounds at the FrsSt 45						
+3:40 - 3rd;1st and 10;FRES 45;RUN;19;Javorius Allen;Javorius Allen run for 19 yds to the FrsSt 26 for a 1ST down						
+3:30 - 3rd;1st and 10;FRES 26;RUN;2;Javorius Allen;Javorius Allen run for 2 yds to the FrsSt 24						
+3:10 - 3rd;2nd and 8;FRES 24;RUN;1;Javorius Allen;Javorius Allen run for 1 yd to the FrsSt 23 for a 1ST down FRESNO ST Penalty, Face Mask (12 yards) (Jeff Camilli) to the FrsSt 11 for a 1ST down						
+2:47 - 3rd;1st and 10;FRES 11;RUN;11;Soma Vainuku;Soma Vainuku run for 11 yds for a TD, (Andre Heidari KICK)						
+2:47 - 3rd;Kickoff;Kickoff;KICKOFF;NA;NA;Andre Heidari kickoff for 65 yds for a touchback						
+2:40 - 3rd;1st and 10;FRES 25;RUN;a;Dontel James;Dontel James run for a loss of 3 yards to the FrsSt 22						
+2:20 - 3rd;2nd and 13;FRES 22;PASS;9;Josh Harper;Brian Burrell pass complete to Josh Harper for 9 yds to the FrsSt 31						
+1:50 - 3rd;3rd and 4;FRES 31;NA(PENALTY);NA;NA;James, Dontel rush for no gain to the FRESNOST31, PENALTY USC face mask (Pelon, Claude) 15 yards to the FRESNOST46, NO PLAY, 1ST DOWN FRESNOST. for a 1ST down						
+1:30 - 3rd;1st and 10;FRES 46;PASS;11;Delvon Hardaway;Brian Burrell pass complete to Delvon Hardaway for 11 yds to the USC 43 for a 1ST down						
+1:00 - 3rd;1st and 10;USC 43;PASS;6;Josh Harper;Brian Burrell pass complete to Josh Harper for 6 yds to the USC 37						
+0:30 - 3rd;2nd and 4;USC 37;RUN;1;Dontel James;Dontel James run for 1 yd to the USC 36						
+0:20 - 3rd;3rd and 3;USC 36;RUN;no;Dontel James;Dontel James run for no gain to the USC 36						
+0:03 - 3rd;4th and 3;USC 36;RUN;2;Dontel James;Dontel James run for 2 yds to the USC 34						
+0:00 - 3rd;1st and 10;USC 34;RUN;16;James Toland;James Toland run for 16 yds to the 50 yard line for a 1ST down						
+14:49 - 4th;1st and 10;50;RUN;5;James Toland;James Toland run for 5 yds to the FrsSt 45						
+14:20 - 4th;2nd and 5;FRES 45;PASS;10;Victor Blackwell;Max Browne pass complete to Victor Blackwell for 10 yds to the FrsSt 35 USC Penalty, Illegal Block (-11 Yards) to the FrsSt 46						
+14:00 - 4th;2nd and 6;FRES 46;PASS;9;Victor Blackwell;Max Browne pass complete to Victor Blackwell for 9 yds to the FrsSt 37 for a 1ST down						
+13:30 - 4th;1st and 10;FRES 37;PASS;8;Ajene Harris;Max Browne pass complete to Ajene Harris for 8 yds to the FrsSt 29						
+12:50 - 4th;2nd and 2;FRES 29;RUN;1;James Toland;James Toland run for 1 yd to the FrsSt 28						
+11:50 - 4th;3rd and 1;FRES 28;RUN;3;Max Browne;Max Browne run for 3 yds to the FrsSt 25 for a 1ST down						
+11:30 - 4th;1st and 10;FRES 25;RUN;3;James Toland;James Toland run for 3 yds to the FrsSt 22						
+10:51 - 4th;2nd and 7;FRES 22;RUN;no;James Toland;James Toland run for no gain to the FrsSt 22						
+10:15 - 4th;3rd and 7;FRES 22;RUN;a;James Toland;James Toland run for a loss of 2 yards to the FrsSt 24						
+9:49 - 4th;4th and 9;FRES 24;PASS;13;Victor Blackwell;Max Browne pass complete to Victor Blackwell for 13 yds to the FrsSt 11 for a 1ST down						
+9:10 - 4th;1st and 10;FRES 11;RUN;3;James Toland;James Toland run for 3 yds to the FrsSt 8						
+8:43 - 4th;2nd and 7;FRES 8;RUN;a;James Toland;James Toland run for a loss of 4 yards to the FrsSt 12						
+7:55 - 4th;3rd and 11;FRES 12;RUN;8;James Toland;James Toland run for 8 yds to the FrsSt 4						
+7:34 - 4th;4th and 3;FRES 4;INCOMPLETE PASS;NA;Steven Mitchell;Max Browne pass incomplete to Steven Mitchell						
+7:19 - 4th;1st and 10;FRES 4;RUN;8;Dontel James;Dontel James run for 8 yds to the FrsSt 12						
+6:39 - 4th;2nd and 2;FRES 12;PASS;12;Malique Micenheimer;Brandon Connette pass complete to Malique Micenheimer for 12 yds to the FrsSt 24 for a 1ST down FRESNO ST Penalty, Offensive Holding (-10 Yards) to the FrsSt 14 for a 1ST down						
+6:32 - 4th;1st and 10;FRES 14;NA;NA;NA;Brandon Connette sacked by James Toland for a loss of 9 yards to the FrsSt 5 FRESNO ST Penalty, Intentional Grounding (Brandon Connette) to the FrsSt 4						
+6:09 - 4th;2nd and 20;FRES 4;PASS;10;Da'Mari Scott;Brandon Connette pass complete to Da'Mari Scott for 10 yds to the FrsSt 14						
+6:00 - 4th;3rd and 10;FRES 14;RUN;no;Brandon Connette;Brandon Connette run for no gain to the FrsSt 14						
+5:19 - 4th;4th and 10;FRES 14;PUNT;NA;Adoree' Jackson;Garrett Swanson punt for 48 yds , Adoree' Jackson returns for 10 yds to the USC 48						
+5:05 - 4th;1st and 10;USC 48;RUN;8;James Toland;James Toland run for 8 yds to the FrsSt 44						
+4:30 - 4th;2nd and 2;FRES 44;RUN;4;Jahleel Pinner;Jahleel Pinner run for 4 yds to the FrsSt 40 for a 1ST down						
+3:55 - 4th;1st and 10;FRES 40;RUN;2;Jahleel Pinner;Jahleel Pinner run for 2 yds to the FrsSt 38						
+3:20 - 4th;2nd and 8;FRES 38;RUN;7;Max Browne;Max Browne run for 7 yds to the FrsSt 31						
+2:20 - 4th;3rd and 1;FRES 31;RUN;no;James Toland;James Toland run for no gain to the FrsSt 31						
+1:53 - 4th;4th and 1;FRES 31;RUN;no;Max Browne;Max Browne run for no gain to the FrsSt 31						
+1:20 - 4th;1st and 10;FRES 31;RUN;no;Brandon Connette;Brandon Connette run for no gain to the FrsSt 31						
+1:18 - 4th;2nd and 10;FRES 31;PASS;8;Dontel James;Brandon Connette pass complete to Dontel James for 8 yds to the FrsSt 39						
+1:02 - 4th;3rd and 2;FRES 39;NA;NA;NA;Brandon Connette pass intercepted Michael Hutchings return for 6 yds to the FrsSt 33						
+0:45 - 4th;1st and 10;FRES 33;RUN;a;TEAM run;TEAM run for a loss of 1 yard to the FrsSt 34						
+0:00 - 4th;2nd and 11;FRES 34;RUN;a;TEAM run;TEAM run for a loss of 1 yard to the FrsSt 35						

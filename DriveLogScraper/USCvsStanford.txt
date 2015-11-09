@@ -1,0 +1,172 @@
+15:00 - 1st;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Jake Bailey kickoff for 63 yds , Adoree' Jackson return for 22 yds to the USC 24						
+14:50 - 1st;1st and 10;USC 24;RUN;5;Tre Madden;Tre Madden run for 5 yds to the USC 29						
+14:20 - 1st;2nd and 5;USC 29;PASS;3;Tre Madden;Cody Kessler pass complete to Tre Madden for 3 yds to the USC 32						
+14:05 - 1st;3rd and 2;USC 32;RUN;6;Tre Madden;Tre Madden run for 6 yds to the USC 38 for a 1ST down						
+14:00 - 1st;1st and 10;USC 38;RUN;30;Tre Madden;Tre Madden run for 30 yds to the Stanf 32 for a 1ST down						
+13:30 - 1st;1st and 10;STAN 32;RUN;15;Justin Davis;Justin Davis run for 15 yds to the Stanf 17 for a 1ST down						
+13:00 - 1st;1st and 10;STAN 17;RUN;6;Justin Davis;Justin Davis run for 6 yds to the Stanf 11						
+12:30 - 1st;2nd and 4;STAN 11;RUN;4;Tre Madden;Tre Madden run for 4 yds to the Stanf 7 for a 1ST down						
+12:20 - 1st;1st and Goal;STAN 7;PASS;2;Taylor McNamara;Cody Kessler pass complete to Taylor McNamara for 2 yds to the Stanf 5						
+12:05 - 1st;2nd and 0;STAN 5;RUN;5;Tre Madden;Tre Madden run for 5 yds for a TD, (Alex Wood KICK)						
+12:05 - 1st;Kickoff;Kickoff;KICKOFF;NA;Christian McCaffrey;Alex Wood kickoff for 65 yds , Christian McCaffrey return for 18 yds to the Stanf 18						
+12:00 - 1st;1st and 10;STAN 18;PASS;9;Dalton Schultz;Kevin Hogan pass complete to Dalton Schultz for 9 yds to the Stanf 27						
+11:15 - 1st;2nd and 1;STAN 27;RUN;4;Christian McCaffrey;Christian McCaffrey run for 4 yds to the Stanf 31 for a 1ST down						
+10:45 - 1st;1st and 10;STAN 31;PASS;7;Michael Rector;Kevin Hogan pass complete to Michael Rector for 7 yds to the Stanf 38						
+10:10 - 1st;2nd and 3;STAN 38;PASS;8;Christian McCaffrey;Kevin Hogan pass complete to Christian McCaffrey for 8 yds to the Stanf 46 for a 1ST down						
+9:30 - 1st;1st and 10;STAN 46;RUN;9;Christian McCaffrey;Christian McCaffrey run for 9 yds to the USC 45						
+8:45 - 1st;2nd and 1;USC 45;NA;NA;NA;Kevin Hogan sacked by Su'a Cravens for a loss of 9 yards to the Stanf 46						
+8:11 - 1st;3rd and 10;STAN 46;INCOMPLETE PASS;NA;Remound Wright;Kevin Hogan pass incomplete to Remound Wright						
+8:01 - 1st;4th and 10;STAN 46;PUNT;NA;Adoree' Jackson;Alex Robinson punt for 48 yds , Adoree' Jackson returns for no gain to the USC 6						
+8:01 - 1st;1st and 10;USC 6;RUN;6;Ronald Jones;Ronald Jones II run for 6 yds to the USC 12						
+7:45 - 1st;2nd and 4;USC 12;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the USC 14						
+6:58 - 1st;3rd and 2;USC 14;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete USC Penalty, Illegal Formation ( Yards) declined						
+6:46 - 1st;4th and 2;USC 14;PUNT;NA;NA;Kris Albarado punt for 52 yds, downed at the Stanf 34						
+6:20 - 1st;1st and 10;STAN 34;RUN;no;Bryce Love;Bryce Love run for no gain to the Stanf 34						
+6:00 - 1st;2nd and 10;STAN 34;RUN;11;Christian McCaffrey;Christian McCaffrey run for 11 yds to the Stanf 45 for a 1ST down						
+5:40 - 1st;1st and 10;STAN 45;RUN;4;Christian McCaffrey;Christian McCaffrey run for 4 yds to the Stanf 49						
+4:45 - 1st;2nd and 6;STAN 49;RUN;3;Christian McCaffrey;Christian McCaffrey run for 3 yds to the USC 48						
+3:45 - 1st;3rd and 3;USC 48;PASS;11;Trenton Irwin;Kevin Hogan pass complete to Trenton Irwin for 11 yds to the USC 37 for a 1ST down						
+3:30 - 1st;1st and 10;USC 37;PASS;21;Bryce Love;Kevin Hogan pass complete to Bryce Love for 21 yds to the USC 16 for a 1ST down						
+2:55 - 1st;1st and 10;USC 16;INCOMPLETE PASS;NA;Devon Cajuste;Kevin Hogan pass incomplete to Devon Cajuste						
+2:49 - 1st;2nd and 10;USC 16;PASS;16;Austin Hooper;Kevin Hogan pass complete to Austin Hooper for 16 yds for a TD, (Conrad Ukropina KICK)						
+2:49 - 1st;Kickoff;Kickoff;KICKOFF;NA;NA;Jake Bailey kickoff for 65 yds for a touchback						
+2:40 - 1st;1st and 10;USC 25;PASS;31;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 31 yds to the Stanf 44 for a 1ST down						
+2:25 - 1st;1st and 10;STAN 44;RUN;2;Tre Madden;Tre Madden run for 2 yds to the Stanf 42						
+2:05 - 1st;2nd and 8;STAN 42;PASS;11;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 11 yds to the Stanf 31 for a 1ST down						
+2:00 - 1st;1st and 10;STAN 31;RUN;2;Justin Davis;Justin Davis run for 2 yds to the Stanf 29						
+1:30 - 1st;2nd and 8;STAN 29;PASS;23;Justin Davis;Cody Kessler pass complete to Justin Davis for 23 yds to the Stanf 6 for a 1ST down						
+0:53 - 1st;1st and 0;STAN 6;PASS;6;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 6 yds for a TD, (Alex Wood KICK)						
+0:53 - 1st;Kickoff;Kickoff;KICKOFF;NA;NA;Alex Wood kickoff for 65 yds for a touchback						
+0:50 - 1st;1st and 10;STAN 25;RUN;4;Barry Sanders;Barry Sanders run for 4 yds to the Stanf 29						
+0:01 - 1st;2nd and 6;STAN 29;RUN;6;Barry Sanders;Barry Sanders run for 6 yds to the Stanf 35 for a 1ST down						
+15:00 - 2nd;1st and 10;STAN 35;PASS;41;Francis Owusu;Kevin Hogan pass complete to Francis Owusu for 41 yds to the USC 24 for a 1ST down						
+14:20 - 2nd;1st and 10;USC 24;RUN;6;Christian McCaffrey;Christian McCaffrey run for 6 yds to the USC 18						
+14:15 - 2nd;2nd and 4;USC 18;NA(PENALTY);NA;NA;McCaffrey, Christian rush for 3 yards to the USC15, PENALTY STANFORD illegal block (Shuler, Graham) 15 yards to the USC33, NO PLAY.						
+13:15 - 2nd;2nd and 19;USC 33;PASS;9;Dalton Schultz;Kevin Hogan pass complete to Dalton Schultz for 9 yds to the USC 24						
+12:50 - 2nd;3rd and 10;USC 24;INCOMPLETE PASS;NA;Austin Hooper;Kevin Hogan pass incomplete to Austin Hooper						
+12:44 - 2nd;4th and 10;USC 24;NA;NA;NA;Conrad Ukropina 42 yd FG GOOD						
+12:44 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Jake Bailey kickoff for 62 yds , Adoree' Jackson return for 22 yds to the USC 43 USC Penalty, Offensive Holding (10 Yards) to the USC 15						
+12:44 - 2nd;1st and 10;USC 15;NA;NA;NA;USC Penalty, Unsportsmanlike Conduct (JuJu Smith-Schuster) to the USC 8						
+12:40 - 2nd;1st and 17;USC 8;RUN;3;Ronald Jones;Ronald Jones II run for 3 yds to the USC 11						
+12:15 - 2nd;2nd and 14;USC 11;PASS;5;Jones II;Cody Kessler pass complete to Ronald Jones II for 5 yds to the USC 16						
+11:30 - 2nd;3rd and 2;USC 16;RUN;4;Ronald Jones;Ronald Jones II run for 4 yds to the USC 20 for a 1ST down						
+11:00 - 2nd;1st and 10;USC 20;PASS;4;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 4 yds to the USC 24						
+11:00 - 2nd;3rd and 6;USC 24;INCOMPLETE PASS(PENALTY);NA;Smith-Schuster, JuJu;Kessler, Cody pass incomplete to Smith-Schuster, JuJu (Harris, Ronnie), PENALTY STANFORD pass interference (Harris, Ronnie) 7 yards to the USC30, NO PLAY, 1ST DOWN USC.						
+11:00 - 2nd;2nd and 6;USC 24;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+10:30 - 2nd;1st and 10;USC 30;RUN;19;Dominic Davis;Dominic Davis run for 19 yds to the USC 49 for a 1ST down						
+10:00 - 2nd;1st and 10;USC 49;RUN;a;Dominic Davis;Dominic Davis run for a loss of 3 yards to the USC 46						
+9:29 - 2nd;2nd and 13;USC 46;PASS;54;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 54 yds for a TD, (Alex Wood KICK)						
+9:29 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Christian McCaffrey;Alex Wood kickoff for 64 yds , Christian McCaffrey return for 15 yds to the Stanf 16						
+9:00 - 2nd;1st and 10;STAN 16;RUN;1;Christian McCaffrey;Christian McCaffrey run for 1 yd to the Stanf 17						
+8:45 - 2nd;2nd and 9;STAN 17;RUN;22;Kevin Hogan;Kevin Hogan run for 22 yds to the Stanf 39 for a 1ST down						
+8:00 - 2nd;1st and 10;STAN 39;RUN;8;Christian McCaffrey;Christian McCaffrey run for 8 yds to the Stanf 47						
+7:20 - 2nd;2nd and 2;STAN 47;PASS;12;Remound Wright;Kevin Hogan pass complete to Remound Wright for 12 yds to the USC 41 for a 1ST down						
+6:30 - 2nd;1st and 10;USC 41;RUN;1;Christian McCaffrey;Christian McCaffrey run for 1 yd to the USC 40						
+6:05 - 2nd;2nd and 9;USC 40;RUN;10;Christian McCaffrey;Christian McCaffrey run for 10 yds to the USC 30 for a 1ST down						
+5:15 - 2nd;1st and 10;USC 30;RUN;5;Remound Wright;Remound Wright run for 5 yds to the USC 25						
+4:45 - 2nd;2nd and 5;USC 25;PASS;24;Austin Hooper;Kevin Hogan pass complete to Austin Hooper for 24 yds to the USC 1 for a 1ST down						
+3:53 - 2nd;1st and 0;USC 1;RUN;1;Remound Wright;Remound Wright run for 1 yd for a TD, (Conrad Ukropina KICK)						
+3:53 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Jake Bailey kickoff for 65 yds , Adoree' Jackson return for 14 yds to the USC 14						
+3:53 - 2nd;1st and 10;USC 14;PASS;25;Isaac Whitney;Cody Kessler pass complete to Isaac Whitney for 25 yds to the USC 39 for a 1ST down						
+3:15 - 2nd;1st and 10;USC 39;RUN;2;Tre Madden;Tre Madden run for 2 yds to the USC 41						
+2:50 - 2nd;2nd and 8;USC 41;RUN;7;Tre Madden;Tre Madden run for 7 yds to the USC 48						
+2:35 - 2nd;3rd and 1;USC 48;RUN;3;Tre Madden;Tre Madden run for 3 yds to the Stanf 49 for a 1ST down						
+2:05 - 2nd;1st and 10;STAN 49;RUN;2;Justin Davis;Justin Davis run for 2 yds to the Stanf 47						
+1:50 - 2nd;2nd and 8;STAN 47;INCOMPLETE PASS(PENALTY);NA;Smith-Schuster, JuJu;Kessler, Cody pass incomplete to Smith-Schuster, JuJu (Harris, Ronnie), PENALTY USC holding (Wheeler, Chad) 10 yards to the USC43, NO PLAY.						
+1:40 - 2nd;2nd and 18;USC 43;RUN;3;Ronald Jones;Ronald Jones II run for 3 yds to the USC 46						
+1:40 - 2nd;3rd and 15;USC 46;NA;NA;NA;Timeout STANFORD, clock 01:40						
+1:33 - 2nd;3rd and 15;USC 46;NA;NA;NA;Cody Kessler sacked by Joey Alfieri for a loss of 7 yards to the USC 39						
+1:33 - 2nd;4th and 22;USC 39;NA;NA;NA;Timeout STANFORD, clock 01:33						
+1:26 - 2nd;4th and 22;USC 39;PUNT;NA;NA;Kris Albarado punt for 39 yds, fair catch by Christian McCaffrey at the Stanf 22						
+1:15 - 2nd;1st and 10;STAN 22;RUN;3;Remound Wright;Remound Wright run for 3 yds to the Stanf 25						
+1:05 - 2nd;2nd and 7;STAN 25;PASS;24;Austin Hooper;Kevin Hogan pass complete to Austin Hooper for 24 yds to the Stanf 49 for a 1ST down						
+0:45 - 2nd;1st and 10;STAN 49;RUN;2;Remound Wright;Remound Wright run for 2 yds to the USC 49						
+0:24 - 2nd;2nd and 8;USC 49;INCOMPLETE PASS;NA;Francis Owusu;Kevin Hogan pass incomplete to Francis Owusu						
+0:16 - 2nd;3rd and 8;USC 49;RUN;10;Kevin Hogan;Kevin Hogan run for 10 yds to the USC 39 for a 1ST down						
+0:10 - 2nd;1st and 10;USC 39;PASS;22;Dalton Schultz;Kevin Hogan pass complete to Dalton Schultz for 22 yds to the USC 17 for a 1ST down						
+0:08 - 2nd;1st and 10;USC 17;INCOMPLETE PASS;NA;NA;TEAM pass incomplete						
+0:08 - 2nd;2nd and 10;USC 17;NA;NA;NA;Timeout USC, clock 00:08						
+0:03 - 2nd;2nd and 10;USC 17;PASS;17;Devon Cajuste;Kevin Hogan pass complete to Devon Cajuste for 17 yds for a TD, (Conrad Ukropina KICK)						
+0:03 - 2nd;Kickoff;Kickoff;KICKOFF;NA;NA;Jake Bailey kickoff for 30 yds						
+0:01 - 2nd;1st and 10;USC 35;RUN;a;TEAM run;TEAM run for a loss of 1 yard to the USC 34						
+15:00 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Christian McCaffrey;Alex Wood kickoff for 63 yds , Christian McCaffrey return for 23 yds to the Stanf 25						
+14:45 - 3rd;1st and 10;STAN 25;RUN;1;Christian McCaffrey;Christian McCaffrey run for 1 yd to the Stanf 26						
+14:15 - 3rd;2nd and 9;STAN 26;NA;NA;NA;Kevin Hogan sacked by Greg Townsend Jr. for a loss of 2 yards to the Stanf 24						
+14:00 - 3rd;3rd and 11;STAN 24;NA;NA;NA;Kevin Hogan sacked by Anthony Sarao for a loss of 6 yards to the Stanf 18						
+12:47 - 3rd;4th and 17;STAN 18;PUNT;NA;NA;Alex Robinson punt for 22 yds, punt out-of-bounds at the Stanf 40						
+12:45 - 3rd;1st and 10;STAN 40;PASS;a;Tre Madden;Cody Kessler pass complete to Tre Madden for a loss of 5 yards to the Stanf 45						
+12:00 - 3rd;2nd and 15;STAN 45;RUN;5;Justin Davis;Justin Davis run for 5 yds to the Stanf 40						
+11:30 - 3rd;3rd and 10;STAN 40;PASS;7;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 7 yds to the Stanf 33						
+10:45 - 3rd;4th and 3;STAN 33;PASS;13;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 13 yds to the Stanf 20 for a 1ST down						
+10:30 - 3rd;1st and 10;STAN 20;RUN;1;Justin Davis;Justin Davis run for 1 yd to the Stanf 19						
+10:15 - 3rd;2nd and 9;STAN 19;RUN;18;Cody Kessler;Cody Kessler run for 18 yds to the Stanf 1 for a 1ST down						
+10:08 - 3rd;1st and 0;STAN 1;PASS;1;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 1 yd for a TD, (Alex Wood KICK)						
+10:08 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Christian McCaffrey;Alex Wood kickoff for 65 yds , Christian McCaffrey return for 23 yds to the Stanf 23						
+10:00 - 3rd;1st and 10;STAN 23;RUN;3;Christian McCaffrey;Christian McCaffrey run for 3 yds to the Stanf 26						
+9:30 - 3rd;2nd and 7;STAN 26;RUN;4;Christian McCaffrey;Christian McCaffrey run for 4 yds to the Stanf 30						
+8:40 - 3rd;3rd and 3;STAN 30;PASS;4;Devon Cajuste;Kevin Hogan pass complete to Devon Cajuste for 4 yds to the Stanf 34 for a 1ST down						
+7:50 - 3rd;1st and 10;STAN 34;RUN;2;Barry Sanders;Barry Sanders run for 2 yds to the Stanf 36 for a 1ST down USC Penalty, Defensive Holding (Cody Temple) to the Stanf 46 for a 1ST down						
+7:39 - 3rd;1st and 10;STAN 46;NA;NA;NA;Timeout STANFORD, clock 07:39						
+7:35 - 3rd;1st and 10;STAN 46;INCOMPLETE PASS;NA;Christian McCaffrey;Kevin Hogan pass incomplete to Christian McCaffrey						
+7:25 - 3rd;2nd and 10;STAN 46;RUN;8;Christian McCaffrey;Christian McCaffrey run for 8 yds to the USC 46						
+7:00 - 3rd;3rd and 2;USC 46;RUN;22;Remound Wright;Remound Wright run for 22 yds to the USC 24 for a 1ST down						
+6:00 - 3rd;1st and 10;USC 24;RUN;2;Christian McCaffrey;Christian McCaffrey run for 2 yds to the USC 22						
+5:30 - 3rd;2nd and 8;USC 22;INCOMPLETE PASS(PENALTY);NA;McCaffrey, Christian,;Hogan, Kevin pass incomplete to McCaffrey, Christian, PENALTY USC pass interference (Smith, Cameron) 15 yards to the USC7, NO PLAY, 1ST DOWN STANFORD.						
+5:15 - 3rd;1st and Goal;USC 7;RUN;6;Christian McCaffrey;Christian McCaffrey run for 6 yds to the USC 1						
+4:55 - 3rd;2nd and 0;USC 1;RUN;1;Remound Wright;Remound Wright run for 1 yd for a TD, (Conrad Ukropina KICK)						
+4:55 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Jake Bailey kickoff for 61 yds , Adoree' Jackson return for 20 yds to the USC 24						
+4:35 - 3rd;1st and 10;USC 24;PASS;2;Justin Davis;Cody Kessler pass complete to Justin Davis for 2 yds to the USC 26						
+4:03 - 3rd;2nd and 8;USC 26;PASS;7;Isaac Whitney;Cody Kessler pass complete to Isaac Whitney for 7 yds to the USC 33						
+4:03 - 3rd;3rd and 1;USC 33;NA;NA;NA;USC Penalty, Personal Foul (Max Tuerk) to the USC 18						
+3:45 - 3rd;3rd and 16;USC 18;PASS;a;Justin Davis;Cody Kessler pass complete to Justin Davis for a loss of 2 yards to the USC 16						
+3:19 - 3rd;4th and 18;USC 16;PUNT;NA;NA;Kris Albarado punt for 30 yds, punt out-of-bounds at the USC 46						
+3:15 - 3rd;1st and 10;USC 46;RUN;a;Christian McCaffrey;Christian McCaffrey run for a loss of 5 yards to the Stanf 49						
+2:32 - 3rd;2nd and 15;STAN 49;NA;NA;NA;Timeout STANFORD, clock 02:32						
+2:20 - 3rd;2nd and 15;STAN 49;PASS;10;Christian McCaffrey;Kevin Hogan pass complete to Christian McCaffrey for 10 yds to the USC 41						
+2:00 - 3rd;3rd and 5;USC 41;PASS;10;Trenton Irwin;Kevin Hogan pass complete to Trenton Irwin for 10 yds to the USC 31 for a 1ST down						
+0:45 - 3rd;1st and 10;USC 31;RUN;2;Christian McCaffrey;Christian McCaffrey run for 2 yds to the USC 29						
+0:25 - 3rd;2nd and 8;USC 29;RUN;2;Christian McCaffrey;Christian McCaffrey run for 2 yds to the USC 27						
+15:00 - 4th;3rd and 6;USC 27;RUN;10;Kevin Hogan;Kevin Hogan run for 10 yds to the USC 17 for a 1ST down						
+14:30 - 4th;1st and 10;USC 17;RUN;4;Christian McCaffrey;Christian McCaffrey run for 4 yds to the USC 13						
+14:00 - 4th;2nd and 6;USC 13;RUN;2;Christian McCaffrey;Christian McCaffrey run for 2 yds to the USC 11						
+13:30 - 4th;3rd and 4;USC 11;NA;NA;NA;STANFORD Penalty, Delay of Game (-5 Yards) to the USC 16						
+12:30 - 4th;3rd and 9;USC 16;PASS;15;Austin Hooper;Kevin Hogan pass complete to Austin Hooper for 15 yds to the USC 1 for a 1ST down						
+11:55 - 4th;1st and Goal;USC 1;RUN;no;Remound Wright;Remound Wright run for no gain to the USC 1						
+11:21 - 4th;2nd and 0;USC 1;RUN;1;Remound Wright;Remound Wright run for 1 yd for a TD, (Conrad Ukropina KICK)						
+11:21 - 4th;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Jake Bailey kickoff for 62 yds , Adoree' Jackson return for 40 yds to the USC 43						
+11:10 - 4th;1st and 10;USC 43;RUN;12;Justin Davis;Justin Davis run for 12 yds to the Stanf 45 for a 1ST down						
+10:45 - 4th;1st and 10;STAN 45;RUN;3;Justin Davis;Justin Davis run for 3 yds to the Stanf 42						
+10:22 - 4th;2nd and 7;STAN 42;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+10:15 - 4th;3rd and 7;STAN 42;PASS;19;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 19 yds to the Stanf 23 for a 1ST down						
+10:00 - 4th;1st and 10;STAN 23;RUN;1;Ronald Jones;Ronald Jones II run for 1 yd to the Stanf 22						
+9:32 - 4th;2nd and 9;STAN 22;INCOMPLETE PASS;NA;Jalen Greene;Cody Kessler pass incomplete to Jalen Greene						
+9:25 - 4th;3rd and 9;STAN 22;PASS;3;Tre Madden;Cody Kessler pass complete to Tre Madden for 3 yds to the Stanf 19						
+9:19 - 4th;4th and 6;STAN 19;NA;NA;NA;Alex Wood 36 yd FG GOOD						
+9:19 - 4th;Kickoff;Kickoff;KICKOFF;NA;Christian McCaffrey;Alex Wood kickoff for 64 yds , Christian McCaffrey return for 18 yds to the Stanf 19						
+9:15 - 4th;1st and 10;STAN 19;RUN;6;Christian McCaffrey;Christian McCaffrey run for 6 yds to the Stanf 25						
+8:30 - 4th;2nd and 4;STAN 25;RUN;6;Christian McCaffrey;Christian McCaffrey run for 6 yds to the Stanf 31 for a 1ST down						
+8:15 - 4th;1st and 10;STAN 31;NA;NA;NA;STANFORD Penalty, False Start (Joshua Garnett) to the Stanf 26						
+7:30 - 4th;1st and 15;STAN 26;RUN;14;Christian McCaffrey;Christian McCaffrey run for 14 yds to the Stanf 40						
+6:40 - 4th;2nd and 1;STAN 40;RUN;3;Remound Wright;Remound Wright run for 3 yds to the Stanf 43 for a 1ST down						
+6:00 - 4th;1st and 10;STAN 43;RUN;3;Remound Wright;Remound Wright run for 3 yds to the Stanf 46						
+5:30 - 4th;2nd and 7;STAN 46;RUN;no;Remound Wright;Remound Wright run for no gain to the Stanf 46						
+5:00 - 4th;3rd and 7;STAN 46;PASS;19;Christian McCaffrey;Kevin Hogan pass complete to Christian McCaffrey for 19 yds to the USC 35 for a 1ST down						
+4:00 - 4th;1st and 10;USC 35;RUN;1;Christian McCaffrey;Christian McCaffrey run for 1 yd to the USC 34						
+3:00 - 4th;2nd and 9;USC 34;RUN;2;Christian McCaffrey;Christian McCaffrey run for 2 yds to the USC 32						
+2:35 - 4th;3rd and 7;USC 32;RUN;3;Kevin Hogan;Kevin Hogan run for 3 yds to the USC 29						
+2:33 - 4th;4th and 4;USC 29;NA;NA;NA;Timeout USC, clock 02:33						
+2:27 - 4th;4th and 4;USC 29;NA;NA;NA;Conrad Ukropina 46 yd FG GOOD						
+2:27 - 4th;Kickoff;Kickoff;KICKOFF;NA;NA;Jake Bailey kickoff for 65 yds for a touchback						
+2:15 - 4th;1st and 10;USC 25;PASS;4;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 4 yds to the USC 29						
+2:00 - 4th;2nd and 6;USC 29;PASS;15;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 15 yds to the USC 44 for a 1ST down						
+2:00 - 4th;1st and 10;USC 44;NA;NA;NA;USC Penalty, False Start (Max Tuerk) to the USC 39						
+1:35 - 4th;1st and 15;USC 39;PASS;5;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 5 yds to the USC 44						
+1:06 - 4th;2nd and 10;USC 44;PASS;6;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 6 yds to the 50 yard line						
+1:01 - 4th;3rd and 4;50;INCOMPLETE PASS(PENALTY);NA;Rogers, Darreus,;Kessler, Cody pass incomplete to Rogers, Darreus, PENALTY STANFORD pass interference (Murphy, Alameen) 9 yards to the STANFORD41, NO PLAY, 1ST DOWN USC.						
+0:55 - 4th;1st and 10;STAN 41;PASS;21;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 21 yds to the Stanf 20 for a 1ST down						
+0:50 - 4th;1st and 10;STAN 20;NA;NA;NA;USC Penalty, Personal Foul (-15 Yards) to the Stanf 35						
+0:35 - 4th;1st and 25;STAN 35;PASS;12;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 12 yds to the Stanf 23						
+0:25 - 4th;2nd and 13;STAN 23;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+0:14 - 4th;3rd and 13;STAN 23;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+0:04 - 4th;4th and 13;STAN 23;INCOMPLETE PASS;NA;Darreus Rogers;Cody Kessler pass incomplete to Darreus Rogers						
+0:01 - 4th;1st and 10;STAN 23;RUN;a;TEAM run;TEAM run for a loss of 1 yard to the Stanf 22						

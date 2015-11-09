@@ -1,0 +1,179 @@
+15:00 - 1st;Kickoff;Kickoff;KICKOFF;NA;NA;Zane Gonzalez kickoff for 65 yds for a touchback						
+14:47 - 1st;1st and 10;USC 25;PASS;52;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 52 yds to the ArzSt 23 for a 1ST down						
+14:29 - 1st;1st and 10;ASU 23;RUN;2;Tre Madden;Tre Madden run for 2 yds to the ArzSt 21						
+14:00 - 1st;2nd and 8;ASU 21;PASS;10;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 10 yds to the ArzSt 11 for a 1ST down						
+13:49 - 1st;1st and 10;ASU 11;NA;NA;NA;Cody Kessler pass intercepted Kareem Orr return for no gain to the ArzSt 2						
+13:25 - 1st;1st and 10;ASU 2;RUN;61;Demario Richard;Demario Richard run for 61 yds to the USC 37 for a 1ST down						
+13:17 - 1st;1st and 10;USC 37;INCOMPLETE PASS;NA;Ellis Jefferson;Mike Bercovici pass incomplete to Ellis Jefferson						
+12:43 - 1st;2nd and 10;USC 37;RUN;2;Kalen Ballage;Kalen Ballage run for 2 yds to the USC 35						
+12:20 - 1st;3rd and 8;USC 35;PASS;11;D.J. Foster;Mike Bercovici pass complete to D.J. Foster for 11 yds to the USC 24 for a 1ST down						
+11:48 - 1st;1st and 10;USC 24;RUN;1;Demario Richard;Demario Richard run for 1 yd to the USC 23 Demario Richard fumbled, forced by Su'a Cravens, recovered by USC Cyrus Hobbi						
+11:40 - 1st;1st and 10;USC 23;RUN;a;TEAM run;TEAM run for a loss of 9 yards to the USC 14 TEAM fumbled, recovered by USC Cody Kessler						
+11:20 - 1st;2nd and 19;USC 14;PASS;6;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 6 yds to the USC 20						
+10:31 - 1st;3rd and 13;USC 20;PASS;80;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 80 yds for a TD, (Alex Wood KICK)						
+10:31 - 1st;Kickoff;Kickoff;KICKOFF;NA;Tim White;Alex Wood kickoff for 65 yds , Tim White return for 22 yds to the ArzSt 22						
+10:09 - 1st;1st and 10;ASU 22;RUN;14;D.J. Foster;D.J. Foster run for 14 yds to the ArzSt 36 for a 1ST down						
+9:40 - 1st;1st and 10;ASU 36;NA;NA;NA;USC Penalty, Personal Foul (15 Yards) to the USC 49 for a 1ST down						
+9:21 - 1st;1st and 10;USC 49;RUN;15;Kalen Ballage;Kalen Ballage run for 15 yds to the USC 34 for a 1ST down						
+8:48 - 1st;1st and 10;USC 34;RUN;1;Kalen Ballage;Kalen Ballage run for 1 yd to the USC 33						
+7:54 - 1st;2nd and 9;USC 33;PASS;4;Demario Richard;Mike Bercovici pass complete to Demario Richard for 4 yds to the USC 29						
+7:31 - 1st;3rd and 5;USC 29;INCOMPLETE PASS;NA;Devin Lucien;Mike Bercovici pass incomplete to Devin Lucien						
+7:26 - 1st;4th and 5;USC 29;NA;NA;NA;Zane Gonzalez 47 yd FG MISSED						
+7:20 - 1st;1st and 10;USC 30;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+6:54 - 1st;2nd and 10;USC 30;RUN;a;Justin Davis;Justin Davis run for a loss of 1 yard to the USC 29						
+6:28 - 1st;3rd and 11;USC 29;NA;NA;NA;USC Penalty, False Start (Chuma Edoga) to the USC 24						
+6:11 - 1st;3rd and 16;USC 24;RUN;21;Cody Kessler;Cody Kessler run for 21 yds to the USC 45 for a 1ST down						
+6:03 - 1st;1st and 10;USC 45;RUN;5;Justin Davis;Justin Davis run for 5 yds to the 50 yard line						
+6:00 - 1st;2nd and 5;50;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+5:40 - 1st;3rd and 5;50;RUN;a;Tre Madden;Tre Madden run for a loss of 3 yards to the USC 47						
+5:26 - 1st;4th and 8;USC 47;PUNT;NA;Tim White;Kris Albarado punt for 49 yds , Tim White returns for 19 yds to the ArzSt 23						
+5:11 - 1st;1st and 10;ASU 23;RUN;6;Gump Hayes;Gump Hayes run for 6 yds to the ArzSt 29						
+4:29 - 1st;2nd and 4;ASU 29;RUN;2;Mike Bercovici;Mike Bercovici run for 2 yds to the ArzSt 31						
+4:11 - 1st;3rd and 2;ASU 31;NA;NA;NA;USC Penalty, Defensive Offside (5 Yards) to the ArzSt 36 for a 1ST down						
+4:06 - 1st;1st and 10;ASU 36;INCOMPLETE PASS;NA;Kody Kohl;Mike Bercovici pass incomplete to Kody Kohl						
+3:48 - 1st;2nd and 10;ASU 36;RUN;5;Gump Hayes;Gump Hayes run for 5 yds to the ArzSt 41						
+2:55 - 1st;3rd and 5;ASU 41;PASS;4;D.J. Foster;Mike Bercovici pass complete to D.J. Foster for 4 yds to the ArzSt 45						
+2:35 - 1st;4th and 1;ASU 45;PUNT;NA;NA;Matt Haack punt for 35 yds, punt out-of-bounds at the USC 20						
+2:10 - 1st;1st and 10;USC 20;RUN;no;Ronald Jones;Ronald Jones II run for no gain to the USC 20						
+2:00 - 1st;2nd and 10;USC 20;NA;NA;NA;USC Penalty, False Start (Zach Banner) to the USC 15						
+1:42 - 1st;2nd and 15;USC 15;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+1:23 - 1st;3rd and 15;USC 15;PASS;15;Tre Madden;Cody Kessler pass complete to Tre Madden for 15 yds to the USC 30 for a 1ST down						
+1:12 - 1st;1st and 10;USC 30;RUN;11;Ronald Jones;Ronald Jones II run for 11 yds to the USC 41 for a 1ST down						
+0:36 - 1st;1st and 10;USC 41;PASS;NA;Isaac Whitney;Cody Kessler pass complete to Isaac Whitney for no gain to the USC 41						
+0:00 - 1st;2nd and 10;USC 41;PASS;3;Tyler Petite;Cody Kessler pass complete to Tyler Petite for 3 yds to the USC 44						
+14:50 - 2nd;3rd and 7;USC 44;NA;NA;NA;USC Penalty, Offensive Pass Interference (Tyler Petite) to the USC 29						
+14:27 - 2nd;3rd and 22;USC 29;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+14:20 - 2nd;4th and 22;USC 29;PUNT;NA;NA;Kris Albarado punt for 34 yds, punt out-of-bounds at the ArzSt 37						
+14:12 - 2nd;1st and 10;ASU 37;RUN;3;Kalen Ballage;Kalen Ballage run for 3 yds to the ArzSt 40						
+13:31 - 2nd;2nd and 7;ASU 40;NA;NA;NA;Mike Bercovici pass intercepted John Plattenburg return for no gain to the USC 26						
+13:23 - 2nd;1st and 10;USC 26;INCOMPLETE PASS;NA;Steven Mitchell;Cody Kessler pass incomplete to Steven Mitchell Jr.						
+13:01 - 2nd;2nd and 10;USC 26;RUN;1;Tre Madden;Tre Madden run for 1 yd to the USC 27						
+12:40 - 2nd;3rd and 9;USC 27;PASS;13;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 13 yds to the USC 40 for a 1ST down ARIZONA ST Penalty, Roughing Passer (15 Yards) to the ArzSt 45 for a 1ST down						
+12:19 - 2nd;1st and 10;ASU 45;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+12:14 - 2nd;2nd and 10;ASU 45;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+12:00 - 2nd;3rd and 10;ASU 45;PASS;12;Justin Davis;Cody Kessler pass complete to Justin Davis for 12 yds to the ArzSt 33 for a 1ST down						
+11:38 - 2nd;1st and 10;ASU 33;PASS;6;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 6 yds to the ArzSt 27						
+11:29 - 2nd;2nd and 4;ASU 27;INCOMPLETE PASS;NA;Isaac Whitney;Cody Kessler pass incomplete to Isaac Whitney						
+11:22 - 2nd;3rd and 4;ASU 27;PASS;27;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 27 yds for a TD, (Alex Wood KICK)						
+11:22 - 2nd;Kickoff;Kickoff;KICKOFF;NA;NA;Alex Wood kickoff for 65 yds for a touchback						
+10:57 - 2nd;1st and 10;ASU 25;RUN;4;Demario Richard;Demario Richard run for 4 yds to the ArzSt 29						
+10:38 - 2nd;2nd and 6;ASU 29;RUN;5;Demario Richard;Demario Richard run for 5 yds to the ArzSt 34						
+10:17 - 2nd;3rd and 1;ASU 34;PASS;9;Kody Kohl;Mike Bercovici pass complete to Kody Kohl for 9 yds to the ArzSt 43 for a 1ST down						
+9:29 - 2nd;1st and 10;ASU 43;PASS;a;Kalen Ballage;Mike Bercovici pass complete to Kalen Ballage for a loss of 4 yards to the ArzSt 39						
+8:59 - 2nd;2nd and 14;ASU 39;PASS;14;Tim White;Mike Bercovici pass complete to Tim White for 14 yds to the USC 47 for a 1ST down						
+8:36 - 2nd;1st and 10;USC 47;RUN;8;Demario Richard;Demario Richard run for 8 yds to the USC 39						
+7:44 - 2nd;2nd and 2;USC 39;RUN;3;Demario Richard;Demario Richard run for 3 yds to the USC 36 for a 1ST down						
+7:19 - 2nd;1st and 10;USC 36;RUN;2;Kalen Ballage;Kalen Ballage run for 2 yds to the USC 34						
+6:44 - 2nd;2nd and 8;USC 34;RUN;no;Gump Hayes;Gump Hayes run for no gain to the USC 34						
+6:16 - 2nd;3rd and 8;USC 34;INCOMPLETE PASS;NA;Kody Kohl;Mike Bercovici pass incomplete to Kody Kohl						
+6:11 - 2nd;4th and 8;USC 34;NA;NA;NA;Zane Gonzalez 52 yd FG MISSED						
+5:53 - 2nd;1st and 10;USC 34;PASS;12;Tyler Petite;Cody Kessler pass complete to Tyler Petite for 12 yds to the USC 46 for a 1ST down						
+5:11 - 2nd;1st and 10;USC 46;RUN;7;Tre Madden;Tre Madden run for 7 yds to the ArzSt 47						
+4:55 - 2nd;2nd and 3;ASU 47;RUN;a;Tre Madden;Tre Madden run for a loss of 3 yards to the 50 yard line						
+4:11 - 2nd;3rd and 6;50;PASS;45;Adoree' Jackson;Cody Kessler pass complete to Adoree' Jackson for 45 yds to the ArzSt 5 for a 1ST down						
+3:49 - 2nd;1st and Goal;ASU 5;RUN;1;Tre Madden;Tre Madden run for 1 yd to the ArzSt 4						
+3:37 - 2nd;2nd and 0;ASU 4;PASS;4;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 4 yds for a TD, (Alex Wood KICK)						
+3:37 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Tim White;Alex Wood kickoff for 57 yds , Tim White return for 16 yds to the ArzSt 24						
+3:24 - 2nd;1st and 10;ASU 24;PASS;5;D.J. Foster;Mike Bercovici pass complete to D.J. Foster for 5 yds to the ArzSt 29						
+3:14 - 2nd;2nd and 5;ASU 29;PASS;8;Kody Kohl;Mike Bercovici pass complete to Kody Kohl for 8 yds to the ArzSt 37 for a 1ST down						
+2:56 - 2nd;1st and 10;ASU 37;INCOMPLETE PASS;NA;NA;Mike Bercovici pass incomplete						
+2:39 - 2nd;2nd and 10;ASU 37;PASS;22;Kody Kohl;Mike Bercovici pass complete to Kody Kohl for 22 yds to the USC 41 for a 1ST down						
+2:23 - 2nd;1st and 10;USC 41;INCOMPLETE PASS;NA;Tim White;Mike Bercovici pass incomplete to Tim White						
+1:53 - 2nd;2nd and 10;USC 41;RUN;5;Mike Bercovici;Mike Bercovici run for 5 yds to the USC 36						
+1:41 - 2nd;3rd and 5;USC 36;INCOMPLETE PASS;NA;Gump Hayes;Mike Bercovici pass incomplete to Gump Hayes						
+1:36 - 2nd;4th and 5;USC 36;NA;NA;NA;USC Penalty, Defensive Pass Interference (Jonathan Lockett) to the USC 21 for a 1ST down						
+1:17 - 2nd;1st and 10;USC 21;PASS;4;Gump Hayes;Mike Bercovici pass complete to Gump Hayes for 4 yds to the USC 17						
+0:45 - 2nd;2nd and 6;USC 17;RUN;16;Gump Hayes;Gump Hayes run for 16 yds to the USC 1 for a 1ST down						
+0:25 - 2nd;1st and 0;USC 1;RUN;a;Mike Bercovici;Mike Bercovici run for a loss of 3 yards Mike Bercovici fumbled, forced by Delvon Simmons, recovered by USC Chris Hawkins  , return for 94 yds, (Alex Wood KICK)						
+0:19 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Gump Hayes;Alex Wood kickoff for 65 yds , Gump Hayes return for 4 yds to the ArzSt 4 Gump Hayes fumbled, forced by Quinton Powell, recovered by USC Soma Vainuku						
+0:13 - 2nd;1st and Goal;ASU 4;NA;NA;NA;Cody Kessler sacked by Salamo Fiso for a loss of 6 yards to the ArzSt 10						
+0:13 - 2nd;2nd and Goal;ASU 10;NA;NA;NA;Timeout USC, clock 00:13						
+0:07 - 2nd;2nd and Goal;ASU 10;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+0:07 - 2nd;3rd and 0;ASU 10;NA;NA;NA;Timeout USC, clock 00:07						
+0:03 - 2nd;3rd and 0;ASU 10;PASS;10;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 10 yds for a TD, (Alex Wood KICK)						
+0:00 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Tim White;Alex Wood kickoff for 55 yds , Tim White return for 18 yds to the ArzSt 28						
+15:00 - 3rd;Kickoff;Kickoff;KICKOFF;NA;Tim White;Alex Wood kickoff for 65 yds , Tim White return for 16 yds to the ArzSt 16						
+14:24 - 3rd;1st and 10;ASU 16;RUN;a;Kalen Ballage;Kalen Ballage run for a loss of 2 yards to the ArzSt 14						
+14:14 - 3rd;2nd and 12;ASU 14;INCOMPLETE PASS;NA;D.J. Foster;Mike Bercovici pass incomplete to D.J. Foster						
+13:56 - 3rd;3rd and 12;ASU 14;NA;NA;NA;Mike Bercovici sacked by Scott Felix for a loss of 4 yards to the ArzSt 10						
+13:12 - 3rd;4th and 16;ASU 10;PUNT;NA;Adoree' Jackson;Matt Haack punt for 54 yds for a 1ST down , Adoree' Jackson returns for 45 yds to the ARIZONAST 45 for a 1ST down ARIZONA ST Penalty, Face Mask (10 yards) (-10 Yards) to the ArzSt 9 for a 1ST down						
+13:00 - 3rd;1st and Goal;ASU 9;RUN;7;Tre Madden;Tre Madden run for 7 yds to the ArzSt 2						
+12:50 - 3rd;2nd and Goal;ASU 2;RUN;a;Tre Madden;Tre Madden run for a loss of 3 yards to the ArzSt 5						
+12:11 - 3rd;3rd and Goal;ASU 5;NA;NA;NA;Cody Kessler sacked by JoJo Wicker for a loss of 9 yards to the ArzSt 14 Cody Kessler fumbled, forced by JoJo Wicker, recovered by ArzSt Antonio Longino , return for 0 yards						
+12:00 - 3rd;1st and 10;ASU 14;RUN;8;Demario Richard;Demario Richard run for 8 yds to the ArzSt 22						
+11:30 - 3rd;2nd and 2;ASU 22;RUN;9;Demario Richard;Demario Richard run for 9 yds to the ArzSt 31 for a 1ST down						
+10:52 - 3rd;1st and 10;ASU 31;PASS;5;Gump Hayes;Mike Bercovici pass complete to Gump Hayes for 5 yds to the ArzSt 36						
+10:19 - 3rd;2nd and 5;ASU 36;PASS;5;Kody Kohl;Mike Bercovici pass complete to Kody Kohl for 5 yds to the ArzSt 41 for a 1ST down						
+10:10 - 3rd;1st and 10;ASU 41;INCOMPLETE PASS;NA;NA;Mike Bercovici pass incomplete						
+10:03 - 3rd;2nd and 10;ASU 41;INCOMPLETE PASS;NA;Gary Chambers;Mike Bercovici pass incomplete to Gary Chambers						
+9:32 - 3rd;3rd and 10;ASU 41;NA;NA;NA;Mike Bercovici sacked by Cameron Smith for a loss of 9 yards to the ArzSt 32						
+9:20 - 3rd;4th and 19;ASU 32;PUNT;NA;Adoree' Jackson;Matt Haack punt for 54 yds , Adoree' Jackson returns for 8 yds to the USC 22						
+9:00 - 3rd;1st and 10;USC 22;NA;NA;NA;USC Penalty, Illegal Block (-11 Yards) to the USC 11						
+8:42 - 3rd;1st and 21;USC 11;RUN;3;Justin Davis;Justin Davis run for 3 yds to the USC 14						
+8:01 - 3rd;2nd and 18;USC 14;PASS;23;Justin Davis;Cody Kessler pass complete to Justin Davis for 23 yds to the USC 37 for a 1ST down						
+7:36 - 3rd;1st and 10;USC 37;RUN;9;Justin Davis;Justin Davis run for 9 yds to the USC 46						
+7:10 - 3rd;2nd and 1;USC 46;NA;NA;NA;USC Penalty, Offensive Holding (Chad Wheeler) to the USC 36						
+6:59 - 3rd;2nd and 11;USC 36;NA;NA;NA;USC Penalty, False Start (-5 Yards) to the USC 31						
+6:17 - 3rd;2nd and 16;USC 31;RUN;1;Ronald Jones;Ronald Jones II run for 1 yd to the USC 32						
+6:05 - 3rd;3rd and 15;USC 32;INCOMPLETE PASS;NA;Tre Madden;Cody Kessler pass incomplete to Tre Madden						
+5:55 - 3rd;4th and 15;USC 32;PUNT;NA;Gump Hayes;Kris Albarado punt for 52 yds , Gump Hayes returns for 2 yds to the ArzSt 18						
+5:33 - 3rd;1st and 10;ASU 18;RUN;6;Demario Richard;Demario Richard run for 6 yds to the ArzSt 24						
+5:10 - 3rd;2nd and 4;ASU 24;RUN;10;Demario Richard;Demario Richard run for 10 yds to the ArzSt 34 for a 1ST down						
+5:00 - 3rd;1st and 10;ASU 34;INCOMPLETE PASS;NA;NA;Mike Bercovici pass incomplete						
+4:34 - 3rd;2nd and 10;ASU 34;RUN;5;Demario Richard;Demario Richard run for 5 yds to the ArzSt 39						
+4:12 - 3rd;3rd and 5;ASU 39;PASS;13;Tim White;Mike Bercovici pass complete to Tim White for 13 yds to the USC 48 for a 1ST down						
+3:39 - 3rd;1st and 10;USC 48;RUN;4;Kalen Ballage;Kalen Ballage run for 4 yds to the USC 44						
+3:11 - 3rd;2nd and 6;USC 44;RUN;a;Kalen Ballage;Kalen Ballage run for a loss of 1 yard to the USC 45						
+2:38 - 3rd;3rd and 7;USC 45;PASS;33;D.J. Foster;Mike Bercovici pass complete to D.J. Foster for 33 yds to the USC 12 for a 1ST down						
+2:28 - 3rd;1st and 10;USC 12;INCOMPLETE PASS;NA;Demario Richard;Mike Bercovici pass incomplete to Demario Richard						
+2:08 - 3rd;2nd and 10;USC 12;PASS;11;Gary Chambers;Mike Bercovici pass complete to Gary Chambers for 11 yds to the USC 1 for a 1ST down						
+1:55 - 3rd;1st and 0;USC 1;RUN;1;Demario Richard;Demario Richard run for 1 yd for a TD, (Zane Gonzalez KICK)						
+1:55 - 3rd;Kickoff;Kickoff;KICKOFF;NA;NA;Zane Gonzalez kickoff for 65 yds for a touchback						
+1:48 - 3rd;1st and 10;USC 25;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+1:19 - 3rd;2nd and 10;USC 25;RUN;2;Justin Davis;Justin Davis run for 2 yds to the USC 27						
+0:58 - 3rd;3rd and 8;USC 27;PASS;23;Mitchell Jr.;Cody Kessler pass complete to Steven Mitchell Jr. for 23 yds to the 50 yard line for a 1ST down						
+0:22 - 3rd;1st and 10;50;RUN;a;Tre Madden;Tre Madden run for a loss of 2 yards to the USC 48						
+0:14 - 3rd;2nd and 12;USC 48;INCOMPLETE PASS;NA;Christian Tober;Cody Kessler pass incomplete to Christian Tober						
+0:07 - 3rd;3rd and 12;USC 48;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+0:00 - 3rd;4th and 12;USC 48;PUNT;NA;NA;Kris Albarado punt for 52 yds for a touchback						
+14:54 - 4th;1st and 10;ASU 20;INCOMPLETE PASS;NA;Kalen Ballage;Mike Bercovici pass incomplete to Kalen Ballage						
+14:23 - 4th;2nd and 10;ASU 20;RUN;a;Mike Bercovici;Mike Bercovici run for a loss of 1 yard to the ArzSt 19						
+13:44 - 4th;3rd and 11;ASU 19;PASS;4;D.J. Foster;Mike Bercovici pass complete to D.J. Foster for 4 yds to the ArzSt 23						
+13:25 - 4th;4th and 7;ASU 23;PUNT;NA;NA;Matt Haack punt for 42 yds, punt out-of-bounds at the USC 35						
+12:55 - 4th;1st and 10;USC 35;RUN;a;Ronald Jones;Ronald Jones II run for a loss of 1 yard to the USC 34						
+12:40 - 4th;2nd and 11;USC 34;PASS;24;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 24 yds to the ArzSt 42 for a 1ST down						
+12:00 - 4th;1st and 10;ASU 42;RUN;11;Ronald Jones;Ronald Jones II run for 11 yds to the ArzSt 31 for a 1ST down						
+11:29 - 4th;1st and 10;ASU 31;RUN;22;Ronald Jones;Ronald Jones II run for 22 yds to the ArzSt 9 for a 1ST down						
+10:57 - 4th;1st and Goal;ASU 9;RUN;a;Ronald Jones;Ronald Jones II run for a loss of 1 yard to the ArzSt 10						
+10:41 - 4th;2nd and 0;ASU 10;PASS;10;Isaac Whitney;Cody Kessler pass complete to Isaac Whitney for 10 yds for a TD, (Alex Wood KICK)						
+10:41 - 4th;Kickoff;Kickoff;KICKOFF;NA;Tim White;Alex Wood kickoff for 64 yds , Tim White return for 25 yds to the ArzSt 26						
+10:22 - 4th;1st and 10;ASU 26;PASS;3;Demario Richard;Mike Bercovici pass complete to Demario Richard for 3 yds to the ArzSt 29						
+9:29 - 4th;2nd and 7;ASU 29;RUN;6;Demario Richard;Demario Richard run for 6 yds to the ArzSt 35						
+9:04 - 4th;3rd and 1;ASU 35;RUN;6;Kalen Ballage;Kalen Ballage run for 6 yds to the ArzSt 41 for a 1ST down						
+8:54 - 4th;1st and 10;ASU 41;INCOMPLETE PASS;NA;D.J. Foster;Mike Bercovici pass incomplete to D.J. Foster						
+8:48 - 4th;2nd and 10;ASU 41;PASS;10;D.J. Foster;Mike Bercovici pass complete to D.J. Foster for 10 yds to the USC 49 for a 1ST down						
+8:27 - 4th;1st and 10;USC 49;PASS;19;Kody Kohl;Mike Bercovici pass complete to Kody Kohl for 19 yds to the USC 30 for a 1ST down						
+7:57 - 4th;1st and 10;USC 30;PASS;26;Gary Chambers;Mike Bercovici pass complete to Gary Chambers for 26 yds to the USC 4 for a 1ST down						
+7:48 - 4th;1st and Goal;USC 4;INCOMPLETE PASS;NA;Raymond Epps;Mike Bercovici pass incomplete to Raymond Epps						
+7:45 - 4th;2nd and 0;USC 4;RUN;4;Demario Richard;Demario Richard run for 4 yds for a TD, (Zane Gonzalez KICK)						
+7:45 - 4th;Kickoff;Kickoff;KICKOFF;NA;NA;Zane Gonzalez kickoff for 65 yds for a touchback						
+7:45 - 4th;1st and 10;USC 25;NA;NA;NA;USC Penalty, False Start (Chris Brown) to the USC 20						
+7:18 - 4th;1st and 15;USC 20;RUN;8;Justin Davis;Justin Davis run for 8 yds to the USC 28						
+6:39 - 4th;2nd and 7;USC 28;RUN;a;Justin Davis;Justin Davis run for a loss of 2 yards to the USC 26						
+5:32 - 4th;3rd and 9;USC 26;PASS;4;Tyler Petite;Max Browne pass complete to Tyler Petite for 4 yds to the USC 30						
+5:32 - 4th;4th and 5;USC 30;NA;NA;NA;Timeout USC, clock 05:32						
+5:24 - 4th;4th and 5;USC 30;PUNT;NA;NA;Kris Albarado punt for 48 yds, fair catch by Gump Hayes at the ArzSt 22						
+5:18 - 4th;1st and 10;ASU 22;INCOMPLETE PASS;NA;Gary Chambers;Mike Bercovici pass incomplete to Gary Chambers						
+4:59 - 4th;2nd and 10;ASU 22;PASS;14;Gary Chambers;Mike Bercovici pass complete to Gary Chambers for 14 yds to the ArzSt 36 for a 1ST down						
+4:35 - 4th;1st and 10;ASU 36;PASS;40;Gary Chambers;Mike Bercovici pass complete to Gary Chambers for 40 yds to the USC 24 for a 1ST down						
+4:29 - 4th;1st and 10;USC 24;INCOMPLETE PASS;NA;D.J. Foster;Mike Bercovici pass incomplete to D.J. Foster						
+4:10 - 4th;2nd and 10;USC 24;PASS;12;Gary Chambers;Mike Bercovici pass complete to Gary Chambers for 12 yds to the USC 12 for a 1ST down						
+4:02 - 4th;1st and 10;USC 12;INCOMPLETE PASS;NA;Gary Chambers;Mike Bercovici pass incomplete to Gary Chambers						
+3:40 - 4th;2nd and 10;USC 12;NA;NA;NA;Mike Bercovici sacked by Kenny Bigelow Jr. for a loss of 8 yards to the USC 20						
+3:31 - 4th;3rd and 18;USC 20;INCOMPLETE PASS;NA;NA;Mike Bercovici pass incomplete						
+3:24 - 4th;4th and 18;USC 20;INCOMPLETE PASS;NA;Tim White;Mike Bercovici pass incomplete to Tim White						
+2:46 - 4th;1st and 10;USC 20;RUN;8;Ronald Jones;Ronald Jones II run for 8 yds to the USC 28						
+2:05 - 4th;2nd and 2;USC 28;RUN;1;Ronald Jones;Ronald Jones II run for 1 yd to the USC 29						
+1:33 - 4th;3rd and 1;USC 29;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the USC 31 for a 1ST down						
+1:00 - 4th;1st and 10;USC 31;RUN;a;Aca'Cedric Ware;Aca'Cedric Ware run for a loss of 5 yards to the USC 26						
+0:01 - 4th;2nd and 15;USC 26;RUN;a;Aca'Cedric Ware;Aca'Cedric Ware run for a loss of 1 yard to the USC 25						

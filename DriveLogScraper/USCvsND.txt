@@ -1,0 +1,180 @@
+15:00 - 1st;Kickoff;Kickoff;KICKOFF;NA;JuJu Smith-Schuster;Tyler Newsome kickoff for 63 yds , JuJu Smith-Schuster return for 27 yds to the USC 29						
+14:40 - 1st;1st and 10;USC 29;RUN;10;Tre Madden;Tre Madden run for 10 yds to the USC 39 for a 1ST down						
+14:31 - 1st;1st and 10;USC 39;RUN;a;Tre Madden;Tre Madden run for a loss of 1 yard to the USC 38						
+13:50 - 1st;2nd and 11;USC 38;PASS;17;Tre Madden;Cody Kessler pass complete to Tre Madden for 17 yds to the NDame 45 for a 1ST down						
+13:26 - 1st;1st and 10;ND 45;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the NDame 43						
+12:53 - 1st;2nd and 8;ND 43;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+12:46 - 1st;3rd and 8;ND 43;PASS;37;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 37 yds to the NDame 6 for a 1ST down						
+12:23 - 1st;1st and Goal;ND 6;RUN;3;Tre Madden;Tre Madden run for 3 yds to the NDame 3						
+11:53 - 1st;2nd and 0;ND 3;NA;NA;NA;Cody Kessler 3 Yd Run for a TD (Alex Wood Kick)						
+11:53 - 1st;Kickoff;Kickoff;KICKOFF;NA;C.J. Sanders;Alex Wood kickoff for 55 yds , C.J. Sanders return for 15 yds to the NDame 25						
+11:38 - 1st;1st and 10;ND 25;NA;NA;NA;Will Fuller 75 Yd pass from DeShone Kizer (Justin Yoon Kick)						
+11:38 - 1st;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Tyler Newsome kickoff for 46 yds , JuJu Smith-Schuster return for 9 yds to the USC 46 , Adoree' Jackson return for 18 yds to the USC 46						
+11:11 - 1st;1st and 10;USC 46;PASS;8;De'Quan Hampton;Cody Kessler pass complete to De'Quan Hampton for 8 yds to the NDame 46						
+10:55 - 1st;2nd and 2;ND 46;RUN;no;Tre Madden;Tre Madden run for no gain to the NDame 46						
+10:20 - 1st;3rd and 2;ND 46;PASS;15;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 15 yds to the NDame 31 for a 1ST down						
+10:00 - 1st;1st and 10;ND 31;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+9:45 - 1st;2nd and 10;ND 31;RUN;3;Justin Davis;Justin Davis run for 3 yds to the NDame 28						
+9:16 - 1st;3rd and 7;ND 28;PASS;3;Justin Davis;Cody Kessler pass complete to Justin Davis for 3 yds to the NDame 25						
+8:46 - 1st;4th and 4;ND 25;NA;NA;NA;Alex Wood 42 yd FG GOOD						
+8:46 - 1st;Kickoff;Kickoff;KICKOFF;NA;C.J. Sanders;Alex Wood kickoff for 58 yds , C.J. Sanders return for 18 yds to the NDame 25						
+8:26 - 1st;1st and 10;ND 25;RUN;31;C.J. Prosise;C.J. Prosise run for 31 yds to the USC 44 for a 1ST down						
+8:05 - 1st;1st and 10;USC 44;PASS(PENALTY);loss;Carlisle, Amir;Kizer, DeShone pass complete to Carlisle, Amir for loss of 3 yards to the USC47, PENALTY NOTREDAME holding 10 yards to the NOTREDAME46, NO PLAY.						
+7:24 - 1st;1st and 20;ND 46;PASS;19;Chris Brown;DeShone Kizer pass complete to Chris Brown for 19 yds to the USC 35						
+6:59 - 1st;2nd and 1;USC 35;RUN;5;C.J. Prosise;C.J. Prosise run for 5 yds to the USC 30 for a 1ST down						
+6:37 - 1st;1st and 10;USC 30;NA;NA;NA;USC Penalty, Defensive Offside (Noah Jefferson) to the USC 25						
+6:20 - 1st;1st and 5;USC 25;RUN;25;C.J. Prosise;C.J. Prosise run for 25 yds for a TD, (Justin Yoon KICK)						
+6:20 - 1st;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Tyler Newsome kickoff for 65 yds , Adoree' Jackson return for 21 yds to the USC 21						
+6:03 - 1st;1st and 10;USC 21;RUN;a;Dominic Davis;Dominic Davis run for a loss of 3 yards to the USC 18						
+5:37 - 1st;2nd and 13;USC 18;PASS;5;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 5 yds to the USC 23						
+5:10 - 1st;3rd and 8;USC 23;INCOMPLETE PASS;NA;Jahleel Pinner;Cody Kessler pass incomplete to Jahleel Pinner						
+5:04 - 1st;4th and 8;USC 23;NA;NA;NA;Amir Carlisle 5 Yd Return of Blocked Punt (Justin Yoon Kick)						
+4:56 - 1st;1st and 10;USC 25;PASS;6;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 6 yds to the USC 31						
+4:31 - 1st;2nd and 4;USC 31;INCOMPLETE PASS;NA;Darreus Rogers;Cody Kessler pass incomplete to Darreus Rogers						
+4:25 - 1st;3rd and 4;USC 31;PASS;6;Tre Madden;Cody Kessler pass complete to Tre Madden for 6 yds to the USC 37 for a 1ST down						
+3:56 - 1st;1st and 10;USC 37;NA;NA;NA;USC Penalty, False Start (Viane Talamaivao) to the USC 32						
+3:27 - 1st;1st and 15;USC 32;INCOMPLETE PASS;NA;Darreus Rogers;Cody Kessler pass incomplete to Darreus Rogers						
+3:15 - 1st;2nd and 15;USC 32;RUN;32;Justin Davis;Justin Davis run for 32 yds to the NDame 36 for a 1ST down						
+2:34 - 1st;1st and 10;ND 36;RUN;no;Justin Davis;Justin Davis run for no gain to the NDame 36						
+1:59 - 1st;2nd and 10;ND 36;PASS;2;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 2 yds to the NDame 34						
+1:19 - 1st;3rd and 8;ND 34;PASS(PENALTY);17;Davis, Justin;Kessler, Cody pass complete to Davis, Justin for 17 yards to the NOTREDAME17, PENALTY USC pass interference (Hampton, De'Quan) 15 yards to the NOTREDAME49, NO PLAY.						
+0:43 - 1st;3rd and 23;ND 49;PASS;11;Darreus Rogers;Cody Kessler pass complete to Darreus Rogers for 11 yds to the NDame 38						
+0:04 - 1st;4th and 12;ND 38;INCOMPLETE PASS;NA;Justin Davis,;Cody Kessler pass incomplete to Justin Davis, broken up by James Onwualu						
+0:00 - 1st;1st and 10;ND 38;PASS;12;C.J. Prosise;DeShone Kizer pass complete to C.J. Prosise for 12 yds to the 50 yard line for a 1ST down						
+14:51 - 2nd;1st and 10;ND 49;RUN;5;DeShone Kizer;DeShone Kizer run for 5 yds to the USC 46						
+14:20 - 2nd;2nd and 5;USC 46;RUN;3;C.J. Prosise;C.J. Prosise run for 3 yds to the USC 43						
+13:56 - 2nd;3rd and 2;USC 43;PASS;7;Chris Brown;DeShone Kizer pass complete to Chris Brown for 7 yds to the USC 36 for a 1ST down						
+13:26 - 2nd;1st and 10;USC 36;RUN;16;DeShone Kizer;DeShone Kizer run for 16 yds to the USC 20 for a 1ST down						
+12:51 - 2nd;1st and 10;USC 20;PASS;3;Alize Jones;DeShone Kizer pass complete to Alize Jones for 3 yds to the USC 17						
+12:12 - 2nd;2nd and 7;USC 17;RUN;5;DeShone Kizer;DeShone Kizer run for 5 yds to the USC 12						
+11:36 - 2nd;3rd and 2;USC 12;RUN;3;DeShone Kizer;DeShone Kizer run for 3 yds to the USC 9 for a 1ST down						
+10:55 - 2nd;1st and Goal;USC 9;PASS;9;Hunter Jr.;DeShone Kizer pass complete to Torii Hunter Jr. for 9 yds Torii Hunter Jr. fumbled, forced by Adoree' Jackson, recovered by USC Cameron Smith						
+10:47 - 2nd;1st and 10;USC 20;RUN;2;Ronald Jones;Ronald Jones II run for 2 yds to the USC 22						
+10:26 - 2nd;2nd and 8;USC 22;NA;NA;NA;USC Penalty, False Start (Chad Wheeler) to the USC 17						
+10:11 - 2nd;2nd and 13;USC 17;INCOMPLETE PASS;NA;Ronald Jones;Cody Kessler pass incomplete to Ronald Jones II						
+9:59 - 2nd;3rd and 13;USC 17;RUN;7;Tre Madden;Tre Madden run for 7 yds to the USC 24						
+9:29 - 2nd;4th and 6;USC 24;PUNT;NA;C.J. Sanders;Kris Albarado punt for 44 yds , C.J. Sanders returns for 25 yds to the USC 43						
+9:23 - 2nd;1st and 10;USC 43;INCOMPLETE PASS;NA;C.J. Prosise;DeShone Kizer pass incomplete to C.J. Prosise						
+9:22 - 2nd;2nd and 10;USC 43;NA;NA;NA;NOTRE DAME Penalty, False Start (Alex Bars) to the USC 48						
+9:01 - 2nd;2nd and 15;USC 48;PASS;6;C.J. Prosise;DeShone Kizer pass complete to C.J. Prosise for 6 yds to the USC 42						
+8:34 - 2nd;3rd and 9;USC 42;PASS;12;Chris Brown;DeShone Kizer pass complete to Chris Brown for 12 yds to the USC 30 for a 1ST down						
+8:06 - 2nd;1st and 10;USC 30;RUN;1;C.J. Prosise;C.J. Prosise run for 1 yd to the USC 29						
+7:27 - 2nd;2nd and 9;USC 29;RUN;26;Josh Adams;Josh Adams run for 26 yds to the USC 3 for a 1ST down						
+7:08 - 2nd;1st and Goal;USC 3;RUN;a;DeShone Kizer;DeShone Kizer run for a loss of 2 yards to the USC 5						
+6:39 - 2nd;2nd and Goal;USC 5;PASS(PENALTY);NA;Adams, Josh;Kizer, DeShone pass complete to Adams, Josh for no gain to the USC5, PENALTY NOTREDAME holding (Luatua, Tyler) 10 yards to the USC15, NO PLAY.						
+6:10 - 2nd;2nd and Goal;USC 15;INCOMPLETE PASS;NA;C.J. Prosise;DeShone Kizer pass incomplete to C.J. Prosise						
+6:03 - 2nd;3rd and Goal;USC 15;INCOMPLETE PASS;NA;Alize Jones,;DeShone Kizer pass incomplete to Alize Jones, broken up by Marvell Tell III						
+5:59 - 2nd;4th and 0;USC 15;NA;NA;NA;Justin Yoon 32 yd FG GOOD						
+5:59 - 2nd;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Tyler Newsome kickoff for 52 yds , Adoree' Jackson return for 12 yds to the USC 25						
+5:41 - 2nd;1st and 10;USC 25;PASS;75;JuJu Smith-Schuster;Jalen Greene pass complete to JuJu Smith-Schuster for 75 yds for a TD, (Alex Wood KICK)						
+5:41 - 2nd;Kickoff;Kickoff;KICKOFF;NA;C.J. Sanders;Alex Wood kickoff for 61 yds , C.J. Sanders return for 30 yds to the NDame 34						
+5:21 - 2nd;1st and 10;ND 34;PASS;4;Alize Jones;DeShone Kizer pass complete to Alize Jones for 4 yds to the NDame 38						
+4:20 - 2nd;2nd and 6;ND 38;PASS;3;C.J. Prosise;DeShone Kizer pass complete to C.J. Prosise for 3 yds to the NDame 41						
+4:14 - 2nd;3rd and 3;ND 41;INCOMPLETE PASS;NA;C.J. Prosise;DeShone Kizer pass incomplete to C.J. Prosise						
+4:04 - 2nd;4th and 3;ND 41;PUNT;NA;NA;DeShone Kizer punt for 43 yds, downed at the USC 16						
+3:52 - 2nd;1st and 10;USC 16;PASS;1;Tyler Petite;Cody Kessler pass complete to Tyler Petite for 1 yd to the USC 17						
+3:17 - 2nd;2nd and 9;USC 17;NA;NA;NA;Adoree' Jackson 83 Yd pass from Cody Kessler (Alex Wood Kick)						
+3:17 - 2nd;Kickoff;Kickoff;KICKOFF;NA;C.J. Sanders;Alex Wood kickoff for 62 yds , C.J. Sanders return for 33 yds to the NDame 36						
+3:01 - 2nd;1st and 10;ND 36;RUN;no;C.J. Prosise;C.J. Prosise run for no gain to the NDame 36						
+2:22 - 2nd;2nd and 10;ND 36;NA;NA;NA;DeShone Kizer sacked by Greg Townsend Jr. for a loss of 1 yard to the NDame 35						
+1:55 - 2nd;3rd and 11;ND 35;NA;NA;NA;DeShone Kizer sacked by Scott Felix for a loss of 8 yards to the NDame 27						
+1:53 - 2nd;4th and 19;ND 27;NA;NA;NA;Timeout USC, clock 01:53						
+1:47 - 2nd;4th and 19;ND 27;PUNT;NA;NA;Tyler Newsome punt for 32 yds, punt out-of-bounds at the USC 41						
+1:39 - 2nd;1st and 10;USC 41;PASS;2;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 2 yds to the USC 43						
+1:17 - 2nd;2nd and 8;USC 43;RUN;no;Cody Kessler;Cody Kessler run for no gain to the NDame 43 for a 1ST down NOTRE DAME Penalty, Personal Foul (Sheldon Day) to the NDame 42 for a 1ST down						
+1:07 - 2nd;1st and 10;ND 42;PASS(PENALTY);2;Smith-Schuster, JuJu;Kessler, Cody pass complete to Smith-Schuster, JuJu for 2 yards to the NOTREDAME40, PENALTY USC personal foul (Lobendahn, Toa) 15 yards to the USC43, NO PLAY.						
+0:42 - 2nd;1st and 25;USC 43;PASS;14;Justin Davis;Cody Kessler pass complete to Justin Davis for 14 yds to the NDame 43						
+0:37 - 2nd;2nd and 11;ND 43;PASS;16;Jalen Greene;Cody Kessler pass complete to Jalen Greene for 16 yds to the NDame 27 for a 1ST down						
+0:32 - 2nd;1st and 10;ND 27;INCOMPLETE PASS;NA;Jalen Greene;Cody Kessler pass incomplete to Jalen Greene						
+0:25 - 2nd;2nd and 10;ND 27;INCOMPLETE PASS;NA;JuJu Smith-Schuster;Cody Kessler pass incomplete to JuJu Smith-Schuster						
+0:20 - 2nd;3rd and 10;ND 27;PASS;8;Tyler Petite;Cody Kessler pass complete to Tyler Petite for 8 yds to the NDame 19						
+0:20 - 2nd;4th and 2;ND 19;NA;NA;NA;Timeout NOTRE DAME, clock 00:20						
+0:15 - 2nd;4th and 2;ND 19;NA;NA;NA;Alex Wood 36 yd FG MISSED						
+0:00 - 2nd;1st and 10;ND 20;RUN;a;TEAM run;TEAM run for a loss of 2 yards to the NDame 18						
+15:00 - 3rd;Kickoff;Kickoff;KICKOFF;NA;C.J. Sanders;Alex Wood kickoff for 56 yds , C.J. Sanders return for 17 yds to the NDame 26						
+14:44 - 3rd;1st and 10;ND 26;RUN;6;C.J. Prosise;C.J. Prosise run for 6 yds to the NDame 32						
+14:13 - 3rd;2nd and 4;ND 32;RUN;5;DeShone Kizer;DeShone Kizer run for 5 yds to the NDame 37 for a 1ST down						
+13:38 - 3rd;1st and 10;ND 37;NA;NA;NA;DeShone Kizer sacked by Delvon Simmons for a loss of 9 yards to the NDame 28						
+13:05 - 3rd;2nd and 19;ND 28;RUN;8;DeShone Kizer;DeShone Kizer run for 8 yds to the NDame 36						
+12:28 - 3rd;3rd and 11;ND 36;INCOMPLETE PASS;NA;Corey Robinson;DeShone Kizer pass incomplete to Corey Robinson						
+12:15 - 3rd;4th and 11;ND 36;PUNT;NA;NA;Tyler Newsome punt for 44 yds, downed at the USC 20						
+12:06 - 3rd;1st and 10;USC 20;NA(PENALTY);NA;NA;Jones II, Ronald rush for 8 yards to the USC28, PENALTY USC holding (Banner, Zach) 10 yards to the USC10, NO PLAY.						
+11:55 - 3rd;1st and 20;USC 10;RUN;a;Ronald Jones;Ronald Jones II run for a loss of 1 yard to the USC 9						
+11:19 - 3rd;2nd and 21;USC 9;PASS;19;Deontay Burnett;Cody Kessler pass complete to Deontay Burnett for 19 yds to the USC 28						
+10:52 - 3rd;3rd and 2;USC 28;RUN;65;Ronald Jones;Ronald Jones II run for 65 yds to the NDame 7 for a 1ST down						
+10:17 - 3rd;1st and Goal;ND 7;RUN;3;Tre Madden;Tre Madden run for 3 yds to the NDame 4						
+9:40 - 3rd;2nd and 0;ND 4;PASS;4;Taylor McNamara;Cody Kessler pass complete to Taylor McNamara for 4 yds for a TD, (Alex Wood KICK)						
+9:40 - 3rd;Kickoff;Kickoff;KICKOFF;NA;C.J. Sanders;Alex Wood kickoff for 64 yds for a 1ST down , C.J. Sanders return for 22 yds to the NOTREDAME 43 for a 1ST down USC Penalty, Personal Foul (Iman Marshall) to the NDame 38 for a 1ST down						
+9:25 - 3rd;1st and 10;ND 38;RUN;a;C.J. Prosise;C.J. Prosise run for a loss of 3 yards to the NDame 35						
+8:34 - 3rd;2nd and 13;ND 35;PASS;11;Will Fuller;DeShone Kizer pass complete to Will Fuller for 11 yds to the NDame 46						
+8:05 - 3rd;3rd and 2;ND 46;INCOMPLETE PASS;NA;Amir Carlisle;DeShone Kizer pass incomplete to Amir Carlisle						
+7:57 - 3rd;4th and 2;ND 46;PUNT;NA;NA;DeShone Kizer punt for 38 yds, downed at the USC 16						
+7:48 - 3rd;1st and 10;USC 16;PASS;8;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 8 yds to the USC 24						
+7:24 - 3rd;2nd and 2;USC 24;RUN;6;Adoree' Jackson;Adoree' Jackson run for 6 yds to the USC 30 for a 1ST down						
+7:03 - 3rd;1st and 10;USC 30;PASS;6;Jalen Greene;Cody Kessler pass complete to Jalen Greene for 6 yds to the USC 36						
+6:36 - 3rd;2nd and 4;USC 36;RUN;3;Adoree' Jackson;Adoree' Jackson run for 3 yds to the USC 39						
+6:02 - 3rd;3rd and 1;USC 39;RUN;2;Justin Davis;Justin Davis run for 2 yds to the USC 41 for a 1ST down						
+5:29 - 3rd;1st and 10;USC 41;RUN;2;Justin Davis;Justin Davis run for 2 yds to the USC 43						
+5:02 - 3rd;2nd and 8;USC 43;NA;NA;NA;USC Penalty, False Start (Zach Banner) to the USC 38						
+4:31 - 3rd;2nd and 13;USC 38;RUN;10;Justin Davis;Justin Davis run for 10 yds to the USC 48						
+4:16 - 3rd;3rd and 3;USC 48;RUN;3;Justin Davis;Justin Davis run for 3 yds to the NDame 49 for a 1ST down						
+3:42 - 3rd;1st and 10;ND 49;RUN;4;Ronald Jones;Ronald Jones II run for 4 yds to the NDame 45						
+3:07 - 3rd;2nd and 6;ND 45;RUN;1;Ronald Jones;Ronald Jones II run for 1 yd to the NDame 44						
+2:27 - 3rd;3rd and 5;ND 44;INCOMPLETE PASS;NA;Jalen Greene,;Cody Kessler pass incomplete to Jalen Greene, broken up by Isaac Rochell						
+2:20 - 3rd;4th and 5;ND 44;PUNT;NA;NA;Kris Albarado punt for 34 yds, fair catch by C.J. Sanders at the NDame 10						
+2:13 - 3rd;1st and 10;ND 10;RUN;5;C.J. Prosise;C.J. Prosise run for 5 yds to the NDame 15						
+1:49 - 3rd;2nd and 5;ND 15;INCOMPLETE PASS;NA;Corey Robinson,;DeShone Kizer pass incomplete to Corey Robinson, broken up by Su'a Cravens						
+1:39 - 3rd;3rd and 5;ND 15;RUN;23;DeShone Kizer;DeShone Kizer run for 23 yds to the NDame 38 for a 1ST down						
+1:08 - 3rd;1st and 10;ND 38;RUN;10;C.J. Prosise;C.J. Prosise run for 10 yds to the NDame 48 for a 1ST down						
+0:52 - 3rd;1st and 10;ND 48;RUN;1;C.J. Prosise;C.J. Prosise run for 1 yd to the NDame 49						
+0:16 - 3rd;2nd and 9;ND 49;INCOMPLETE PASS(PENALTY);NA;Fuller, Will,;Kizer, DeShone pass incomplete to Fuller, Will, PENALTY USC pass interference (Seymour, Kevon) 15 yards to the USC36, NO PLAY, 1ST DOWN NOTREDAME.						
+0:10 - 3rd;1st and 10;USC 36;INCOMPLETE PASS(PENALTY);NA;Fuller, Will,;Kizer, DeShone pass incomplete to Fuller, Will, PENALTY USC pass interference (Jackson, Adoree') 15 yards to the USC21, NO PLAY, 1ST DOWN NOTREDAME.						
+0:01 - 3rd;1st and 10;USC 21;RUN;3;C.J. Prosise;C.J. Prosise run for 3 yds to the USC 18						
+14:51 - 4th;2nd and 7;USC 18;RUN;12;DeShone Kizer;DeShone Kizer run for 12 yds to the USC 6 for a 1ST down						
+14:26 - 4th;1st and Goal;USC 6;INCOMPLETE PASS;NA;Will Fuller;DeShone Kizer pass incomplete to Will Fuller						
+14:20 - 4th;2nd and 0;USC 6;RUN;6;C.J. Prosise;C.J. Prosise run for 6 yds for a TD, (Justin Yoon KICK)						
+14:20 - 4th;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Tyler Newsome kickoff for 64 yds , Adoree' Jackson return for 33 yds to the USC 34						
+14:03 - 4th;1st and 10;USC 34;PASS;28;Deontay Burnett;Cody Kessler pass complete to Deontay Burnett for 28 yds to the NDame 38 for a 1ST down						
+13:31 - 4th;1st and 10;ND 38;RUN;no;Tre Madden;Tre Madden run for no gain to the NDame 38						
+13:00 - 4th;2nd and 10;ND 38;INCOMPLETE PASS;NA;Deontay Burnett;Cody Kessler pass incomplete to Deontay Burnett						
+12:46 - 4th;3rd and 10;ND 38;NA;NA;NA;Cody Kessler sacked by Isaac Rochell for a loss of 3 yards to the NDame 41						
+12:21 - 4th;4th and 13;ND 41;PUNT;NA;NA;Kris Albarado punt for 32 yds, fair catch by C.J. Sanders at the NDame 9						
+12:14 - 4th;1st and 10;ND 9;RUN;17;C.J. Prosise;C.J. Prosise run for 17 yds to the NDame 26 for a 1ST down						
+11:44 - 4th;1st and 10;ND 26;RUN;25;C.J. Prosise;C.J. Prosise run for 25 yds to the USC 49 for a 1ST down						
+11:07 - 4th;1st and 10;USC 49;PASS;2;C.J. Prosise;DeShone Kizer pass complete to C.J. Prosise for 2 yds to the USC 47						
+10:04 - 4th;2nd and 8;USC 47;PASS;35;Alize Jones;Torii Hunter Jr. pass complete to Alize Jones for 35 yds to the USC 12 for a 1ST down						
+9:51 - 4th;1st and 10;USC 12;INCOMPLETE PASS;NA;Amir Carlisle;DeShone Kizer pass incomplete to Amir Carlisle						
+9:44 - 4th;2nd and 10;USC 12;RUN;2;C.J. Prosise;C.J. Prosise run for 2 yds to the USC 10						
+9:06 - 4th;3rd and 8;USC 10;PASS;10;Corey Robinson;DeShone Kizer pass complete to Corey Robinson for 10 yds for a TD, (Justin Yoon KICK)						
+9:06 - 4th;Kickoff;Kickoff;KICKOFF;NA;Adoree' Jackson;Tyler Newsome kickoff for 63 yds , Adoree' Jackson return for 17 yds to the USC 19						
+8:48 - 4th;1st and 10;USC 19;RUN;4;Tre Madden;Tre Madden run for 4 yds to the USC 23						
+8:18 - 4th;2nd and 6;USC 23;NA;NA;NA;Cody Kessler pass intercepted KeiVarae Russell return for no gain to the NDame 33						
+7:58 - 4th;1st and 10;ND 33;PASS;45;Will Fuller;DeShone Kizer pass complete to Will Fuller for 45 yds to the USC 22 for a 1ST down						
+7:35 - 4th;1st and 10;USC 22;RUN;a;DeShone Kizer;DeShone Kizer run for a loss of 2 yards to the USC 24						
+7:05 - 4th;2nd and 12;USC 24;RUN;no;C.J. Prosise;C.J. Prosise run for no gain to the USC 24						
+6:19 - 4th;3rd and 12;USC 24;PASS;9;C.J. Prosise;DeShone Kizer pass complete to C.J. Prosise for 9 yds to the USC 15						
+5:39 - 4th;4th and 3;USC 15;NA;NA;NA;Justin Yoon 32 yd FG GOOD						
+5:39 - 4th;Kickoff;Kickoff;KICKOFF;NA;NA;Tyler Newsome kickoff for 63 yds						
+5:33 - 4th;1st and 10;USC 35;INCOMPLETE PASS;NA;Tre Madden;Cody Kessler pass incomplete to Tre Madden						
+5:23 - 4th;2nd and 10;USC 35;NA;NA;NA;Cody Kessler pass intercepted Max Redfield return for 19 yds to the USC 32						
+5:16 - 4th;1st and 10;USC 32;RUN;5;C.J. Prosise;C.J. Prosise run for 5 yds to the USC 27						
+4:32 - 4th;2nd and 5;USC 27;RUN;1;C.J. Prosise;C.J. Prosise run for 1 yd to the USC 26						
+3:56 - 4th;3rd and 4;USC 26;NA;NA;NA;Timeout NOTRE DAME, clock 03:56						
+3:47 - 4th;3rd and 4;USC 26;NA;NA;NA;DeShone Kizer sacked by Porter Gustin for a loss of 8 yards to the USC 34						
+3:46 - 4th;4th and 12;USC 34;NA;NA;NA;Timeout USC, clock 03:46						
+3:35 - 4th;4th and 12;USC 34;PUNT;NA;NA;Tyler Newsome punt for 33 yds, downed at the USC 1						
+3:23 - 4th;1st and 10;USC 1;PASS;6;Deontay Burnett;Cody Kessler pass complete to Deontay Burnett for 6 yds to the USC 7						
+3:01 - 4th;2nd and 4;USC 7;PASS;3;Tre Madden;Cody Kessler pass complete to Tre Madden for 3 yds to the USC 10						
+2:38 - 4th;3rd and 1;USC 10;RUN;a;Tre Madden;Tre Madden run for a loss of 3 yards to the USC 7						
+2:28 - 4th;4th and 4;USC 7;NA;NA;NA;Timeout USC, clock 02:28						
+2:19 - 4th;4th and 4;USC 7;PASS;8;Tre Madden;Cody Kessler pass complete to Tre Madden for 8 yds to the USC 15 for a 1ST down						
+2:02 - 4th;1st and 10;USC 15;PASS;17;Tyler Petite;Cody Kessler pass complete to Tyler Petite for 17 yds to the USC 32 for a 1ST down						
+1:33 - 4th;1st and 10;USC 32;PASS;4;Tre Madden;Cody Kessler pass complete to Tre Madden for 4 yds to the USC 36						
+1:13 - 4th;2nd and 6;USC 36;PASS;1;Robby Kolanz;Cody Kessler pass complete to Robby Kolanz for 1 yd to the USC 37						
+1:06 - 4th;3rd and 5;USC 37;INCOMPLETE PASS;NA;NA;Cody Kessler pass incomplete						
+1:01 - 4th;4th and 5;USC 37;PASS;9;Tre Madden;Cody Kessler pass complete to Tre Madden for 9 yds to the USC 46 for a 1ST down						
+0:56 - 4th;1st and 10;USC 46;INCOMPLETE PASS;NA;Tyler Petite,;Cody Kessler pass incomplete to Tyler Petite, broken up by Elijah Shumate						
+0:49 - 4th;2nd and 10;USC 46;PASS;11;JuJu Smith-Schuster;Cody Kessler pass complete to JuJu Smith-Schuster for 11 yds to the NDame 43 for a 1ST down						
+0:42 - 4th;1st and 10;ND 43;RUN;2;Cody Kessler;Cody Kessler run for 2 yds to the NDame 41						
+0:29 - 4th;2nd and 8;ND 41;NA;NA;NA;Cody Kessler sacked by Romeo Okwara for a loss of 6 yards to the NDame 47						
+0:00 - 4th;3rd and 14;ND 47;PASS;6;Justin Davis;Cody Kessler pass complete to Justin Davis for 6 yds to the NDame 41						
